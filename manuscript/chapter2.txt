@@ -36,7 +36,7 @@ The story was simple a kid growing up in a "rough" part of town gets into some t
 
 Expectations + circumstantially defined success = null
 
-Here's a thought, what if success or winning with this whole work and life thing didn't mean:
+Here's a thought, what if success or winning with this whole work and life thing **didn't** mean:
 
 * Work 100% + Life 0% = win
 * Work 0% + Life 100% = win
