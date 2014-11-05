@@ -72,7 +72,7 @@ Again, since the goal of this book is not really to be a fancy 12 step plan to a
 | Average time spent on [_________________]      |    __ hr(s)|
 | TOTAL                                          |   ___ hr(s)| 
 
-**TOTAL SHOULD BE < 168 (unless you are The Doctor and have a Tardis).**
+**TOTAL SHOULD BE < 168 (unless you are The Doctor and have a [Tardis](http://en.wikipedia.org/wiki/TARDIS)).**
 
 
 
