@@ -67,9 +67,9 @@ Again, since the goal of this book is not really to be a fancy 12 step plan to a
 | Average time spent hacking / making / creating |    __ hr(s)|
 | Average time spent playing video games         |    __ hr(s)|
 | Average time spent staring at the wall         |    __ hr(s)|
-| Average time spent on [      ]                 |    __ hr(s)|
-| Average time spent on [      ]                 |    __ hr(s)|
-| Average time spent on [      ]                 |    __ hr(s)| 
+| Average time spent on [_________________]      |    __ hr(s)|
+| Average time spent on [_________________]      |    __ hr(s)|
+| Average time spent on [_________________]      |    __ hr(s)|
 | TOTAL                                          |   ___ hr(s)| 
 
 **TOTAL SHOULD BE < 168 (unless you are The Doctor and have a Tardis).**
