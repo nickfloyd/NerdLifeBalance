@@ -48,7 +48,7 @@ We burn so many cycles trying to keep our heads and our schedules in check so th
 
 Before moving on take a stab at the following exercise. Given that I always hate it when speakers or writers ask me to participate I'll give you the answer: the math does not work and time is not on your side. 
 
-\pagebreak
+------
 
 For those of you who really want to know, let's do the following: to the best of your ability fill in the sections below with a guess of how much time you spend in a week on each thing. Keep in mind, the sum of all time recorded cannot exceed 168 hours (one week). 
 
@@ -56,20 +56,20 @@ Again, since the goal of this book is not really to be a fancy 12 step plan to a
 
 | Act                                            | Time spent |
 |------------------------------------------------|------------|
-| Average time spent sleeping                    |            |
-| Average time spent eating                      |            |
-| Average time spent on the potty                |            |
-| Average time spent getting dressed / showering |            |
-| Average time spent with family                 |            |
-| Average time spent with friends                |            |
-| Average time spent working                     |            |
-| Average time spent driving                     |            |
-| Average time spent hacking / making / creating |            |
-| Average time spent playing video games         |            |
-| Average time spent staring at the wall         |            |
-| Average time spent on [      ]                 |            |
-| Average time spent on [      ]                 |            |
-| Average time spent on [      ]                 |            | 
+| Average time spent sleeping -------------------|            |
+| Average time spent eating ---------------------|            |
+| Average time spent on the potty ---------------|            |
+| Average time spent getting dressed / showering-|            |
+| Average time spent with family ----------------|            |
+| Average time spent with friends ---------------|            |
+| Average time spent working --------------------|            |
+| Average time spent driving --------------------|            |
+| Average time spent hacking / making / creating-|            |
+| Average time spent playing video games --------|            |
+| Average time spent staring at the wall --------|            |
+| Average time spent on [      ] ----------------|            |
+| Average time spent on [      ] ----------------|            |
+| Average time spent on [      ] ----------------|            | 
 
 **TOTAL SHOULD BE < 168 (unless you are The Doctor and have a Tardis).**
 
