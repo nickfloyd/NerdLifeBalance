@@ -1,20 +1,20 @@
-# The problem
+# The Problem
 
 So here's the part where I act like I have seen so much over the past 20 years that I have been able to come up with a logical conclusion to why humanity is, in general, addicted to work and why we have somehow reinvented success to be a hilltop without friends, family and moral absolutes. 
 
-While I hate to disappoint and tell you up front that there is not just one singular issue or broken behavior that leads to work leaching from life or vise versa I have been messing it up long enough to be able run down many of the patterns that tend to destroy the balance.  There is one underlying hum that I'd like I suggest could be the main glitch in the Matrix. I'm not so hubris to think that this vibration in the ship's hull is the cause of all of the breaking points but I do think it's a good place to begin.  
+While I hate to disappoint and tell you up front that there is not just one singular issue or broken behavior that leads to work leaching from life or vise versa I have been messing it up long enough to be able run down many of the patterns that tend to destroy the balance. There is one underlying hum that I'd like I suggest could be the main glitch in the Matrix. I'm not so hubris to think that this vibration in the ship's hull is the cause of all of the breaking points but I do think it's a good place to begin. 
 
-Trying to define the behaviors that tend to drive us to distraction is much  like working on a bug in your code and realizing you've just awoken the never ending hurt locker swarm. You know that just by simple logic there is an end to the ball of yarn you're unraveling but eventually if becomes a journey of faith, fire and fury.  
+Trying to define the behaviors that tend to drive us to distraction is much like working on a bug in your code and realizing you've just awoken the never ending hurt locker swarm. You know that just by simple logic there is an end to the ball of yarn you're unraveling but eventually if becomes a journey of faith, fire and fury. 
 
-This leads us to the fundamental flaw of perceived perfection. Do you remember when you were a kid? A time where you were limited by bedtimes and cash flow?  Ignorance is bliss is it not - to paraphrase the eager to forget the "real life" Cypher. As kids we don't "know better" and we think anything is possible. I draw heavily from my kids unbounded passions when we are working on projects. They have that super power that rips right through the bureaucracy of adulthood and say "I've  got a better idea."  
+This leads us to the fundamental flaw of perceived perfection. Do you remember when you were a kid? A time where you were limited by bedtimes and cash flow? Ignorance is bliss is it not - to paraphrase the eager to forget the "real life" Cypher. As kids we don't "know better" and we think anything is possible. I draw heavily from my kids unbounded passions when we are working on projects. They have that super power that rips right through the bureaucracy of adulthood and say "I've got a better idea." 
 
 It's like blowing into your Nintendo cartridges (you know you did it) knowing that they might work again and "power gloving" right through a problem that had no real answer. We didn't know so we didn't have anything to fear like failure or pretense. 
 
-What would happen if we all lived in a world where we replaced our "you can't" with "let's try."  Our "I have an idea" with "git init, git commit and git push?" I'm not talking about the self help crap of positive thinking; I'm drawing on genuine faith that blowing in the cartridges just might work. 
+What would happen if we all lived in a world where we replaced our "you can't" with "let's try." Our "I have an idea" with "git init, git commit and git push?" I'm not talking about the self help crap of positive thinking; I'm drawing on genuine faith that blowing in the cartridges just might work. 
 
-Consider Thomas Edison when he said, "Many of life's failures are people who did not realize how close they were to success when they gave up."  The point in perfection syndrome  is that if we are always beginning or pursuing  perfect then how will we know we've arrived? 
+Consider Thomas Edison when he said, "Many of life's failures are people who did not realize how close they were to success when they gave up." The point in perfection syndrome is that if we are always beginning or pursuing perfect then how will we know we've arrived? 
 
-The image of the ideal rarely ever maps to reality. This sticks us with a pile of garbage that is effectively ineffective. The pursuit of the perfect has destroyed empires, countries, relationships and really great soft drinks (New Coke, need I say more?).  I wonder if as a race will we ever lay that down?
+The image of the ideal rarely ever maps to reality. This sticks us with a pile of garbage that is effectively ineffective. The pursuit of the perfect has destroyed empires, countries, relationships and really great soft drinks (New Coke, need I say more?). I wonder if as a race will we ever lay that down?
 
 So how do you win at a job that never seems done where the endgame is an illusion? We seem to be at an unimaginable impasse an unfortunate fork in the tale... No, I believe there is an answer and that we can solve for "x" but we'll get to that later, let's finish defining the problem. 
 
@@ -22,7 +22,7 @@ So a top perfection sits the unquenchable human trigger to win, beat the man, pu
 
 Now before we go to far I want to make sure that I am clear about the "recognized and rewarded" piece of this puzzle. I believe that much of the makers, developers and creators who are genuinely excited about what they do are not narcissistic. They talk about what they do because they want everyone else to be just as excited as they are about the "thing" and that's the reward and recognition. 
 
-So far so good, doing really great and exciting things, check. Winning at those things, check. So where's the problem?  
+So far so good, doing really great and exciting things, check. Winning at those things, check. So where's the problem? 
 
 It's success. 
 
@@ -32,7 +32,7 @@ The idea is not that "success" is bad; that's like when people misquote the bibl
 
 The problem is in how success is portrayed and defined. If you were able to escape thoughts of the ["Fresh Prince of Bel-Air"](http://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air) a few sentences back (...making trouble in my neighborhood) then you, my friend, have massive mental fortitude or you've never heard of the pauper made prince TV extravaganza.
 
-The story was simple a kid growing up in a "rough" part of town gets into some trouble and his mom sends him to live with his "auntie" and "uncle" in BelAir. When he gets there he is enthralled by the glamor of it all but he quickly finds that it's not all "perfect."  
+The story was simple a kid growing up in a "rough" part of town gets into some trouble and his mom sends him to live with his "auntie" and "uncle" in BelAir. When he gets there he is enthralled by the glamor of it all but he quickly finds that it's not all "perfect." 
 
 Expectations + circumstantially defined success = null
 
@@ -48,25 +48,34 @@ We burn so many cycles trying to keep our heads and our schedules in check so th
 
 Before moving on take a stab at the following exercise. Given that I always hate it when speakers or writers ask me to participate I'll give you the answer: the math does not work and time is not on your side. 
 
+
+
+
+
 For those of you who really want to know, let's do the following: to the best of your ability fill in the sections below with a guess of how much time you spend in a week on each thing. Keep in mind, the sum of all time recorded cannot exceed 168 hours (one week). 
 
-Again, since the goal of this book is not really to be a fancy 12 step plan to a better you - take this as an opportunity to laugh at the ridiculous nature of our schedules and possibly go share it with friends and family to see how they rank.  Hopefully together we can all gain from thinking about these things in new ways and encourage each other with shared solutions or ideas.
+Again, since the goal of this book is not really to be a fancy 12 step plan to a better you - take this as an opportunity to laugh at the ridiculous nature of our schedules and possibly go share it with friends and family to see how they rank. Hopefully together we can all gain from thinking about these things in new ways and encourage each other with shared solutions or ideas.
 
-Average time spent sleeping:  
-Average time spent eating:  
-Average time spent on the potty:  
-Average time spent getting dressed / showering:  
-Average time spent with family:  
-Average time spent with friends:  
-Average time spent working:  
-Average time spent driving:  
-Average time spent hacking / making / creating:   
-Average time spent playing video games:  
-Average time spent staring at the wall:  
-Average time spent on [              ]:  
-Average time spent on [              ]:  
-Average time spent on [              ]:  
-TOTAL SHOULD BE < 168 (unless you are The Doctor and have a Tardis).
+
+| Act                                            | Time spent |
+|------------------------------------------------|------------|
+| Average time spent sleeping                    |            |
+| Average time spent eating                      |            |
+| Average time spent on the potty                |            |
+| Average time spent getting dressed / showering |            |
+| Average time spent with family                 |            |
+| Average time spent with friends                |            |
+| Average time spent working                     |            |
+| Average time spent driving                     |            |
+| Average time spent hacking / making / creating |            |
+| Average time spent playing video games         |            |
+| Average time spent staring at the wall         |            |
+| Average time spent on [      ]                 |            |
+| Average time spent on [      ]                 |            |
+| Average time spent on [      ]                 |            |
+
+**TOTAL SHOULD BE < 168 (unless you are The Doctor and have a Tardis).**
+
 
 
 
