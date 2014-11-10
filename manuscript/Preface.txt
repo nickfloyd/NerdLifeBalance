@@ -1,0 +1,9 @@
+# Preface
+
+For years now people in technology have been part of some seriously amazing movements in the software industry. To reach these great heights of innovation developers have always accepted that sacrifices have to be made. Often times the unspoken mindset was that you work until the task is done or that more hours often meant more code (good or bad). The idea has traditionally been that if we focus on the tasks and work we will inevitably achieve our goals and everyone will be happy. Most of us can remember working some really long weeks and hitting the "goal" but not feeling very happy.
+
+Here's a challenge for all those who can relate to the scenario of trying to figure out how to compartmentalize: Don't... Instead go for work-life awesome not work life balance.There is no such thing as "work-life balance" or at least the phrase implies something that cannot be; balance assumes equality on both sides. 
+
+The fact is that work and life are not faucets we can turn off and walk away from, so instead of becoming frustrated at trying to compartmentalize we should try to make these aspects of our lives more congruent. Work should fit into our lives not go against it - more like velcro and less like sandpaper.
+
+This book will try to disprove and explain some common work-life myths and behaviors then work to equip you as a human, manager and/or all around geek to be able solve you're own personal conundrum of how win at life and work, how to create amazing things no matter where you are and to be able to successfully do the things that make your inner nerd tick with your friends and family.

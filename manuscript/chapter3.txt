@@ -1,4 +1,4 @@
-# The Behaviors
+-# The Behavior Parables
 
 It seems that we, as the human race, have several different opinions or ideas of what "success" means to us. Whether it's working one hundred hours a week to pull off the amazing project or, like me, taking every opportunity to teach my five kiddos the how's and what's of the things I am passionate about, we all have a perspective. Maybe it's our perceived ideal. Regardless, there is a definition of what we think we should pursue and often times we are willing to fall on many swords to get there. 
 
@@ -35,7 +35,7 @@ What if what we thought was success was wrong? What if we are basing our definit
 
 I'd like to take a minute and look at some of the influencers and behaviors that create these ideal pictures of what we think winning looks like. Keep in mind that these things are not inherently bad per se (much like the money point in the last chapter), but that what we do with them can create the not so favorable scenarios. 
 
-**The death of a Tauntan**
+# The death of a Tauntan
 
 In the Star Wars universe there are creatures known as Tauntans. These omnivores are indigenous to the planet Hoth. Hoth is a super cold planet that is next to uninhabitable save the creatures who called it home and the rebels that were trying to rebuild and regroup on it. 
 
@@ -51,7 +51,7 @@ Think of it like this: You decide that you really have a fondness for cats. You 
 
 I realize the example is contrived, though probable. That is what obsession can look like and it has the ability to rob you of many amazing years. If you find yourself sandwiching your days between energy drinks and melatonin tablets you might want to stop and review what "winning" really looks like to you because you might simply be stuck in a tight loop and eventually you're going to run out of memory and drop dead.
 
-**The Costco Mentality**
+# The Costco Mentality
 
 So you walk into your favorite bulk retailer / warehouse outlet and some of the first things you'll run into are the sample ninjas. These people are highly skilled at getting you to: 1. eat crap off a table you had no hand in preparing and 2. make you want to buy said crap so that you and your family can become addicted to a veritable cornucopia of deathly delights.
 
@@ -61,7 +61,7 @@ Sometimes the mentality of a nerd can be the little locust running through the s
 
 Sampling is not a bad thing at all. Trying out new things can help you learn, grow, develop skills and make you question the status quo. It's just that if all we do is sample we'll never actually get any real thing done. Next time you stroll through the Costco of your field or interest remember to set some "try" constraints for yourself so that you can actually put a meal on the table.
 
-**Infinite Planning**
+# Infinite Planning
 
 Planning is good. It helps us avoid things like project bloat, confusion and give us a general direction to head in. A few years back I began a project with my kids. It was a "zipline." The problems we were trying to solve were simple:
 
@@ -72,13 +72,13 @@ So, like most projects we do together we all sat down and began to plan. We were
 
 Then it hit me: When you gold plate everything you end up with absolutely nothing. We… I was gold plating the plan. Two years later we still had no zip-line until one day I see my now 2 years older kid spin by me in a flurry with one of his belts. Past incidents had taught me to investigate, so I followed him out the door. There is was in all of it's glory, a makeshift zipline. They had found some old tension cable that I had from another project and stringed it between two trees. As he raced down the line, belt in hand, I realized that it's not failure when you plant seeds. Two years later he was inspired, using his own design, to build what I failed to plan. For all you parents out there, take opportunities to dream big with your kids because eventually they will make new, better dreams out of that which we thought was impossible. Just try to time box the conversation so that you don't gold plate you way into a two year delay.
 
-**The Steam powered punch**
+# The Steam powered punch
 
 At the time of this writing there is a move where boxed software and games have moved to an unboxed downloadable content (DLC) model. This approach has gained rapid approval because of the accessibility to user's and their content, creator to user reach and it has opened the door to many creators who simply cannot work in the publisher / creator model. Basically you can buy, download content and play within minutes. It's ingenious, at least as a business model. For those of us who have collector mentalities it becomes a bit of a challenge because when things go on sale in this market place we tend to buy games we probably will never play. If you have a Steam account how many of the games in your library have you actually played? 50%? 30%? 10%?
 
 The idea here is that there is a lot of things that desire our attention and there typically is a lot to be done. We need to learn to sift through the rock to find the gold. Find the best "farming" spot in our lives. We sometimes need to give up the good to experience the great.
 
-**Taking a quantum leap**
+# Taking a quantum leap
 
 I couldn't figure it out and the problem was filling my head like tribbles on a starship. After working for a month on a caching solution for a web application I was doing I felt no closer to the ideal solution then when I started. 
 
@@ -105,7 +105,7 @@ It turns out that my assumptions about the need for caching the data I was cachi
 
 The point is that we can easily miss the whole picture by trying to be a quantum person. Try treating work and life more like Velcro and less like sand paper. You might find that you have a lot to learn from your family and friends.
 
-**Impostor**
+# Impostor
 
 You're starting a new job today. With the new adventure comes loads of excitement, stress, an opportunity to learn something new and perhaps an opportunity to get schooled. Then it happens; the excitement turns to dread. The people you are working with seem to have a Matrix like ability to "jack in" and do anything while you're still working in bullet time. They are making a difference while you fill out docs for Human resources. 
 
@@ -121,7 +121,7 @@ I often ask myself who defines "good enough" and when I ask that question I ofte
 
 As a side note, if you are an impostor one of the best and most riskiest thing you can do is talk to your boss or friend and let them know you want to seek opportunities to learn and grow where you are. You also might be in the wrong place and you simply need to get in the right place to thrive. We have too few hours on this earth to spend them doing something we really have no interest in doing.
 
-**The pain of sand**
+# The pain of sand
 
 You're on a beach, the sun is out and the waves are crashing. It's a beautiful day. You build sand castles with the kiddos and when you're done you decide to go for a quick run. Halfway through your run you realize you have several grains of sand in your britches and all of the running and rubbing has caused you a seriously painful rash.
 
@@ -139,7 +139,7 @@ Shake the sand out as frequently as possible. I've been blessed to have the oppo
 
 Accept that there will be times when you'll have to take the sand but know when it’s time to shake out and clean house.
 
-**I don't want to talk about it**
+# I don't want to talk about it
 
 There is an old proverb that states: "Silence is golden." The origin of this is still uncertain however there are instances of this thought appearing in ancient Egypt, in the Judaic Biblical commentaries (the Midrash) , the English poet Thomas Carlyle referenced it, James Russell Lowell quotes it in 'The Bigelow Papers', in Brian Aldiss' 'The Primal Urge' and even William Shakespeare tips his hat to the thought in "Romeo and Juliet."
 
@@ -155,7 +155,7 @@ This is one of the reasons I feel we should take our passions "home" with us. By
 
 > -- [Linda Sapadin, PH.D](http://psychcentral.com/blog/archives/2012/12/07/talking-to-yourself-a-sign-of-sanity/)
 
-**Going mental**
+# Going mental
 
 Mental illness in the work place and at home is a really serious and challenging problem that this modern workforces faces today. Sadly very little is discussed about it and often those being challenged by problems have limited outlets for fear of being ostracized or cast out with a label.
 
@@ -177,6 +177,6 @@ I know this is a hard thing for us to do, we are heads down in whatever we are d
 
 Reaching out to others in need not only has the power to help someone in need but it has the power to change the world.
 
-**Now what?**
+# Now what?
 
 Ask yourself, what behaviors have been reinforced in the way you work and interact with the world around you. Do those behaviors still seem successful to you now?
