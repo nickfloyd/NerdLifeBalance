@@ -49,9 +49,19 @@ Have you ever caught yourself saying something like, "Once this project is over 
 
 Keep in mind I am not talking about crunch, there will always be that. There will always be times when we have a hack that we need to get out of our head and turn into code or an idea that needs a weekend and half a dozen trips to Home Depot to get done. I think we all have a tendency to be a bit hardheaded which can be a strength to help us persevere. No, I'm not talking about that at all; it's the patterns where we cannot walk away despite the project or activity. It's obsession.
 
-Think of it like this: You decide that you really have a fondness for cats. You can debate quite effectively that they are the sole purpose the internet was invented, you can quickly cite amazing facts about them and they are the topic of every one of your conversations. You have now effectively removed 2-dimensions from your character. Your friends seem to fade away and even your cats think you a bit odd. You are consumed. You get to the end of your life and you realize cleaning cat boxes and hairballs wasn't really all that and end up regretting the time lost.
+Think of it like this: You decide that you really have a fondness for cats. You can debate quite effectively that they are the sole purpose the Internet was invented, you can quickly cite amazing facts about them and they are the topic of every one of your conversations. You have now effectively removed 2-dimensions from your character. Your friends seem to fade away and even your cats think you a bit odd. You are consumed. You get to the end of your life and you realize cleaning cat boxes and hairballs wasn't really all that and end up regretting the time lost.
 
 I realize the example is contrived, though probable. That is what obsession can look like and it has the ability to rob you of many amazing years. If you find yourself sandwiching your days between energy drinks and melatonin tablets you might want to stop and review what "winning" really looks like to you because you might simply be stuck in a tight loop and eventually you're going to run out of memory and drop dead.
+
+Never once in my career has being away from my family, friends or hobbies has ever made anyone fonder of me or me of them. The absurdity of either spending more time physically or mentally at a place called "work" is really deceiving. From the outside, it looks like a developer is killing "it" during those late nights and weekends. I get some of my best software ideas just chatting with my kids about things completely unrelated to software or technology.  Being around those I love helps me be more creative.
+
+The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up.  In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up.  Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long – that's what could happen to us; we will burn out and it could be far worse than simply being tired.
+
+Secondly, this behavior deceives your team and establishes the unrealistic expectation that your projects will always be done in an accelerated timeframe, which will eventually become the expected norm.
+
+Third, it deceives you. I know first hand that burnout will occur and your ability to perform will diminish. We cannot always run as Red Bull-infused developers if we want to continue to deliver great software.
+
+Finally, overworked people often end up changing crafts. There is an economic law, the [law diminishing marginal utility](http://www.investopedia.com/terms/l/lawofdiminishingutility.asp), which states that if you increase the consumption of something (keeping all other things constant) you will eventually lose interest in the thing you consume. Consider a food buffet: the first plate of food is awesome but each subsequent plate drives you deeper into misery and begins to look more like regret than food.
 
 # The Costco Mentality
 
@@ -73,6 +83,12 @@ Planning is good. It helps us avoid things like project bloat, confusion and giv
 So, like most projects we do together we all sat down and began to plan. We were drawing up plans and calculating for tension and sag. About 5 minutes I lost my 2.5 year old, an hour into it my 4 year old dropped out because of boredom, another hour I lost the 5 year old to "chores" (interesting how boredom can be a motivator), and finally roughly 30 minutes later my 7 and 9 year olds stopped the "planning" with one simple question: "Why are we doing this? It doesn't seem like we're actually getting anything done."
 
 Then it hit me: When you gold plate everything you end up with absolutely nothing. We… I was gold plating the plan. Two years later we still had no zip-line until one day I see my now 2 years older kid spin by me in a flurry with one of his belts. Past incidents had taught me to investigate, so I followed him out the door. There is was in all of it's glory, a makeshift zipline. They had found some old tension cable that I had from another project and stringed it between two trees. As he raced down the line, belt in hand, I realized that it's not failure when you plant seeds. Two years later he was inspired, using his own design, to build what I failed to plan. For all you parents out there, take opportunities to dream big with your kids because eventually they will make new, better dreams out of that which we thought was impossible. Just try to time box the conversation so that you don't gold plate you way into a two year delay.
+
+he drive for perfection is unfortunately a journey to insanity. Plain and simple, constantly tweaking something without delivering is a developer's pit of despair.
+
+Ironically, we do this to ourselves because we love our perfect lines, application richness and the mental game of crafting fake criticism.
+
+I've been down this road far too many times – I have even gold plated specifications and documents! The part in every maker, developer, craft person that makes what we do so amazing is that we love to dream. We need to learn how to stop trying to "live the dream" and start iterating on it.
 
 # The Steam powered punch
 
@@ -105,6 +121,14 @@ It turns out that my assumptions about the need for caching the data I was cachi
 
 ***
 
+I have found that attempting to turn off life at work and work at life is often frustrating. Most developers are probably continually mentally working to resolve questions about how their environment works or how to transform a slow process into a faster one.
+
+Being at "work" does not throw a life switch nor does being home involve throwing a "work" switch. Think of this as more of a circuit without a switch: your passion is the power source and work and life are the wires that are attached to what you want to accomplish or do. Instead of having your work ideas compartmentalized why not try talking about them with your friends and family – you might be surprised what happens. Talk to someone at work about things going on in your life. I always wondered when having a personality that you wanted to share at work became taboo; share it, you might find that you might have more in common than just code.
+
+This idea is often misunderstood as: "you're saying think about work all the time" or "I should bring work home and push other stuff to the side?" Not at all! I'm simply pointing out that your inner nerd components, whether it's code, bikes, writing, weight lifting or whatever, are part of you, should be expressed and shared. It will inherently be part of what you love to do and talk about.
+
+Just like a coin has two functional sides in order to be valid currency, we also have these sides as "nerds" that we need to validate as our life currency – find out what your currencies are, share them and watch the excitement spread like wildfire.
+
 The point is that we can easily miss the whole picture by trying to be a quantum person. Try treating work and life more like Velcro and less like sand paper. You might find that you have a lot to learn from your family and friends.
 
 # Impostor
@@ -113,9 +137,9 @@ You're starting a new job today. With the new adventure comes loads of excitemen
 
 Shut it! Let's turn off our emotional roller coasters for a minute and reflect. You made it through the interview, the team hopefully likes you and they wouldn't have hired you unless you had something to commit.
 
-The quickest way to being perceived as an impostor is to act like one. Acting "sketchy" is one way to earn your impostor badge; like you just drank a 2-liter of Mountain Dew through a pixy stick straw. Communicating with partial information, flip-flopping and even exhibiting an always agreeable mode will come across as nonsense .
+The quickest way to being perceived as an impostor is to act like one. Acting "sketchy" is one way to earn your impostor badge; like you just drank a 2-liter of Mountain Dew through a pixie stick straw. Communicating with partial information, flip-flopping and even exhibiting an always agreeable mode will come across as nonsense .
 
-Another way is to act hubris. Being prideful or boastful is one of the quickest ways to discredit yourself and your abilities. Let your "yes" be "yes" and your "no" be "no." There is absolute beauty in respecting simplicity. Can you imagine how much we could get done if we all simply practiced saying, "I don't know."
+Another way is to act with hubris. Being prideful or boastful is one of the quickest ways to discredit yourself and your abilities. Let your "yes" be "yes" and your "no" be "no." There is absolute beauty in respecting simplicity. Can you imagine how much we could get done if we all simply practiced saying, "I don't know."
 
 Here's the crux: When you are comparing yourself and your skills to other people you are doing yourself and your team a disservice. You're putting your eyes on you instead of on what needs to be done. Have you ever told yourself "I'll never be good enough?" Let me let you in on a little secret: you're right. You see, if you constantly put your sights on what everyone else can do how will you ever know what you can do? You are jumping for a block you cannot hit, Mario. Try breaking your own blocks. 
 
