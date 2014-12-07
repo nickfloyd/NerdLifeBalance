@@ -20,7 +20,7 @@ This was not the first time this type of carrot had been dangled in front of him
 
 ***
 
-This is a tight loop we all have the potential to get stuck in. Often, many of us can do our jobs really well and we can succeed in doing them well. *Winning feels good, loosing feels bad.* In the confidence we have we can visualize what success means to us and apply that to our day jobs. The computer programmer might say that her job is not rocket science, the rocket scientist might say his job is not particle physics and the physicist might say their job isn’t as complex as parenting. 
+This is a tight loop we all have the potential to get stuck in. Often, many of us can do our jobs really well and we can succeed in doing them well. *Winning feels good, loosing feels bad.* In the confidence we have we can visualize what success means to us and apply that to our day jobs. The computer programmer might say that her job is not rocket science, the rocket scientist might say his job is not particle physics and the physicist might say their job isn't as complex as parenting. 
 
 I've discovered that there is a correlation to things that are challenging to maintain but highly valuable, such as friendships or marriages. The problem is that because there are unknown factors in things like relationships they can become daunting but tremendously rewarding . These variables make it extraordinarily difficult to solve for x. On the other side things like working a lot has the potential to yield frequent, smaller rewards that are often assured - looking back to the idea of the skinner effect.
 
@@ -57,11 +57,13 @@ Never once in my career has being away from my family, friends or hobbies has ev
 
 The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up.  In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up.  Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long – that's what could happen to us; we will burn out and it could be far worse than simply being tired.
 
-Secondly, this behavior deceives your team and establishes the unrealistic expectation that your projects will always be done in an accelerated timeframe, which will eventually become the expected norm.
+Secondly, this behavior deceives your team and establishes the unrealistic expectation that your projects will always be done in an accelerated time frame, which will eventually become the expected norm.
 
 Third, it deceives you. I know first hand that burnout will occur and your ability to perform will diminish. We cannot always run as Red Bull-infused developers if we want to continue to deliver great software.
 
 Finally, overworked people often end up changing crafts. There is an economic law, the [law diminishing marginal utility](http://www.investopedia.com/terms/l/lawofdiminishingutility.asp), which states that if you increase the consumption of something (keeping all other things constant) you will eventually lose interest in the thing you consume. Consider a food buffet: the first plate of food is awesome but each subsequent plate drives you deeper into misery and begins to look more like regret than food.
+
+*"In Return of the Jedi, Jabba the Hutt has a stuffed and mounted tauntaun head as one of his grisly trophies, right next to the frozen form of Han Solo."* [source: starwars.wikia.com](http://starwars.wikia.com/wiki/Tauntaun)
 
 # The Costco Mentality
 
@@ -71,7 +73,9 @@ Unwittingly places like Costco allow my family in the doors. You see, my childre
 
 Sometimes the mentality of a nerd can be the little locust running through the store. We consume a little of the latest programming language, the most recent build of an OS, the next great cloud service and we leave in the wake little half done projects or bits and pieces of provisioned websites. As the sampling continues we ping the moderators of the frameworks or projects we nibble on and talk about how great feature x and y would be and then turn around and abandon all interest in it because a new thing was put in front of us.
 
-Sampling is not a bad thing at all. Trying out new things can help you learn, grow, develop skills and make you question the status quo. It's just that if all we do is sample we'll never actually get any real thing done. Next time you stroll through the Costco of your field or interest remember to set some "try" constraints for yourself so that you can actually put a meal on the table.
+Sampling is not a bad thing at all. Trying out new things can help you learn, grow, develop skills and make you question the status quo. It's just that if all we do is sample we'll never actually get any real thing done. Next time you stroll through the Costco of your field or interest remember to set some "try" constraints for yourself so that you can actually put a meal on the table. 
+
+*The retailer Costco sells more than 43 million packages of toilet paper every year. So keep eating those samples, they've got you covered.* [source: Costco facebook](https://www.facebook.com/Costco)
 
 # Infinite Planning
 
@@ -90,11 +94,15 @@ Ironically, we do this to ourselves because we love our perfect lines, applicati
 
 I've been down this road far too many times – I have even gold plated specifications and documents! The part in every maker, developer, craft person that makes what we do so amazing is that we love to dream. We need to learn how to stop trying to "live the dream" and start iterating on it.
 
+*"Volo dell' angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h."* [source: Flying in the Sky](http://www.flyinginthesky.it/)
+
 # The Steam powered punch
 
 At the time of this writing there is a move where boxed software and games have moved to an unboxed downloadable content (DLC) model. This approach has gained rapid approval because of the accessibility to user's and their content, creator to user reach and it has opened the door to many creators who simply cannot work in the publisher / creator model. Basically you can buy, download content and play within minutes. It's ingenious, at least as a business model. For those of us who have collector mentalities it becomes a bit of a challenge because when things go on sale in this market place we tend to buy games we probably will never play. If you have a Steam account how many of the games in your library have you actually played? 50%? 30%? 10%?
 
 The idea here is that there is a lot of things that desire our attention and there typically is a lot to be done. We need to learn to sift through the rock to find the gold. Find the best "farming" spot in our lives. We sometimes need to give up the good to experience the great.
+
+*"In the game Half-life, the first game built by Valve Software artillery bombardments occur frequently throughout the game. The 'whistling' sound that can be heard before the explosion is that of the German Flak 88."* [source: IMDB](http://www.imdb.com/title/tt0239023/trivia)
 
 # Taking a quantum leap
 
@@ -131,6 +139,8 @@ Just like a coin has two functional sides in order to be valid currency, we also
 
 The point is that we can easily miss the whole picture by trying to be a quantum person. Try treating work and life more like Velcro and less like sand paper. You might find that you have a lot to learn from your family and friends.
 
+*"Scott Bakula ad libbed the line "Oh boy!" at the end of an episode of Quantum Leap. The producer liked it so much that it became the signature final line of each episode, as Sam finds himself in a new body."* [source: IMDB](http://www.imdb.com/title/tt0096684/trivia)
+
 # Impostor
 
 You're starting a new job today. With the new adventure comes loads of excitement, stress, an opportunity to learn something new and perhaps an opportunity to get schooled. Then it happens; the excitement turns to dread. The people you are working with seem to have a Matrix like ability to "jack in" and do anything while you're still working in bullet time. They are making a difference while you fill out docs for Human resources. 
@@ -147,13 +157,15 @@ I often ask myself who defines "good enough" and when I ask that question I ofte
 
 As a side note, if you are an impostor one of the best and most riskiest thing you can do is talk to your boss or friend and let them know you want to seek opportunities to learn and grow where you are. You also might be in the wrong place and you simply need to get in the right place to thrive. We have too few hours on this earth to spend them doing something we really have no interest in doing.
 
+*"Frank Abagnale began his career in fraud at age 15.  His known impersonations were an airline pilot, a doctor, an attorney and even a teaching assistant."* [source: wikipedia](http://en.wikipedia.org/wiki/Frank_Abagnale)
+
 # The pain of sand
 
 You're on a beach, the sun is out and the waves are crashing. It's a beautiful day. You build sand castles with the kiddos and when you're done you decide to go for a quick run. Halfway through your run you realize you have several grains of sand in your britches and all of the running and rubbing has caused you a seriously painful rash.
 
-One or two grains of sand in your life can quickly become a painfully searing rash. Most likely we spend more time in the environment of our craft than we do sleeping. If your work bench is in disarray, your developer IDE's settings work against you, your office layout makes you stumble or if your homeschool setup causes your eye to twitch rather than spend time teaching you might have a problem.
+One or two grains of sand in your life can quickly become a painfully searing rash. Most likely we spend more time in the environment of our craft than we do sleeping. If your work bench is in disarray, your developer IDE's settings work against you, your office layout makes you stumble or if your home school setup causes your eye to twitch rather than spend time teaching you might have a problem.
 
-Like most learned things we will naturally begin to avoid the painful things in our environment. In terms of the small irritating things in our environments these can be grans of sand that can add up quickly and begin to irritate on a massive scale. I call this the **grain of sand factor.** It is the idea that over time if we do not address the small irritants in our lives quickly that overtime the net result is that they will be really expensive to deal with and could possibly drive us away from what we love to do.
+Like most learned things we will naturally begin to avoid the painful things in our environment. In terms of the small irritating things in our environments these can be grains of sand that can add up quickly and begin to irritate on a massive scale. I call this the **grain of sand factor.** It is the idea that over time if we do not address the small irritants in our lives quickly that overtime the net result is that they will be really expensive to deal with and could possibly drive us away from what we love to do.
 
 ```
 [INSERT GRAIN OF SAND EQUATION]
@@ -163,7 +175,7 @@ Shake the sand out as frequently as possible. I've been blessed to have the oppo
 
 >"A good developer knows how to shake the sand out, a great developer knows when to shake it out."
 
-Accept that there will be times when you'll have to take the sand but know when it’s time to shake out and clean house.
+Accept that there will be times when you'll have to take the sand but know when it's time to shake out and clean house.
 
 # I don't want to talk about it
 
@@ -177,19 +189,45 @@ As people who write software, cross stitch, build computers, generate art we owe
 
 This is one of the reasons I feel we should take our passions "home" with us. By talking what you love to your friends and family you open up opportunities to share some thing you love while building relationships that are lasting. If we genuinely love what we do we will have this burning desire to share it. Think about the times when you are working on something tough or thinking through an idea you have. Do you talk to yourself? Perhaps you "talk" to your pets or inanimate objects. While some might consider talking to one's self the beginnings of schizophrenia many feel that it's a way for logically processing the complexities of what we do. 
 
-> "Talking with yourself not only relieves the loneliness, it may also make you smarter. It helps you clarify your thoughts, tend to what’s important and firm up any decisions you’re contemplating. There’s just one proviso: You become smarter only if you speak respectfully to yourself."
+# The board of directors
 
-> -- [Linda Sapadin, PH.D](http://psychcentral.com/blog/archives/2012/12/07/talking-to-yourself-a-sign-of-sanity/)
+***
+I had been haunted by a dream where I solved a super hard problem that I had been facing for about a month. The problem was seriously challenging and it was constantly hanging over my head drilling holes in my subconscious so it was not unusual that I would have a dream about it. In fact I had many dreams but this was the first time I'd "solved" it in the dream; usually the dream was knowing that the problem existed but I had to solve an equally as hard problem like naming something or caching before I could get to it. 
+
+Like most dreams the solution eluded me and I decided to place my tablet next to my bed so that when I did get the dream again I could capture it. I mean this thing was chewing me up, I had burned through so much time and Internet spelunking that I was willing to attempt the brain Hail Mary and trap my subconscious. 
+
+I had the dream again and with delight I opened my eyes and attempted to cast a "root" on it. I turned on my tablet, almost missed my passcode 3 times (if I'd missed it the 3rd time I would've resorted to paper - I was that desperate), opened up my email and began drafting what was going to be the most epic solution - quite possibly would even cure all disease and world hunger. I finished and I mashed send and passed back out, elated that it was finished. 
+
+The next day I woke expectantly to an inbox of joy, there it was the message I sent myself. Incidentally if you have a propensity to solve hard problems using dreams and care to jot them down, may I suggest you not use email. Miraculously I received my email, but as you might have guessed it was not exactly what I had intended to send. But let me not tip my hand just yet, as River Song would say "careful, no spoilers."
+
+I had inadvertently added folks to the "To" and combined with auto correct hijinks and an obvious sleep deprived conscious I had the makings for an email sent from the [Benny Hill](http://en.wikipedia.org/wiki/Benny_Hill) of the Matrix. Interwoven with code there were double entendres and unfortunate adjectives sprinkled about. It was a veritable cornucopia of embarrassment. Oh and absolute shocker, it did not solve the problem. 
+
+When I got to work, where I spent most of the day avoiding HR, a few of the folks had passed the email around and were getting some enjoyment from it. While I was eating my humble pie someone asked me, "so what's the problem you've been working on?"  With an expectant sigh I showed him the thing that had captives my attention and dreams. To which he replied, "oh yeah I've seen this before."  My initial thought was "impossible," who would keep the solution to world hunger and my software problem to themselves! Additionally, I never got to enjoy an embarrassing email from him; clearly something was off. 
+
+As he took me through the solution I realized a few things:
+
+1. The answer was literally feet away 
+2. I should never send sleep induced emails
+3. No one asked me to try to solve this on my own, ever
+
+***
+
+In the middle of the night you always seem to have the best ideas but when you wake up you realize you were trying to fix your software with unicorns and gummy bears. Know the benefits of taking issues to your team and friends.  Have a personal board of directors; people that share your passion and craft that you can count on to filter your insanity. 
+
+# The beauty of simplicity
+
+
+
 
 # Going mental
 
 Mental illness in the work place and at home is a really serious and challenging problem that this modern workforces faces today. Sadly very little is discussed about it and often those being challenged by problems have limited outlets for fear of being ostracized or cast out with a label.
 
-The fact is that most of us have crossed paths with this at one time or another. Stress is a form of mental illness, thought temporary, it can cause both psychological and physiological damage. We have a tendency to try to act strong when we are terrified on the inside. It could be that we don’t want to appear weak or perhaps we don’t want to face a label but whatever the case is ignoring it can and will cause problems. 
+The fact is that most of us have crossed paths with this at one time or another. Stress is a form of mental illness, thought temporary, it can cause both psychological and physiological damage. We have a tendency to try to act strong when we are terrified on the inside. It could be that we don't want to appear weak or perhaps we don't want to face a label but whatever the case is ignoring it can and will cause problems. 
 
 A few years back I was building an epic sandbox for my kids in our backyard in Texas. Texas has a very unique soil, some call it clay others might call it brimstone. Part of the project required that I get a 2 1/4 PVC pipe and hammer it into the ground. I didn't have a sledge hammer but I did have a 40lb dumbbell that I could swing like one. 
 
-You might've guessed that it did not go well. On one of my final swings slightly missed the pipe and with indiscriminant justice I severed an inch off of my right index finger and severely damaged my right middle finger as well. In the following weeks I soon realized that I was going to have to relearn how to type, how to grip as well as many other things I had simply taken for granted. This took a toll on me because I thought that I had lost the ability to do what I felt I was designed to do. My tools felt broken and I felt lost. Fortunately I had (and still have) an amazing wife and group of scrappy kids to support me and take me through reimagining what I already knew - that it was going to be ok and I will just write software a little different now.
+You might have guessed that it did not go well. On one of my final swings slightly missed the pipe and with indiscriminant justice I severed an inch off of my right index finger and severely damaged my right middle finger as well. In the following weeks I soon realized that I was going to have to relearn how to type, how to grip as well as many other things I had simply taken for granted. This took a toll on me because I thought that I had lost the ability to do what I felt I was designed to do. My tools felt broken and I felt lost. Fortunately I had (and still have) an amazing wife and group of scrappy kids to support me and take me through re-imagining what I already knew - that it was going to be OK and I will just write software a little different now.
 
 There are many out there that do not have a support system. If you see your coworker or friend struggling, instead of ignoring the anguish on their face reach out to them and ask them how they are doing. I'm not talking about the hollow "Hey how's it going." Let me give you a booster for conversation since many of us might be introverts:
 
