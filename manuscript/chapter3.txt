@@ -183,7 +183,7 @@ Accept that there will be times when you'll have to take the sand but know when 
 
 There is an old proverb that states: "Silence is golden." The origin of this is still uncertain however there are instances of this thought appearing in ancient Egypt, in the Judaic Biblical commentaries (the Midrash) , the English poet Thomas Carlyle referenced it, James Russell Lowell quotes it in 'The Bigelow Papers', in Brian Aldiss' 'The Primal Urge' and even William Shakespeare tips his hat to the thought in "Romeo and Juliet."
 
-If you are a parent, most likely you have used a form or version of this with your kids. What a paradox our children are! I find it amazing and sometimes painful that they are continually sharing their stream of consciousness it an audible form as if they are compelled by something . I think we can learn something from how our kids do this. 
+If you are a parent, most likely you have used a form or version of this with your kids. What a paradox our children are! I find it amazing and sometimes painful that they are continually sharing their stream of consciousness it an audible form as if they are compelled by something. I think we can learn something from how our kids do this. 
 
 My theory is the reason that they are talking non stop is that they are simply processing the universe. Something that I feel that we as adults have sadly "greyed out." If we stop, unplug from our "i-tether" and look around at the whole of creation I am sure eventually we will begin describing it's amazing design to our friends and family. We will be as children, trying to take in the creativity of it all.
 
@@ -191,6 +191,7 @@ As people who write software, cross stitch, build computers, generate art we owe
 
 This is one of the reasons I feel we should take our passions "home" with us. By talking what you love to your friends and family you open up opportunities to share some thing you love while building relationships that are lasting. If we genuinely love what we do we will have this burning desire to share it. Think about the times when you are working on something tough or thinking through an idea you have. Do you talk to yourself? Perhaps you "talk" to your pets or inanimate objects. While some might consider talking to one's self the beginnings of schizophrenia many feel that it's a way for logically processing the complexities of what we do. 
 
+*In the Half-Life series of video games created by Valve the main protagonist Gordon Freeman never says a single word. "Gabe Newell has [stated](http://www.computerandvideogames.com/241221/gabe-newell-next-half-life-wont-change-gordon-freeman/) that Valve sees no reason to give Gordon a voice." I suppose if I had a crowbar talking for me I wouldn't need a voice either.* [source: wikipedia](http://en.wikipedia.org/wiki/Gordon_Freeman)
 
 # The board of directors
 
@@ -217,6 +218,7 @@ As he took me through the solution I realized a few things:
 
 In the middle of the night you always seem to have the best ideas but when you wake up you realize you were trying to fix your software with unicorns and gummy bears. Know the benefits of taking issues to your team and friends.  Have a personal board of directors; people that share your passion and craft that you can count on to filter your insanity. 
 
+*"In the 1987 film "Robocop" the Desert Eagle Magnum that is in the OCP Board Room was originally intended to be Robocop's gun. There is even existing behind-the-scene photos and footage of Peter Weller practicing with the Desert Eagle. However, when they gave Weller the gun, they noticed that even the bulky Desert Eagle was too small in the hands of Robocop. So the film's armory supervisor, Randy E. Moore, brought in a Berretta Automatic Pistol to which a compensator and decorative dressing was added to increase the size of the gun." If one of your personal board members carries either of those guns you should probably listen to them!* [source: imdb](http://www.imdb.com/title/tt0093870/trivia)
 
 # Going mental
 
@@ -239,3 +241,5 @@ There are many out there that do not have a support system. If you see your cowo
 I know this is a hard thing for us to do, we are heads down in whatever we are doing, we have our own problems, we are struggling in our own ways but we owe it to humanity to be better than what is expected of us. We don't have to be heroes we simply need to be human. 
 
 Reaching out to others in need not only has the power to help someone in need but it has the power to change the world.
+
+*"People with OCD have insight, meaning they are aware that their unwanted thoughts are unreasonable. People with OCPD think their way is the "right and best way" and usually feel comfortable with such self-imposed systems of rules." Take opportunities to help yourself and others and learn more about common personality types.* [source: International OCD foundation](http://iocdf.org/wp-content/uploads/2014/10/OCPD-Fact-Sheet.pdf) 
