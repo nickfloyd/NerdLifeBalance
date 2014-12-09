@@ -55,7 +55,7 @@ I realize the example is contrived, though probable. That is what obsession can 
 
 Never once in my career has being away from my family, friends or hobbies has ever made anyone fonder of me or me of them. The absurdity of either spending more time physically or mentally at a place called "work" is really deceiving. From the outside, it looks like a developer is killing "it" during those late nights and weekends. I get some of my best software ideas just chatting with my kids about things completely unrelated to software or technology.  Being around those I love helps me be more creative.
 
-The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up.  In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up.  Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long – that's what could happen to us; we will burn out and it could be far worse than simply being tired.
+The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up.  In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up.  Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long - that's what could happen to us; we will burn out and it could be far worse than simply being tired.
 
 Secondly, this behavior deceives your team and establishes the unrealistic expectation that your projects will always be done in an accelerated time frame, which will eventually become the expected norm.
 
@@ -92,7 +92,7 @@ he drive for perfection is unfortunately a journey to insanity. Plain and simple
 
 Ironically, we do this to ourselves because we love our perfect lines, application richness and the mental game of crafting fake criticism.
 
-I've been down this road far too many times – I have even gold plated specifications and documents! The part in every maker, developer, craft person that makes what we do so amazing is that we love to dream. We need to learn how to stop trying to "live the dream" and start iterating on it.
+I've been down this road far too many times - I have even gold plated specifications and documents! The part in every maker, developer, craft person that makes what we do so amazing is that we love to dream. We need to learn how to stop trying to "live the dream" and start iterating on it.
 
 *"Volo dell' angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h." * [source: Flying in the Sky](http://www.flyinginthesky.it/)
 
@@ -131,11 +131,11 @@ It turns out that my assumptions about the need for caching the data I was cachi
 
 I have found that attempting to turn off life at work and work at life is often frustrating. Most developers are probably continually mentally working to resolve questions about how their environment works or how to transform a slow process into a faster one.
 
-Being at "work" does not throw a life switch nor does being home involve throwing a "work" switch. Think of this as more of a circuit without a switch: your passion is the power source and work and life are the wires that are attached to what you want to accomplish or do. Instead of having your work ideas compartmentalized why not try talking about them with your friends and family – you might be surprised what happens. Talk to someone at work about things going on in your life. I always wondered when having a personality that you wanted to share at work became taboo; share it, you might find that you might have more in common than just code.
+Being at "work" does not throw a life switch nor does being home involve throwing a "work" switch. Think of this as more of a circuit without a switch: your passion is the power source and work and life are the wires that are attached to what you want to accomplish or do. Instead of having your work ideas compartmentalized why not try talking about them with your friends and family - you might be surprised what happens. Talk to someone at work about things going on in your life. I always wondered when having a personality that you wanted to share at work became taboo; share it, you might find that you might have more in common than just code.
 
 This idea is often misunderstood as: "you're saying think about work all the time" or "I should bring work home and push other stuff to the side?" Not at all! I'm simply pointing out that your inner nerd components, whether it's code, bikes, writing, weight lifting or whatever, are part of you, should be expressed and shared. It will inherently be part of what you love to do and talk about.
 
-Just like a coin has two functional sides in order to be valid currency, we also have these sides as "nerds" that we need to validate as our life currency – find out what your currencies are, share them and watch the excitement spread like wildfire.
+Just like a coin has two functional sides in order to be valid currency, we also have these sides as "nerds" that we need to validate as our life currency - find out what your currencies are, share them and watch the excitement spread like wildfire.
 
 The point is that we can easily miss the whole picture by trying to be a quantum person. Try treating work and life more like Velcro and less like sand paper. You might find that you have a lot to learn from your family and friends.
 
