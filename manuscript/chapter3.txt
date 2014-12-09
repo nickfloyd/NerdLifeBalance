@@ -94,7 +94,7 @@ Ironically, we do this to ourselves because we love our perfect lines, applicati
 
 I've been down this road far too many times - I have even gold plated specifications and documents! The part in every maker, developer, craft person that makes what we do so amazing is that we love to dream. We need to learn how to stop trying to "live the dream" and start iterating on it.
 
-*"Volo dell' angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h." * [source: Flying in the Sky](http://www.flyinginthesky.it/)
+*"Volo dell angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h." * [source: Flying in the Sky](http://www.flyinginthesky.it/)
 
 # The Steam powered punch
 
