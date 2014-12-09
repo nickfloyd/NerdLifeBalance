@@ -63,7 +63,7 @@ Third, it deceives you. I know first hand that burnout will occur and your abili
 
 Finally, overworked people often end up changing crafts. There is an economic law, the [law diminishing marginal utility](http://www.investopedia.com/terms/l/lawofdiminishingutility.asp), which states that if you increase the consumption of something (keeping all other things constant) you will eventually lose interest in the thing you consume. Consider a food buffet: the first plate of food is awesome but each subsequent plate drives you deeper into misery and begins to look more like regret than food.
 
-*"In Return of the Jedi, Jabba the Hutt has a stuffed and mounted tauntaun head as one of his grisly trophies, right next to the frozen form of Han Solo."* [source: starwars.wikia.com](http://starwars.wikia.com/wiki/Tauntaun)
+*"In Return of the Jedi, Jabba the Hutt has a stuffed and mounted tauntaun head as one of his grisly trophies, right next to the frozen form of Han Solo." Makes you wonder if it was the tauntaun Han shot first.* [source: starwars.wikia.com](http://starwars.wikia.com/wiki/Tauntaun)
 
 # The Costco Mentality
 
@@ -94,7 +94,7 @@ Ironically, we do this to ourselves because we love our perfect lines, applicati
 
 I've been down this road far too many times – I have even gold plated specifications and documents! The part in every maker, developer, craft person that makes what we do so amazing is that we love to dream. We need to learn how to stop trying to "live the dream" and start iterating on it.
 
-*"Volo dell' angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h."* [source: Flying in the Sky](http://www.flyinginthesky.it/)
+*"Volo dell' angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h." * [source: Flying in the Sky](http://www.flyinginthesky.it/)
 
 # The Steam powered punch
 
@@ -177,6 +177,8 @@ Shake the sand out as frequently as possible. I've been blessed to have the oppo
 
 Accept that there will be times when you'll have to take the sand but know when it's time to shake out and clean house.
 
+*"To make the location perfect for shooting, two hundred workers spent two months hand-clearing three-square miles of Mexican desert for the epic 1984 film Dune."* [source: inktank](http://inktank.fi/15-little-known-facts-about-the-making-of-dune)
+
 # I don't want to talk about it
 
 There is an old proverb that states: "Silence is golden." The origin of this is still uncertain however there are instances of this thought appearing in ancient Egypt, in the Judaic Biblical commentaries (the Midrash) , the English poet Thomas Carlyle referenced it, James Russell Lowell quotes it in 'The Bigelow Papers', in Brian Aldiss' 'The Primal Urge' and even William Shakespeare tips his hat to the thought in "Romeo and Juliet."
@@ -188,6 +190,7 @@ My theory is the reason that they are talking non stop is that they are simply p
 As people who write software, cross stitch, build computers, generate art we owe it to ourselves to plug-out and plug-in to life around us. Talk out loud to others and ourselves. 
 
 This is one of the reasons I feel we should take our passions "home" with us. By talking what you love to your friends and family you open up opportunities to share some thing you love while building relationships that are lasting. If we genuinely love what we do we will have this burning desire to share it. Think about the times when you are working on something tough or thinking through an idea you have. Do you talk to yourself? Perhaps you "talk" to your pets or inanimate objects. While some might consider talking to one's self the beginnings of schizophrenia many feel that it's a way for logically processing the complexities of what we do. 
+
 
 # The board of directors
 
@@ -213,10 +216,6 @@ As he took me through the solution I realized a few things:
 ***
 
 In the middle of the night you always seem to have the best ideas but when you wake up you realize you were trying to fix your software with unicorns and gummy bears. Know the benefits of taking issues to your team and friends.  Have a personal board of directors; people that share your passion and craft that you can count on to filter your insanity. 
-
-# The beauty of simplicity
-
-
 
 
 # Going mental
