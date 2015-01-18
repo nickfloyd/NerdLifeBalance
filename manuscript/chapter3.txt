@@ -1,245 +1,77 @@
--# The Behavior Parables
+# The Great Disception
 
-It seems that we, as the human race, have several different opinions or ideas of what "success" means to us. Whether it's working one hundred hours a week to pull off the amazing project or, like me, taking every opportunity to teach my five kiddos the how's and what's of the things I am passionate about, we all have a perspective. Maybe it's our perceived ideal. Regardless, there is a definition of what we think we should pursue and often times we are willing to fall on many swords to get there. 
+If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhpase overwhelmed. Hopefully it helped you consider new ways to refactor you life. However you might be feeling now the idea here is that there's been a grand lie that has been passed around since we as humainty begain counting in hours. The lie is simple yet really, really effective at helping us defeat ourselves.
 
-[Game theory](http://en.wikipedia.org/wiki/Game_theory) defines our tendency to sprint toward certain behaviors like this:
+>"There are 168 hours in every week."
 
->"The more 'successful' behaviors tend to be held more tenaciously and will occur more frequently."
+Ok, so perhaps that's not a completely true lie. Let me try that again...
 
-Basically, if you do x and a positive result comes of it, you'll continue to do x. This is considered to be [reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning). It suggests that we will stop doing something else in favor of the thing that is making us "successful." There are a few potential stumbling blocks that many of us could face with this type of behavioral realignment. 
+>"There are 168 'usable' hours in every week."
 
-First, we sometimes allow outside influences to direct our idea of "success." Perhaps it was a college professor, your parents, a spouse, or your coworkers that began laying the bricks in your road to winning. Before you know it you're trying to fulfill someone else's dream or hopes .
+The fact is that we have black holes and dynamos for the little time we have here on this earth. Somethings we do effectively absorb the mass of time we have while other things we do can somethimes feel like they help "generate" new time.
 
-***
+In 1979 there was a science fiction film named "The Black Hole." I had a book with a record that I played a few thousand times. The robot on the U.S.S Palomino named V.I.N.C.E.N.T remarked, "A black hole, the deadliest force in the universe, nothing can escape it!"
 
-It was the third night in a row he was at work, trying to keep up with the shear workload. Overwhelmed by commitments and to-dos. "How did I get here" he thought while he kicked back another can of sugar infused caffeine death juice. The pressure was immense; so much so that the work became blurry and he was treading water by mashing random keys on the keyboard. 
+How amazingly accurate is that description when we think about all the time we have that passes quickly? There are always gaps in time, leaky timperal faucets that cause the time we have to simply dissipear. There are ways to deal with the theoretical gravity of your minute draining anomoly, but first you have to accept this framework called time is a bit of a farse. Not because it is not scientific or that it has not been proven as a metric that can be measured and used - no the problem with time has nothing to do with time at all. Our problem with time has all to do with us and our effective utilization of a limited resource that has no limit. 
 
-He was going nowhere as a result of being told where to go. A week earlier, his boss came in and told the him that the upcoming project was going to be critical in determining if he was going to "move up." He thought back to his days in college and remembered that it seemed like a continual crunch and that his professors always said that he'd be successful. "If a constant push in overdrive worked then, surely it will work now" he thought.
+It is as though we treat time more like Tribbles and less like a scarse resource. We measure it loosly against the begging of time and see no reason to be concerned that as an individual consumer we can only consume so much time. It's a lot like eating pringles, for some reason you can't stop consuming the salty round tricksers but then the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like salt and vinegar and more like regret.
 
-This was not the first time this type of carrot had been dangled in front of him or his coworkers. Incrementally he moved through the organization and did well there. All that he had to pay was 100 hour weeks, several anxiety ridden nights, his health and of course his family. Years later, as he looked back over his shoulder, he did not feel very successful when he saw that he had lost everything except his job. 
+Recently I was chatting with a software developer. We were discussing if participating in a hackathon would be something that was worth doing. I asked her if it was a technology that she'd been wanting to try out and from there we continuted talking about the pros and cons of parrticipating. We ended the conversation with this simple, yet powerful dialog:
 
-***
+>"her: I'm interested in all of it [game development]"
+>"me: here's the deal... worst case if you participate you not finish the game but you would've at least learned something"
+>"me: remember you're not guaranteed tomorrow, why put off to tomorrow what you could do today?"
 
-This is a tight loop we all have the potential to get stuck in. Often, many of us can do our jobs really well and we can succeed in doing them well. *Winning feels good, loosing feels bad.* In the confidence we have we can visualize what success means to us and apply that to our day jobs. The computer programmer might say that her job is not rocket science, the rocket scientist might say his job is not particle physics and the physicist might say their job isn't as complex as parenting. 
+As we were talking was downloading the SDK and creating a new repository. 
 
-I've discovered that there is a correlation to things that are challenging to maintain but highly valuable, such as friendships or marriages. The problem is that because there are unknown factors in things like relationships they can become daunting but tremendously rewarding . These variables make it extraordinarily difficult to solve for x. On the other side things like working a lot has the potential to yield frequent, smaller rewards that are often assured - looking back to the idea of the skinner effect.
+Will it become something? 
+I don't know.
 
-```
-[Equation for very valuable X]
+Will I regret trying to create something new?
+Probably not.
 
-[Equation for frequent rewards through constant work]
+WIll I learn something that I might be able to share with others?
+Definitely.
 
-```
+You see this whole concept of "time" forces our thinking right into military meal thinking where we don't let our carrots touch our peas - those two things used to go together really well. Military meal thinking forces us to "timebox" things and never let any cross over happen and also forces us to constrain any thing that might not fit into a "work life" box. If you've ever cancelled a new project before you even started it because you feel you'll not have enough time you might be a victim of time compartmentalization.
 
-What if what we thought was success was wrong? What if we are basing our definition of winning on a lifetime ago where the only thing we had to think about was how long of a car nap you could take before your next class.
+I'm not trying to be a Time Cop, that's Jean-Claude Van Damme's job. I'm simply pointing out we as the human race has unfathomable potential to do some really amazing things and that we might be able to do those things if we simply try. 
 
-I'd like to take a minute and look at some of the influencers and behaviors that create these ideal pictures of what we think winning looks like. Keep in mind that these things are not inherently bad per se (much like the money point in the last chapter), but that what we do with them can create the not so favorable scenarios. 
+I think the one of the greatest lies we could tell ourselves is that we'll do x later. Use the following checklist to see if you have more black holes than dynamos in your life:
 
-*Once you're done going through some of these behavior parables ask yourself, what behaviors have been reinforced in the way you work and interact with the world around you. Do those behaviors still seem successful to you now?*
+ Phrase                                          | Times said |
+|------------------------------------------------|------------|
+| I'll do that next week                         |    ________|
+| I don't have time                              |    ________|
+| I'll do x later                                |    ________|
+| In just a minute...                            |    ________|
+| There is always time for x                     |    ________|
+| Hey let's catch up later                       |    ________|
+| We should meet for x sometime                  |    ________|
+| I need to do x                                 |    ________|
+| Average time spent on [_________________]      |    ________|
+| Average time spent on [_________________]      |    ________|
+| Average time spent on [_________________]      |    ________|
 
-# The death of a Tauntan
+I pretty much fail this test every time and here's why. Only recently I discovered something really important. So important that it has completely changed the way I communicate and the way I think. I discovered this:
 
-In the Star Wars universe there are creatures known as Tauntans. These omnivores are indigenous to the planet Hoth. Hoth is a super cold planet that is next to uninhabitable save the creatures who called it home and the rebels that were trying to rebuild and regroup on it. 
+>"No is a complete sentance."
 
-The rebels used these creatures as patrol mounts to travel across the surface of Hoth because their vehicles couldn't cope with the cold.
+Opting out of things because it was simply something I just could not do has always been a really difficult thing for me to do. The fact is that there are just somethings we simply cannot do. Either they simply just do not fit our passion or they do not align with our priorities; whatever the case may be a simple "No" can go a really long way. Think about it this way, when we try to justify our actions it can and does come across to most people like Hollywood trying to convence the techincally savy to accept thier latest Hackor disaterpeice. It sounds and feels rediculious.
 
-As it would turn out as the story unfolds there are limitations to the Tauntans as well. Han Solo runs one into the ground looking for Luke, then proceeds to make a sleeping bag out of it to help our hero, wait for it… get "Luke-warm."
+Justification is simply another way to defer dealing with something else. The fact is that time is finite and our consumption of that construct is paramount. It's critical how we consume it. It's like running around in Half-Life and using up all of the health and suit chargers before trying to down the boss - it will all be used up and you'll have nothing left for the second wave.
 
-Have you ever caught yourself saying something like, "Once this project is over things will get back to 'normal'?" We do that because our vision is siloed in on a fixed point. We do some self encouraging as we run hard we take a breath and we start running again. The "skinner effect" is invoked and we find ourselves getting kited along until we are drinking red bulls and coffee every morning and finishing the day with a dose of melatonin just to stop our brains from spinning. 
+Do you belive we have a tendencty to lie to ourselves? I do. If we could better, more purposuly utilize what we have it would keep us from insanity driven behaviors like comparmentalization and time paraysis.
 
-Keep in mind I am not talking about crunch, there will always be that. There will always be times when we have a hack that we need to get out of our head and turn into code or an idea that needs a weekend and half a dozen trips to Home Depot to get done. I think we all have a tendency to be a bit hardheaded which can be a strength to help us persevere. No, I'm not talking about that at all; it's the patterns where we cannot walk away despite the project or activity. It's obsession.
+When we take chunks of things and stick them in compartments the space between the compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. My kids are that perspective. Children exhibit this amazing ability to see bast all of the cruft we as "seasoned" humans tend to put on things. Our "you cant's" or "you should not's" become their "why not's." 
 
-Think of it like this: You decide that you really have a fondness for cats. You can debate quite effectively that they are the sole purpose the Internet was invented, you can quickly cite amazing facts about them and they are the topic of every one of your conversations. You have now effectively removed 2-dimensions from your character. Your friends seem to fade away and even your cats think you a bit odd. You are consumed. You get to the end of your life and you realize cleaning cat boxes and hairballs wasn't really all that and end up regretting the time lost.
+I was working on an application that cached some pages. Naturally, the challange I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue for about a month until one day I can home and my seven year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - share problems without expecting them to be fixed). He then replied with a statement that shattered my little dev world:
 
-I realize the example is contrived, though probable. That is what obsession can look like and it has the ability to rob you of many amazing years. If you find yourself sandwiching your days between energy drinks and melatonin tablets you might want to stop and review what "winning" really looks like to you because you might simply be stuck in a tight loop and eventually you're going to run out of memory and drop dead.
+>"If it's giving you so many problems why don't you just stop using it?"
 
-Never once in my career has being away from my family, friends or hobbies has ever made anyone fonder of me or me of them. The absurdity of either spending more time physically or mentally at a place called "work" is really deceiving. From the outside, it looks like a developer is killing "it" during those late nights and weekends. I get some of my best software ideas just chatting with my kids about things completely unrelated to software or technology.  Being around those I love helps me be more creative.
+In an instant my son single handedly solved one of the [notoriously hardest problems in computer science](http://martinfowler.com/bliki/TwoHardThings.html). With his suggestion in mind I removed it and all was well. 
 
-The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up.  In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up.  Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long - that's what could happen to us; we will burn out and it could be far worse than simply being tired.
+You see the great deception isn't a lie or something sneaky someone else does to us it's something we convence ourselves of. Who you are at work and at home really should be the same person because you are the same person. We are free to bring our nerd home and share it with our family and friends; we owe it to them! 
+	
 
-Secondly, this behavior deceives your team and establishes the unrealistic expectation that your projects will always be done in an accelerated time frame, which will eventually become the expected norm.
 
-Third, it deceives you. I know first hand that burnout will occur and your ability to perform will diminish. We cannot always run as Red Bull-infused developers if we want to continue to deliver great software.
-
-Finally, overworked people often end up changing crafts. There is an economic law, the [law diminishing marginal utility](http://www.investopedia.com/terms/l/lawofdiminishingutility.asp), which states that if you increase the consumption of something (keeping all other things constant) you will eventually lose interest in the thing you consume. Consider a food buffet: the first plate of food is awesome but each subsequent plate drives you deeper into misery and begins to look more like regret than food.
-
-*"In Return of the Jedi, Jabba the Hutt has a stuffed and mounted tauntaun head as one of his grisly trophies, right next to the frozen form of Han Solo." Makes you wonder if it was the tauntaun Han shot first.* [source: starwars.wikia.com](http://starwars.wikia.com/wiki/Tauntaun)
-
-# The Costco Mentality
-
-So you walk into your favorite bulk retailer / warehouse outlet and some of the first things you'll run into are the sample ninjas. These people are highly skilled at getting you to: 1. eat crap off a table you had no hand in preparing and 2. make you want to buy said crap so that you and your family can become addicted to a veritable cornucopia of deathly delights.
-
-Unwittingly places like Costco allow my family in the doors. You see, my children are like locusts (I am sure anyone with parents with pre-teens and up can relate); they leave in their paths little paper cups and worn out sample ninjas creating a sample wasteland.
-
-Sometimes the mentality of a nerd can be the little locust running through the store. We consume a little of the latest programming language, the most recent build of an OS, the next great cloud service and we leave in the wake little half done projects or bits and pieces of provisioned websites. As the sampling continues we ping the moderators of the frameworks or projects we nibble on and talk about how great feature x and y would be and then turn around and abandon all interest in it because a new thing was put in front of us.
-
-Sampling is not a bad thing at all. Trying out new things can help you learn, grow, develop skills and make you question the status quo. It's just that if all we do is sample we'll never actually get any real thing done. Next time you stroll through the Costco of your field or interest remember to set some "try" constraints for yourself so that you can actually put a meal on the table. 
-
-*The retailer Costco sells more than 43 million packages of toilet paper every year. So keep eating those samples, they've got you covered.* [source: Costco facebook](https://www.facebook.com/Costco)
-
-# Infinite Planning
-
-Planning is good. It helps us avoid things like project bloat, confusion and give us a general direction to head in. A few years back I began a project with my kids. It was a "zipline." The problems we were trying to solve were simple:
-
-1. Have a faster way to get from the house to a trail head. At the time we had a really big year and my kids legs are short.
-2. Build something fun and safe for the whole family to enjoy
-
-So, like most projects we do together we all sat down and began to plan. We were drawing up plans and calculating for tension and sag. About 5 minutes I lost my 2.5 year old, an hour into it my 4 year old dropped out because of boredom, another hour I lost the 5 year old to "chores" (interesting how boredom can be a motivator), and finally roughly 30 minutes later my 7 and 9 year olds stopped the "planning" with one simple question: "Why are we doing this? It doesn't seem like we're actually getting anything done."
-
-Then it hit me: When you gold plate everything you end up with absolutely nothing. We… I was gold plating the plan. Two years later we still had no zip-line until one day I see my now 2 years older kid spin by me in a flurry with one of his belts. Past incidents had taught me to investigate, so I followed him out the door. There is was in all of it's glory, a makeshift zipline. They had found some old tension cable that I had from another project and stringed it between two trees. As he raced down the line, belt in hand, I realized that it's not failure when you plant seeds. Two years later he was inspired, using his own design, to build what I failed to plan. For all you parents out there, take opportunities to dream big with your kids because eventually they will make new, better dreams out of that which we thought was impossible. Just try to time box the conversation so that you don't gold plate you way into a two year delay.
-
-he drive for perfection is unfortunately a journey to insanity. Plain and simple, constantly tweaking something without delivering is a developer's pit of despair.
-
-Ironically, we do this to ourselves because we love our perfect lines, application richness and the mental game of crafting fake criticism.
-
-I've been down this road far too many times - I have even gold plated specifications and documents! The part in every maker, developer, craft person that makes what we do so amazing is that we love to dream. We need to learn how to stop trying to "live the dream" and start iterating on it.
-
-*"Volo dell angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h." * [source: Flying in the Sky](http://www.flyinginthesky.it/)
-
-# The Steam powered punch
-
-At the time of this writing there is a move where boxed software and games have moved to an unboxed downloadable content (DLC) model. This approach has gained rapid approval because of the accessibility to user's and their content, creator to user reach and it has opened the door to many creators who simply cannot work in the publisher / creator model. Basically you can buy, download content and play within minutes. It's ingenious, at least as a business model. For those of us who have collector mentalities it becomes a bit of a challenge because when things go on sale in this market place we tend to buy games we probably will never play. If you have a Steam account how many of the games in your library have you actually played? 50%? 30%? 10%?
-
-The idea here is that there is a lot of things that desire our attention and there typically is a lot to be done. We need to learn to sift through the rock to find the gold. Find the best "farming" spot in our lives. We sometimes need to give up the good to experience the great.
-
-*"In the game Half-life, the first game built by Valve Software artillery bombardments occur frequently throughout the game. The 'whistling' sound that can be heard before the explosion is that of the German Flak 88."* [source: IMDB](http://www.imdb.com/title/tt0239023/trivia)
-
-# Taking a quantum leap
-
-I couldn't figure it out and the problem was filling my head like tribbles on a starship. After working for a month on a caching solution for a web application I was doing I felt no closer to the ideal solution then when I started. 
-
-For those who may not know often times software developers will refer to the "two hardest problems in software." It's adage that refers to: 
-
-1. Naming things in your projects
-2. Caching invalidation strategy that will help performance and reduce the normal operating overhead of their applications. 
-
-These things are referred to "the hardest things in computer science" for a good reason: 
-
-1. Naming stuff is challenging, especially if others are involved
-2. As a good curator of software you want to create a solution that will not end up being the [Rube Goldburg](http://en.wikipedia.org/wiki/Rube_Goldberg) of cache invalidation solutions.
-
-***
-I was WFH (working from home) one day and I simply put my hands to my face and let out a pretty pitiful sigh. My 7 year old at the time heard my anguish and asked what was wrong. "Nothing kiddo," I said, "I'm just trying to figure something out." He responds, "tell me, maybe I can help."
-
-We've built a culture of fearlessly sharing in my house. I call it the "know nothing" principle. Much like Occam's razor, it's an attempt to draw out the obvious by asking the impossible. We ask questions in our house to simultaneously learn for ourselves and to make others think. I am sure most everyone practices this on some level.
-
-Knowing that I have not taught him the principles of caching in coding yet, I distilled the problem to a few basic concepts and explained those to him. His response was astonishing . He said, "How do you know you need to do that [use caching]?" I was speechless. He single handedly unwound all of my preconceived notions about the project and the gold platting I was apparently doing.
-
-It turns out that my assumptions about the need for caching the data I was caching were completely wrong for this project and it was not needed. If I had of compartmentalized my work and life I would've ended up missing out on a lesson my son was giving me on critical thinking and miss out on the moment where my son solved one of the most challenging questions in computer science.
-
-***
-
-I have found that attempting to turn off life at work and work at life is often frustrating. Most developers are probably continually mentally working to resolve questions about how their environment works or how to transform a slow process into a faster one.
-
-Being at "work" does not throw a life switch nor does being home involve throwing a "work" switch. Think of this as more of a circuit without a switch: your passion is the power source and work and life are the wires that are attached to what you want to accomplish or do. Instead of having your work ideas compartmentalized why not try talking about them with your friends and family - you might be surprised what happens. Talk to someone at work about things going on in your life. I always wondered when having a personality that you wanted to share at work became taboo; share it, you might find that you might have more in common than just code.
-
-This idea is often misunderstood as: "you're saying think about work all the time" or "I should bring work home and push other stuff to the side?" Not at all! I'm simply pointing out that your inner nerd components, whether it's code, bikes, writing, weight lifting or whatever, are part of you, should be expressed and shared. It will inherently be part of what you love to do and talk about.
-
-Just like a coin has two functional sides in order to be valid currency, we also have these sides as "nerds" that we need to validate as our life currency - find out what your currencies are, share them and watch the excitement spread like wildfire.
-
-The point is that we can easily miss the whole picture by trying to be a quantum person. Try treating work and life more like Velcro and less like sand paper. You might find that you have a lot to learn from your family and friends.
-
-*"Scott Bakula ad libbed the line "Oh boy!" at the end of an episode of Quantum Leap. The producer liked it so much that it became the signature final line of each episode, as Sam finds himself in a new body."* [source: IMDB](http://www.imdb.com/title/tt0096684/trivia)
-
-# Impostor
-
-You're starting a new job today. With the new adventure comes loads of excitement, stress, an opportunity to learn something new and perhaps an opportunity to get schooled. Then it happens; the excitement turns to dread. The people you are working with seem to have a Matrix like ability to "jack in" and do anything while you're still working in bullet time. They are making a difference while you fill out docs for Human resources. 
-
-Shut it! Let's turn off our emotional roller coasters for a minute and reflect. You made it through the interview, the team hopefully likes you and they wouldn't have hired you unless you had something to commit.
-
-The quickest way to being perceived as an impostor is to act like one. Acting "sketchy" is one way to earn your impostor badge; like you just drank a 2-liter of Mountain Dew through a pixie stick straw. Communicating with partial information, flip-flopping and even exhibiting an always agreeable mode will come across as nonsense .
-
-Another way is to act with hubris. Being prideful or boastful is one of the quickest ways to discredit yourself and your abilities. Let your "yes" be "yes" and your "no" be "no." There is absolute beauty in respecting simplicity. Can you imagine how much we could get done if we all simply practiced saying, "I don't know."
-
-Here's the crux: When you are comparing yourself and your skills to other people you are doing yourself and your team a disservice. You're putting your eyes on you instead of on what needs to be done. Have you ever told yourself "I'll never be good enough?" Let me let you in on a little secret: you're right. You see, if you constantly put your sights on what everyone else can do how will you ever know what you can do? You are jumping for a block you cannot hit, Mario. Try breaking your own blocks. 
-
-I often ask myself who defines "good enough" and when I ask that question I often find that it is me who sets the bar and sometimes it's based on what others can do.
-
-As a side note, if you are an impostor one of the best and most riskiest thing you can do is talk to your boss or friend and let them know you want to seek opportunities to learn and grow where you are. You also might be in the wrong place and you simply need to get in the right place to thrive. We have too few hours on this earth to spend them doing something we really have no interest in doing.
-
-*"Frank Abagnale began his career in fraud at age 15.  His known impersonations were an airline pilot, a doctor, an attorney and even a teaching assistant."* [source: wikipedia](http://en.wikipedia.org/wiki/Frank_Abagnale)
-
-# The pain of sand
-
-You're on a beach, the sun is out and the waves are crashing. It's a beautiful day. You build sand castles with the kiddos and when you're done you decide to go for a quick run. Halfway through your run you realize you have several grains of sand in your britches and all of the running and rubbing has caused you a seriously painful rash.
-
-One or two grains of sand in your life can quickly become a painfully searing rash. Most likely we spend more time in the environment of our craft than we do sleeping. If your work bench is in disarray, your developer IDE's settings work against you, your office layout makes you stumble or if your home school setup causes your eye to twitch rather than spend time teaching you might have a problem.
-
-Like most learned things we will naturally begin to avoid the painful things in our environment. In terms of the small irritating things in our environments these can be grains of sand that can add up quickly and begin to irritate on a massive scale. I call this the **grain of sand factor.** It is the idea that over time if we do not address the small irritants in our lives quickly that overtime the net result is that they will be really expensive to deal with and could possibly drive us away from what we love to do.
-
-```
-[INSERT GRAIN OF SAND EQUATION]
-```
-
-Shake the sand out as frequently as possible. I've been blessed to have the opportunity to mentor many developers and I generally tell them, 
-
->"A good developer knows how to shake the sand out, a great developer knows when to shake it out."
-
-Accept that there will be times when you'll have to take the sand but know when it's time to shake out and clean house.
-
-*"To make the location perfect for shooting, two hundred workers spent two months hand-clearing three-square miles of Mexican desert for the epic 1984 film Dune."* [source: inktank](http://inktank.fi/15-little-known-facts-about-the-making-of-dune)
-
-# I don't want to talk about it
-
-There is an old proverb that states: "Silence is golden." The origin of this is still uncertain however there are instances of this thought appearing in ancient Egypt, in the Judaic Biblical commentaries (the Midrash) , the English poet Thomas Carlyle referenced it, James Russell Lowell quotes it in 'The Bigelow Papers', in Brian Aldiss' 'The Primal Urge' and even William Shakespeare tips his hat to the thought in "Romeo and Juliet."
-
-If you are a parent, most likely you have used a form or version of this with your kids. What a paradox our children are! I find it amazing and sometimes painful that they are continually sharing their stream of consciousness it an audible form as if they are compelled by something. I think we can learn something from how our kids do this. 
-
-My theory is the reason that they are talking non stop is that they are simply processing the universe. Something that I feel that we as adults have sadly "greyed out." If we stop, unplug from our "i-tether" and look around at the whole of creation I am sure eventually we will begin describing it's amazing design to our friends and family. We will be as children, trying to take in the creativity of it all.
-
-As people who write software, cross stitch, build computers, generate art we owe it to ourselves to plug-out and plug-in to life around us. Talk out loud to others and ourselves. 
-
-This is one of the reasons I feel we should take our passions "home" with us. By talking what you love to your friends and family you open up opportunities to share some thing you love while building relationships that are lasting. If we genuinely love what we do we will have this burning desire to share it. Think about the times when you are working on something tough or thinking through an idea you have. Do you talk to yourself? Perhaps you "talk" to your pets or inanimate objects. While some might consider talking to one's self the beginnings of schizophrenia many feel that it's a way for logically processing the complexities of what we do. 
-
-*In the Half-Life series of video games created by Valve the main protagonist Gordon Freeman never says a single word. "Gabe Newell has [stated](http://www.computerandvideogames.com/241221/gabe-newell-next-half-life-wont-change-gordon-freeman/) that Valve sees no reason to give Gordon a voice." I suppose if I had a crowbar talking for me I wouldn't need a voice either.* [source: wikipedia](http://en.wikipedia.org/wiki/Gordon_Freeman)
-
-# The board of directors
-
-***
-I had been haunted by a dream where I solved a super hard problem that I had been facing for about a month. The problem was seriously challenging and it was constantly hanging over my head drilling holes in my subconscious so it was not unusual that I would have a dream about it. In fact I had many dreams but this was the first time I'd "solved" it in the dream; usually the dream was knowing that the problem existed but I had to solve an equally as hard problem like naming something or caching before I could get to it. 
-
-Like most dreams the solution eluded me and I decided to place my tablet next to my bed so that when I did get the dream again I could capture it. I mean this thing was chewing me up, I had burned through so much time and Internet spelunking that I was willing to attempt the brain Hail Mary and trap my subconscious. 
-
-I had the dream again and with delight I opened my eyes and attempted to cast a "root" on it. I turned on my tablet, almost missed my passcode 3 times (if I'd missed it the 3rd time I would've resorted to paper - I was that desperate), opened up my email and began drafting what was going to be the most epic solution - quite possibly would even cure all disease and world hunger. I finished and I mashed send and passed back out, elated that it was finished. 
-
-The next day I woke expectantly to an inbox of joy, there it was the message I sent myself. Incidentally if you have a propensity to solve hard problems using dreams and care to jot them down, may I suggest you not use email. Miraculously I received my email, but as you might have guessed it was not exactly what I had intended to send. But let me not tip my hand just yet, as River Song would say "careful, no spoilers."
-
-I had inadvertently added folks to the "To" and combined with auto correct hijinks and an obvious sleep deprived conscious I had the makings for an email sent from the [Benny Hill](http://en.wikipedia.org/wiki/Benny_Hill) of the Matrix. Interwoven with code there were double entendres and unfortunate adjectives sprinkled about. It was a veritable cornucopia of embarrassment. Oh and absolute shocker, it did not solve the problem. 
-
-When I got to work, where I spent most of the day avoiding HR, a few of the folks had passed the email around and were getting some enjoyment from it. While I was eating my humble pie someone asked me, "so what's the problem you've been working on?"  With an expectant sigh I showed him the thing that had captives my attention and dreams. To which he replied, "oh yeah I've seen this before."  My initial thought was "impossible," who would keep the solution to world hunger and my software problem to themselves! Additionally, I never got to enjoy an embarrassing email from him; clearly something was off. 
-
-As he took me through the solution I realized a few things:
-
-1. The answer was literally feet away 
-2. I should never send sleep induced emails
-3. No one asked me to try to solve this on my own, ever
-
-***
-
-In the middle of the night you always seem to have the best ideas but when you wake up you realize you were trying to fix your software with unicorns and gummy bears. Know the benefits of taking issues to your team and friends.  Have a personal board of directors; people that share your passion and craft that you can count on to filter your insanity. 
-
-*"In the 1987 film "Robocop" the Desert Eagle Magnum that is in the OCP Board Room was originally intended to be Robocop's gun. There is even existing behind-the-scene photos and footage of Peter Weller practicing with the Desert Eagle. However, when they gave Weller the gun, they noticed that even the bulky Desert Eagle was too small in the hands of Robocop. So the film's armory supervisor, Randy E. Moore, brought in a Berretta Automatic Pistol to which a compensator and decorative dressing was added to increase the size of the gun." If one of your personal board members carries either of those guns you should probably listen to them!* [source: imdb](http://www.imdb.com/title/tt0093870/trivia)
-
-# Going mental
-
-Mental illness in the work place and at home is a really serious and challenging problem that this modern workforces faces today. Sadly very little is discussed about it and often those being challenged by problems have limited outlets for fear of being ostracized or cast out with a label.
-
-The fact is that most of us have crossed paths with this at one time or another. Stress is a form of mental illness, thought temporary, it can cause both psychological and physiological damage. We have a tendency to try to act strong when we are terrified on the inside. It could be that we don't want to appear weak or perhaps we don't want to face a label but whatever the case is ignoring it can and will cause problems. 
-
-A few years back I was building an epic sandbox for my kids in our backyard in Texas. Texas has a very unique soil, some call it clay others might call it brimstone. Part of the project required that I get a 2 1/4 PVC pipe and hammer it into the ground. I didn't have a sledge hammer but I did have a 40lb dumbbell that I could swing like one. 
-
-You might have guessed that it did not go well. On one of my final swings slightly missed the pipe and with indiscriminant justice I severed an inch off of my right index finger and severely damaged my right middle finger as well. In the following weeks I soon realized that I was going to have to relearn how to type, how to grip as well as many other things I had simply taken for granted. This took a toll on me because I thought that I had lost the ability to do what I felt I was designed to do. My tools felt broken and I felt lost. Fortunately I had (and still have) an amazing wife and group of scrappy kids to support me and take me through re-imagining what I already knew - that it was going to be OK and I will just write software a little different now.
-
-There are many out there that do not have a support system. If you see your coworker or friend struggling, instead of ignoring the anguish on their face reach out to them and ask them how they are doing. I'm not talking about the hollow "Hey how's it going." Let me give you a booster for conversation since many of us might be introverts:
-
->You: "Hey how's it going?"
->
->Friend: "Ok, I guess."
->
->You: "No, really how are you doing?"
-
-I know this is a hard thing for us to do, we are heads down in whatever we are doing, we have our own problems, we are struggling in our own ways but we owe it to humanity to be better than what is expected of us. We don't have to be heroes we simply need to be human. 
-
-Reaching out to others in need not only has the power to help someone in need but it has the power to change the world.
-
-*"People with OCD have insight, meaning they are aware that their unwanted thoughts are unreasonable. People with OCPD think their way is the "right and best way" and usually feel comfortable with such self-imposed systems of rules." Take opportunities to help yourself and others and learn more about common personality types.* [source: International OCD foundation](http://iocdf.org/wp-content/uploads/2014/10/OCPD-Fact-Sheet.pdf) 
