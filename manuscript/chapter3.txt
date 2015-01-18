@@ -23,18 +23,20 @@ It's a lot like eating Pringles, for some reason you can't stop consuming the sa
 Recently I was chatting with a software developer. We were discussing if participating in a hackathon would be something that was worth doing. I asked her if it was a technology that she'd been wanting to try out and from there we continued talking about the pros and cons of participating. We ended the conversation with this simple, yet powerful dialog:
 
 >"dev: I'm interested in all of it [game development]"
+
 >"me: here's the deal... worst case if you participate you not finish the game but you would've at least learned something"
+
 >"me: remember you're not guaranteed tomorrow, why put off to tomorrow what you could do today?"
 
 It sounds cliché I know but very applicable. As we were talking was downloading the SDK and created a new repository. 
 
-Will it become something? 
+Will it become something?  
 I don't know.
 
-Will I regret trying to create something new?
+Will I regret trying to create something new?  
 Probably not.
 
-WIll I learn something that I might be able to share with others?
+WIll I learn something that I might be able to share with others?  
 Definitely.
 
 You see this whole concept of "time" forces our thinking right into military meal thinking where we don't let our carrots touch our peas - those two things used to go together really well. Military meal thinking puts us into "time box" things and never lets any cross over happen. It also forces us to constrain anything that might not fit into a "work life" box. If you've ever canceled a new project before you started it because you feel you'll not have enough time you might be a victim of time compartmentalization.
@@ -43,19 +45,17 @@ I'm not trying to be a Time Cop here, that's Jean-Claude Van Damme's job. I'm si
 
 I think the one of the greatest lies we could tell ourselves is that we'll do x later. Use the following checklist to see if you have more black holes than dynamos in your life:
 
- Phrase                                          | Times said |
-|------------------------------------------------|------------|
-| I'll do that next week                         |    ________|
-| I don't have time                              |    ________|
-| I'll do x later                                |    ________|
-| In just a minute...                            |    ________|
-| There is always time for x                     |    ________|
-| Hey let's catch up later                       |    ________|
-| We should meet for x sometime                  |    ________|
-| I need to do x                                 |    ________|
-| Average time spent on [_________________]      |    ________|
-| Average time spent on [_________________]      |    ________|
-| Average time spent on [_________________]      |    ________|
+| Phrase | Times said |
+|:----------------------------------|-----------:|
+| I'll do that next week... | x |
+| I don't have time... | x |
+| I'll do x later... | x |
+| In just a minute... | x |
+| There is always time for x... | x |
+| Hey let's catch up later... | x |
+| We should meet for x sometime... | x |
+| I need to do x... | x |
+| Other | x |
 
 I pretty much fail this test every time and here's why. Only recently I discovered something really important. So important that it has completely changed the way I communicate and the way I think. It is something I am still practicing and still getting wrong. I discovered this:
 
