@@ -1,6 +1,6 @@
 # The Great Deception
 
-If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhaps overwhelmed. Hopefully it helped you consider new ways to re-factor your life. However, you might be feeling that there's been a grand lie that has been passed around since we as humanity began counting in hours. The lie is simple yet really, really effective at helping us defeat ourselves.
+If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhaps overwhelmed. Hopefully it helped you consider new ways to re-factor your life. You might also be feeling that there's been a grand lie that has been passed around since we as humanity began counting hours. The one such lie is deceptively simple yet really, really effective at helping us defeat ourselves.
 
 >"There are 168 hours in every week and if I am going to use it wisely I must compartmentalize."
 
@@ -8,17 +8,17 @@ Ok, so perhaps that's not a completely "true" lie. Let me try that again...
 
 >"There are 168 'usable' hours in every week and if I am going to use it wisely I must compartmentalize."
 
-The fact is that we have black holes and dynamos for the little time we have here on this earth. Somethings we do effectively absorb the mass of time we have, while other things we do can sometimes feel like they help "generate" new time.
+The fact is that we have black holes and dynamos for the little time we have here on this earth. Somethings we do absorb the mass of time we have, while other things we do can sometimes feel like they help generate "new" time.
 
-In 1979 there was a science fiction film named "[The Black Hole](http://en.wikipedia.org/wiki/The_Black_Hole)." I had the book and record that went with the movie which I played a few thousand times. The robot on the U.S.S Palomino named V.I.N.C.E.N.T remarked, 
+In 1979 there was a science fiction film named "[The Black Hole](http://en.wikipedia.org/wiki/The_Black_Hole)." I had the book and record that went with the movie which I played at least few thousand times. The robot on the U.S.S Palomino named V.I.N.C.E.N.T remarked, 
 
 >"A black hole, the deadliest force in the universe, nothing can escape it!"
 
-How amazingly accurate is that description when we think about all the time we have that passes quickly? There are always gaps in time, leaky moment faucets that cause the time we have to simply disappear. There are ways to deal with the theoretical gravity of your minute draining anomaly, but first you have to accept this framework called time is a bit of a farce. Not because it is not scientific or that it has not been proven as a metric that can be measured and used - no the problem with time has nothing to do with time at all. Our problem with time has all to do with us and our effective utilization of a limited resource that has no limit. 
+That is an amazingly accurate description when we think about all the time we don't seem to have, how that time passes so quickly or how easy it is to waste. There are always gaps in time, leaky moment faucets that cause the time we have to simply disappear. There are ways to deal with the theoretical gravity of your minute draining anomaly, but first you have to accept this framework called TIME is a bit of a farce. Not because it is not scientific or that it has not been proven as a metric that can be measured and used - no, the problem with time has nothing to do with time at all. Our problem with time has all to do with us and our effective utilization of a limited resource that has no perceptible limit outside of death. 
 
 It is as though we treat time more like [Tribbles](http://en.wikipedia.org/wiki/Tribble) and less like a scarce resource. We measure it loosely against the beginning of time and see no reason to be concerned that as an individual consumer we can only eat so much. 
 
-It's a lot like eating Pringles, for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like salt and vinegar and more like regret.
+It's a lot like eating Pringles, for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret.
 
 Recently I was chatting with a software developer. We were discussing if participating in a hackathon would be something that was worth doing. I asked her if it was a technology that she'd been wanting to try out and from there we continued talking about the pros and cons of participating. We ended the conversation with this simple, yet powerful dialog:
 
@@ -26,9 +26,11 @@ Recently I was chatting with a software developer. We were discussing if partici
 
 >"me: here's the deal... worst case if you participate you not finish the game but you would've at least learned something"
 
->"me: remember you're not guaranteed tomorrow, why put off to tomorrow what you could do today?"
+>"me: we're not guaranteed tomorrow, why put off to tomorrow what you could do today?"
 
-It sounds cliché I know but very applicable. As we were talking was downloading the SDK and created a new repository. 
+It sounds cliché, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it.  I have always wondered if we placed a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done.  
+
+In the case above, as we were talking I was downloading the SDK and had created a new repository for the game. 
 
 Will it become something?  
 I don't know.
@@ -39,9 +41,9 @@ Probably not.
 WIll I learn something that I might be able to share with others?  
 Definitely.
 
-You see this whole concept of "time" forces our thinking right into military meal thinking where we don't let our carrots touch our peas - those two things used to go together really well. Military meal thinking puts us into "time box" things and never lets any cross over happen. It also forces us to constrain anything that might not fit into a "work life" box. If you've ever canceled a new project before you started it because you feel you'll not have enough time you might be a victim of time compartmentalization.
+You see this whole concept of "time" forces our brains right into military meal thinking where we don't let our carrots touch our peas - those two things used to go together really well. Military meal thinking entices us to "time box" things and never lets any cross over happen. It also forces us to constrain anything that might not fit into a "work life" box. If you've ever canceled a new project before you started it because you feel you'll not have enough time you might be a victim of time compartmentalization and military meal thinking.
 
-I'm not trying to be a Time Cop here, that's Jean-Claude Van Damme's job. I'm simply pointing out we as the human race have a unfathomable potential to do some really amazing things and that we might be able to do those things if we simply try. 
+I'm not trying to be a [Time Cop](http://en.wikipedia.org/wiki/Timecop) here, that's Jean-Claude Van Damme's job. I'm simply pointing out we as the human race have a unfathomable potential to do some really amazing things and that we might be able to do those things if we simply try. 
 
 I think the one of the greatest lies we could tell ourselves is that we'll do x later. Use the following checklist to see if you have more black holes than dynamos in your life:
 
@@ -57,25 +59,27 @@ I think the one of the greatest lies we could tell ourselves is that we'll do x 
 | I need to do x... | x |
 | Other | x |
 
-I pretty much fail this test every time and here's why. Only recently I discovered something really important. So important that it has completely changed the way I communicate and the way I think. It is something I am still practicing and still getting wrong. I discovered this:
+I pretty much fail this test every time and here's why. Only recently I discovered something really important. So important that it has completely changed the way I communicate and the way I think. It is something I am still practicing and still getting wrong. Here's what I discovered:
 
 >"No is a complete sentence."
 
-Opting out of things because it was simply something I just could not do has always been a really difficult thing for me to do. The fact is that there are just somethings we simply cannot do. Either they just do not fit our passion or they do not align with our priorities; whatever the case may be a simple "No" can go a really long way. Think about it this way, when we try to justify our actions it can and does come across to most people like Hollywood trying to convince the technically savvy to accept their latest Hacker disaterpeice. It sounds and feels ridiculous.
+Opting out of things because it was simply something I just could not do has always been a really difficult thing for me. The fact is that there are just somethings we simply cannot do. Either they just do not fit our passion or they do not align with our priorities; whatever the case might be, a simple "No" can go a really long way. Think about it this way, when we try to justify our actions it can and does come across to most people like Hollywood trying to convince the technically savvy to accept their latest Hacker disaterpeice. It sounds and feels ridiculous.
 
-Justification is simply another way to defer dealing with something else. The fact is that time is finite and our consumption of that construct is paramount. It's critical how we consume it. It's like running around in [Half-Life](http://en.wikipedia.org/wiki/Half-Life_%28video_game%29) and using up all of the health and suit chargers before trying to down the boss - it will all be used up and you'll have nothing left for the second wave.
+Justification is simply another way to defer dealing with something else. The fact is that time is finite and our consumption of that construct is paramount. How we consume it is critical. It's like running around in [Half-Life](http://en.wikipedia.org/wiki/Half-Life_%28video_game%29) and using up all of the health and suit chargers before trying to down the boss - the chargers will be used up and you'll have nothing left for the second wave.
 
-Do you believe we have a tendency to lie to ourselves? I do. If we could better, more purposely utilize what we have it would keep us from insanity driven behaviors like compartmentalization and time paralysis.
+Do you believe we have a tendency to lie to ourselves? I do. If we could better, more purposely utilize what we have, it would keep us from insanity driven behaviors like compartmentalization and time paralysis.
 
-When we take chunks of things and stick them in compartments the space between the compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. My kids are that perspective. Children exhibit this amazing ability to see past all of the cruft we as "seasoned" humans tend to put on things. Our "you cant's" or "you should not's" become their "why not's." 
+When we take chunks of things and stick them in compartments the space between the compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. Often my kids are that perspective. Children exhibit this amazing ability to see past all of the cruft we as "seasoned" humans tend to put on our lives. Our "you cant's" or "you should not's" become their "why not's." 
 
-I was working on an application that cached some pages. Naturally, the challenge I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue for about a month until one day I came home and my seven year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - share problems without expecting them to be fixed). He then replied with a statement that shattered my little dev world:
+I was working on an application that cached some pages. Naturally, the challenge I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue off and on for about a month until one day I came home and my seven year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - share problems without expecting them to be fixed). He then replied with a statement that shattered my little developer world:
 
 >"If it's giving you so many problems why don't you just stop using it?"
 
 In an instant my son single handedly solved one of the [hardest problems in computer science](http://martinfowler.com/bliki/TwoHardThings.html). With his suggestion in mind I removed it and all was well. 
 
-You see the great deception isn't a lie or something sneaky someone else does to us, rather, it's something we convince ourselves of. Who you are at work and at home really should be the same person because you are the same person. We are free to bring our nerd home and share it with our family and friends; we owe it to them! 
+You see the great deception isn't a lie or something sneaky someone else does to us, rather, it's something we convince ourselves of. Who you are at work and at home really should be the same person because you are the same person. We are free to bring our nerd home and share it with our family and friends; we owe it to them! So ask yourself, "Do you think you are behaving like the individuals you are or want to be?"
+
+
 	
 
 
