@@ -20,17 +20,21 @@ It is as though we treat time more like [Tribbles](http://en.wikipedia.org/wiki/
 
 It's a lot like eating Pringles, for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret.
 
-Recently I was chatting with a software developer. We were discussing if participating in a hackathon would be something that was worth doing. I asked her if it was a technology that she'd been wanting to try out and from there we continued talking about the pros and cons of participating. We ended the conversation with this simple, yet powerful dialog:
+Recently I was chatting with a software developer friend of mine. We were discussing if participating in a hackathon would be something that was worth doing. I asked her if it was a technology that she'd been wanting to try out and from there we continued talking about the pros and cons of participating. We ended the conversation with this simple, yet powerful dialog:
 
->"dev: I'm interested in all of it [game development]"
+>"her: I'm interested in all of it [game development] and I think it would be fun to try out."
 
 >"me: here's the deal... worst case if you participate you not finish the game but you would've at least learned something"
 
+>"her: true."
+
 >"me: we're not guaranteed tomorrow, why put off to tomorrow what you could do today?"
 
-It sounds cliché, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it.  I have always wondered if we placed a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done.  
+It sounds cliche, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it.  I have always wondered if we placed a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done.  
 
-In the case above, as we were talking I was downloading the SDK and had created a new repository for the game. 
+I struggle with this idea of getting rid of the idea and just starting a project all the time. I talk myself into and out of some projects that have potential. 
+
+In the case above, as we were talking I was downloading the SDK and had created a new repository for the game; I left our conversation motivated, inspired even. 
 
 Will it become something?  
 I don't know.
@@ -38,14 +42,20 @@ I don't know.
 Will I regret trying to create something new?  
 Probably not.
 
-WIll I learn something that I might be able to share with others?  
+Will I learn something that I might be able to share with others?  
 Definitely.
 
-You see this whole concept of "time" forces our brains right into military meal thinking where we don't let our carrots touch our peas - those two things used to go together really well. Military meal thinking entices us to "time box" things and never lets any cross over happen. It also forces us to constrain anything that might not fit into a "work life" box. If you've ever canceled a new project before you started it because you feel you'll not have enough time you might be a victim of time compartmentalization and military meal thinking.
+Motivation is a powerful force that can give ideas the momentum needed to become projects. Motivation presses the keys on our keyboards when we don't want to; it pushes us a bit harder when we are questioning sharing a new idea with our friends or family. It's the [warp core](http://en.wikipedia.org/wiki/Warp_drive) to the nacelles of our lives; the [redstone](http://minecraft.gamepedia.com/Redstone) to our building blocks. You get the point.
 
-I'm not trying to be a [Time Cop](http://en.wikipedia.org/wiki/Timecop) here, that's Jean-Claude Van Damme's job. I'm simply pointing out we as the human race have a unfathomable potential to do some really amazing things and that we might be able to do those things if we simply try. 
+The problem with motivation is that it can be a snare just as much as it can be freeing. Most of the time you'll find developers working pretty hard on the things they do. If you ask them why do they work so passionately a common response might be:
 
-I think the one of the greatest lies we could tell ourselves is that we'll do x later. Use the following checklist to see if you have more black holes than dynamos in your life:
+>"Because I want to build something that will delight people and that I can be proud of."
+
+We have to be careful because this type of motivational compulsion because if we base our self worth in the depths of the things we create and how people respond to those things we could fall into Corporate [Stockholm Syndrome](http://en.wikipedia.org/wiki/Stockholm_syndrome). Not to mention people are emotional and fickle; humans emotionally swing like pendulums that can either delight you with praise or beat you down with disappointment. If we frequently find ourselves in situations where we are "expected" to stay late and do "whatever it takes" to get the job done we might be suffering from this trap. This type of emotional trauma can cause some serious damage. If I had to put it into "gamer" terms it would be like facing [Gordon Freeman's crowbar](http://en.wikipedia.org/wiki/Gordon_Freeman). There will be a lot of swings but the one on the receiving end of the bar will always go down.
+
+Inspiration and motivation can completely backfire on us. We can go to a great talk at a conference or talk to someone who has infectious energy, like a Red Bull with legs, but on the other side of that we leave feeling like we can do anything without thinking about why we'd even want to do what we just got persuaded to do. 
+
+I think some of the greatest lies we could tell ourselves is that we'll do x later or that saying "yes" to everything is the best way to level up. It seems that these two things are contradictions of one another but instead of falling on the far extremes of each perhaps there is a way to balance the yes and no moments in our lives. Use the following checklist to see if you have more black holes than dynamos in your life:
 
 | Phrase | Times said |
 |:----------------------------------|-----------:|
@@ -61,7 +71,7 @@ I think the one of the greatest lies we could tell ourselves is that we'll do x 
 
 I pretty much fail this test every time and here's why. Only recently I discovered something really important. So important that it has completely changed the way I communicate and the way I think. It is something I am still practicing and still getting wrong. Here's what I discovered:
 
->"No is a complete sentence."
+>"No is a complete sentence just like yes."
 
 Opting out of things because it was simply something I just could not do has always been a really difficult thing for me. The fact is that there are just somethings we simply cannot do. Either they just do not fit our passion or they do not align with our priorities; whatever the case might be, a simple "No" can go a really long way. Think about it this way, when we try to justify our actions it can and does come across to most people like Hollywood trying to convince the technically savvy to accept their latest Hacker disaster-piece. It sounds and feels ridiculous.
 
