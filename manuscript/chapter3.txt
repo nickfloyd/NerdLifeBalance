@@ -12,15 +12,19 @@ The fact is that we have black holes and dynamos for the little time we have her
 
 In 1979 there was a science fiction film named "[The Black Hole](http://en.wikipedia.org/wiki/The_Black_Hole)." I had the book and record that went with the movie which I played at least few thousand times. The robot on the U.S.S Palomino named V.I.N.C.E.N.T remarked, 
 
->"A black hole, the deadliest force in the universe, nothing can escape it!"
+>"<robotVoice>A black hole, the deadliest force in the universe, nothing can escape it!</robotVoice>"
 
-That is an amazingly accurate description when we think about all the time we don't seem to have, how that time passes so quickly or how easy it is to waste. There are always gaps in time, leaky moment faucets that cause the time we have to simply disappear. There are ways to deal with the theoretical gravity of your minute draining anomaly, but first you have to accept this framework called TIME is a bit of a farce. Not because it is not scientific or that it has not been proven as a metric that can be measured and used - no, the problem with time has nothing to do with time at all. Our problem with time has all to do with us and our effective utilization of a limited resource that has no perceptible limit outside of death. 
+That is an amazingly accurate description thinking about all the time we don't seem to have, how that time passes so quickly or how easy it is to waste. There are always gaps in time, leaky moment faucets that cause the time we have to simply disappear. There are ways to deal with the theoretical gravity of your minute draining anomaly, but first you have to accept that this framework called TIME is a bit of a farce. Not because it is not scientific or that it has not been proven as a metric that can be measured and used - no, the problem with time has nothing to do with time at all. Our age old struggle with time has all to do with us and our effective utilization of a limited resource that has no perceptible limit outside of death. 
 
 It is as though we treat time more like [Tribbles](http://en.wikipedia.org/wiki/Tribble) and less like a scarce resource. We measure it loosely against the beginning of time and see no reason to be concerned that as an individual consumer we can only eat so much. 
 
-It's a lot like eating Pringles, for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret.
+It's a lot like eating Pringles; for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret. So reach for your Mountain Dew friend and drown your snacking sorrows or perhaps be can snack on our time using a more healthy treat. I know what you're thinking, "I love my 'B' movies and my 16hr stretches of [Bioshock Infinite](http://en.wikipedia.org/wiki/BioShock_Infinite) and [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) tourneys'." While I would agree that those things are indeed a possible staple of a type of Nerd's life, I feel like I must share a truth with you: 
 
-Recently I was chatting with a software developer friend of mine. We were discussing if participating in a hackathon would be something that was worth doing. I asked her if it was a technology that she'd been wanting to try out and from there we continued talking about the pros and cons of participating. We ended the conversation with this simple, yet powerful dialog:
+>"The Nerd cannot live on 'game' alone."
+
+>"Heresy!" you say?
+
+Recently I was chatting with a software developer friend of mine. We were discussing if participating in a hackathon would be something that was worth doing. I asked her if it was a technology that was interesting and so on and from there we continued talking about the pros and cons of participating. We ended the conversation with this simple, yet powerful dialog:
 
 >"her: I'm interested in all of it [game development] and I think it would be fun to try out."
 
@@ -30,7 +34,7 @@ Recently I was chatting with a software developer friend of mine. We were discus
 
 >"me: we're not guaranteed tomorrow, why put off to tomorrow what you could do today?"
 
-It sounds cliche, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it.  I have always wondered if we placed a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done.  
+It sounds cliche, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it.  I have always wondered what would happen if we were ever to place a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done.  Don't get me wrong meetings have their function, but what if we could simply begin working on the things that needed to be done. 
 
 I struggle with this idea of getting rid of the idea and just starting a project all the time. I talk myself into and out of some projects that have potential. 
 
@@ -45,17 +49,19 @@ Probably not.
 Will I learn something that I might be able to share with others?  
 Definitely.
 
-Motivation is a powerful force that can give ideas the momentum needed to become projects. Motivation presses the keys on our keyboards when we don't want to; it pushes us a bit harder when we are questioning sharing a new idea with our friends or family. It's the [warp core](http://en.wikipedia.org/wiki/Warp_drive) to the nacelles of our lives; the [redstone](http://minecraft.gamepedia.com/Redstone) to our building blocks. You get the point.
+Motivation is a powerful force that can give ideas the momentum needed to become projects. Motivation presses the keys on our keyboards when we don't want to; it pushes us a bit harder when we are questioning sharing a new idea with our friends or family. It's the [warp core](http://en.wikipedia.org/wiki/Warp_drive) to the nacelles of our lives; the [redstone](http://minecraft.gamepedia.com/Redstone) to our building blocks.
 
 The problem with motivation is that it can be a snare just as much as it can be freeing. Most of the time you'll find developers working pretty hard on the things they do. If you ask them why do they work so passionately a common response might be:
 
 >"Because I want to build something that will delight people and that I can be proud of."
 
-We have to be careful because this type of motivational compulsion because if we base our self worth in the depths of the things we create and how people respond to those things we could fall into Corporate [Stockholm Syndrome](http://en.wikipedia.org/wiki/Stockholm_syndrome). Not to mention people are emotional and fickle; humans emotionally swing like pendulums that can either delight you with praise or beat you down with disappointment. If we frequently find ourselves in situations where we are "expected" to stay late and do "whatever it takes" to get the job done we might be suffering from this trap. This type of emotional trauma can cause some serious damage. If I had to put it into "gamer" terms it would be like facing [Gordon Freeman's crowbar](http://en.wikipedia.org/wiki/Gordon_Freeman). There will be a lot of swings but the one on the receiving end of the bar will always go down.
+We have to be careful of this type of motivational compulsion because if we base our self worth in the depths of the things we create and how people respond to those things we could fall into Corporate [Stockholm Syndrome](http://en.wikipedia.org/wiki/Stockholm_syndrome). Not to mention people are emotional and fickle; humans emotionally swing like pendulums that can either delight you with praise or beat you down with disappointment. 
 
-Inspiration and motivation can completely backfire on us. We can go to a great talk at a conference or talk to someone who has infectious energy, like a Red Bull with legs, but on the other side of that we leave feeling like we can do anything without thinking about why we'd even want to do what we just got persuaded to do. 
+If we frequently find ourselves in situations where we are "expected" to stay late and do "whatever it takes" to get the job done we might be suffering from this trap. This type of emotional trauma can cause some serious damage. If I had to put it into "gamer" terms it would be like facing [Gordon Freeman's crowbar](http://en.wikipedia.org/wiki/Gordon_Freeman). There will be a lot of swings but the one on the receiving end of the bar will always go down.
 
-I think some of the greatest lies we could tell ourselves is that we'll do x later or that saying "yes" to everything is the best way to level up. It seems that these two things are contradictions of one another but instead of falling on the far extremes of each perhaps there is a way to balance the yes and no moments in our lives. Use the following checklist to see if you have more black holes than dynamos in your life:
+Inspiration and motivation can completely backfire on us. We can go to a great talk at a conference or talk to someone who has infectious energy, like a "Red Bull" with legs, but on the other side of that we leave feeling like we can do anything without thinking about why we'd even want to do what we just got persuaded to do. 
+
+I think some of the greatest lies we could tell ourselves is that we'll do x later or that saying "yes" to everything is the best way to level up. It seems that these two things are contradictions of one another but instead of falling on the far extremes of each, perhaps there is a way to balance the "yes" and "no" moments in our lives. Use the following checklist to see if you might have more black holes than dynamos in your life:
 
 | Phrase | Times said |
 |:----------------------------------|-----------:|
@@ -69,11 +75,11 @@ I think some of the greatest lies we could tell ourselves is that we'll do x lat
 | I need to do x... | x |
 | Other | x |
 
-I pretty much fail this test every time and here's why. Only recently I discovered something really important. So important that it has completely changed the way I communicate and the way I think. It is something I am still practicing and still getting wrong. Here's what I discovered:
+I pretty much fail this test every time I take it. Just recently I discovered something really important. So important that it has completely changed the way I communicate and the way I think. It is something I am still practicing and still getting wrong. Here's what I discovered:
 
->"No is a complete sentence just like yes."
+>"No is a complete sentence just like yes is..."
 
-Opting out of things because it was simply something I just could not do has always been a really difficult thing for me. The fact is that there are just somethings we simply cannot do. Either they just do not fit our passion or they do not align with our priorities; whatever the case might be, a simple "No" can go a really long way. Think about it this way, when we try to justify our actions it can and does come across to most people like Hollywood trying to convince the technically savvy to accept their latest Hacker disaster-piece. It sounds and feels ridiculous.
+Opting out of things because it was simply something I just could not do has always been a really difficult thing for me. The fact is there are just somethings that we simply cannot do. Either they just do not fit our passion or they do not align with our priorities; whatever the case, a simple "No" can go a really long way. Think about it like this, when we try to justify our actions it can come across to most people like Hollywood trying to convince the technically savvy to accept their latest Hacker disaster-piece. It sounds and feels ridiculous.
 
 Justification is simply another way to defer dealing with something else. The fact is that time is finite and our consumption of that construct is paramount. How we consume it is critical. It's like running around in [Half-Life](http://en.wikipedia.org/wiki/Half-Life_%28video_game%29) and using up all of the health and suit chargers before trying to down the boss - the chargers will be used up and you'll have nothing left for the second wave.
 
@@ -81,13 +87,13 @@ Do you believe we have a tendency to lie to ourselves? I do. If we could better,
 
 When we take chunks of things and stick them in compartments the space between the compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. Often my kids are that perspective. Children exhibit this amazing ability to see past all of the cruft we as "seasoned" humans tend to put on our lives. Our mindset of "you cannot" or "you should not" become their "why not." 
 
-I was working on an application that cached some pages. Naturally, the challenge I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue off and on for about a month until one day I came home and my seven year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - share problems without expecting them to be fixed). He then replied with a statement that shattered my little developer world:
+I was working on an application that cached some pages. Naturally, the challenge I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue off and on for about a month until one day I came home and my seven year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - sharing hard problems for perspective). He then replied with a statement that shattered my little developer world:
 
 >"If it's giving you so many problems why don't you just stop using it?"
 
-In an instant my son single handedly solved one of the [hardest problems in computer science](http://martinfowler.com/bliki/TwoHardThings.html). With his suggestion in mind I removed it and all was well. 
+In an instant my son single handedly solved one of the [hardest problems in computer science](http://martinfowler.com/bliki/TwoHardThings.html). With his suggestion in mind I removed the code and all was well. 
 
-You see the great deception isn't a lie or something sneaky someone else does to us, rather, it's something we convince ourselves of. Who you are at work and at home really should be the same person because you are the same person. We are free to bring our nerd home and share it with our family and friends; we owe it to them! So ask yourself, "Do you think you are behaving like the individuals you are or want to be?"
+You see, the great deception isn't something sneaky someone else does to us, rather, it's something we convince ourselves of. Who you are at work and at home really should be the same person because you **are** the same person. We are free to bring our nerd home and share it with our family and friends; we owe it to them! So ask yourself, "Do you think you are behaving like the individual you are or want to be?"
 
 
 	
