@@ -169,11 +169,11 @@ Like most learned things we will naturally begin to avoid the painful things in 
 
 The following are two representations of this grain of sand thinking:
 
-##The Bad grain##
+**The Bad grain**
 
 ![](images/bad_grain.png)
 
-##The good grain##
+**The good grain**
 
 ![](images/good_grain.png)
 
