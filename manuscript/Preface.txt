@@ -1,4 +1,4 @@
-# Preface
+# Introduction
 
 Over the past several years I've had the privilege of throwing bits for some seriously amazing companies. Usually, the unspoken mindset was that you were supposed to work until the task was done or that more hours meant more code (good or bad). The idea was by focusing on the tasks and the work, we would inevitably achieve our goals and everyone would be happy. I remember working some really long weeks hitting the work goal, but not feeling very happy.
 
