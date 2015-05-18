@@ -2,20 +2,46 @@
 
 Over the past several years I've had the privilege of throwing bits for some seriously amazing companies. Usually, the unspoken mindset was that you were supposed to work until the task was done or that more hours meant more code (good or bad). The idea was by focusing on the tasks and the work, we would inevitably achieve our goals and everyone would be happy. I remember working some really long weeks hitting the work goal, but not feeling very happy.
 
-But here's the challenge for all developers who can relate:
+But here's the challenge for all of those who can relate:
 
 *Go for work-life awesome not work life balance.*
 
-This is the idea that you can actually have a job that you are genuinely passionate about and you can live out what you love to do in all aspects of your life not just at this thing called work.
+This is the idea that you can actually have a job that you are genuinely passionate about and you can live out what you love to do in all aspects of your life.
 
-The great deception is that work and life should be two separate and sterile boxes that need to be measured and weighed by unreachable time-lines and responsibility. This is deceiving because somehow we are convinced that we can't have job that comes from what we do in life. The sad reality of attempting to serve two separate masters will result in pulling us away from one and the other.
+The great deception is that work and life should be two separate and sterile boxes that need to be measured and weighed by unreachable time-lines and responsibility. This is deceiving because somehow we are convinced that we can't have job that comes from what we do in life. The sad reality of attempting to serve two separate masters will result in pulling us away from one or the other.
 
 The fact is that our work skills and the rest of our lives are not separate hot and cold faucets. Instead of becoming frustrated at trying to compartmentalize, we should think about making our lives more congruent. Work skills and talents should not be one dimensional, but can be thought of as two sides of Velcro that fit together snugly.
 
-With a different mindset, your life can be work-life awesome. People have attempted to establish balance by completely separating the two, but consider your talents, creativity and passions as a sum rather than a quotient of personal and work happiness.
+With a different mindset, your life can be hitting "work-life awesome." People have attempted to establish balance by completely separating the two, but consider your talents, creativity and passions as a sum rather than a quotient of personal plus work happiness.
 
-Here's the secret: If you find something that you are genuinely excited about and you are fortunate enough to do it as a "job," how awesome would that be to share that passion with your family and friends? What if I told you your work talents were not separate but part of whom you are?
+Here's the secret: If you find something that you are genuinely excited about and you are fortunate enough to do it as a "job," how awesome would that be to share that passion with your family and friends? What if I told you your work talents were not separate but part of whom you are? You might respond, "sure, that seems right." It seems logical but often we find returning to the act of trying to peel the two apart again.
 
 I've been writing code for a long time, but it was more recently, when I joined New Relic, I began to realize that my work is more than a component of my life that should be turned off when I left the building.  This revelation sprung from  New Relic's culture: a place of doers who care tremendously about what they do; a place where every moment is deemed important, not just at work but everywhere; a place where really cool engineering stuff begins at the top and at the bottom; where they'd rather have you over the long run then burn you out early in exchange for some code; a place where family comes first.
 
 Living this way is challenging, hard and awesome all at the same time, but it has never been work for me. I had accepted some beliefs that work always had to be work, which was often frustrating and that life was the escape from being frustrated at work.  But I had it backwards - Life is awesome when this thing called "work" becomes another way of expressing the passions in your life.
+
+This book is about finding and expressing what each of us were created to do.  You will not find a 12 step approach or some gimmic to get to be the better you in 10 days.
+
+**The intent of this book is to:**
+
+* Help you find the refactoring mindset for your life
+* Motivate you toward finding a place that fits your passions
+* Help answer that question that has been a constant hum in the back of your mind... "So now what?"
+* Start a discussion so that we can all get "better" (not perfect) at this whole work-life thing.
+
+**Which means this book is:**
+
+* Based on a collection of real world experience from many people
+* Intnetionally filled with satire and fun to help us all take ourselves a little less seriously
+* Filled with Nerd and Geek culture references to illustrate our need for refactoring
+* Designed to speak to anyone who is passionate about doing what they love (defined by this book as a 'nerd') but feel like they can't
+* Filled with projects that you can do with your family and friends
+* Intended to generate thinking and discussion over what this whole work life thing is supposed to be.
+
+**This book is NOT:**
+
+* A self help book
+* Intended to be read but never shared
+* Just for "computer" nerds but rather for all nerd-kind
+
+Your time is precious.  You're taking time to read this work right now (of which I am grateful) instead of spending that time on other things like playing with the kiddos, "capturing the flag" in Halo, planting a garden or making your next exhibit for the [Maker Faire]. Whatever the case, you are here so **THANK YOU.** I have six amazing kids and a beautiful wife so time and the optimization of getting things done (while having loads of fun) is paramount to me. So my hope for you is that the words on the following pages will be valuable to you. Between the over-the-top jokes, histrionic illustrations, smattering of geek/nerd references and all of the stories you'll find what I did: **WORK-LIFE AWESOME.**
