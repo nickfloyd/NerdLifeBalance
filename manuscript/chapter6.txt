@@ -53,9 +53,9 @@ Think of it like this: You decide that you really have a fondness for cats. You 
 
 I realize the example is contrived, though probable. That is what obsession can look like and it has the ability to rob you of many amazing years. If you find yourself sandwiching your days between energy drinks and melatonin tablets you might want to stop and review what "winning" really looks like to you because you might simply be stuck in a tight loop and eventually you're going to run out of memory and drop dead.
 
-Never once in my career has being away from my family, friends or hobbies has ever made anyone fonder of me or me of them. The absurdity of either spending more time physically or mentally at a place called "work" is really deceiving. From the outside, it looks like a developer is killing "it" during those late nights and weekends. I get some of my best software ideas just chatting with my kids about things completely unrelated to software or technology.  Being around those I love helps me be more creative.
+Never once in my career has being away from my family, friends or hobbies has ever made anyone fonder of me or me of them. The absurdity of either spending more time physically or mentally at a place called "work" is really deceiving. From the outside, it looks like a developer is killing "it" during those late nights and weekends. I get some of my best software ideas just chatting with my kids about things completely unrelated to software or technology. Being around those I love helps me be more creative.
 
-The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up.  In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up.  Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long - that's what could happen to us; we will burn out and it could be far worse than simply being tired.
+The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up. In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up. Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long - that's what could happen to us; we will burn out and it could be far worse than simply being tired.
 
 Secondly, this behavior deceives your team and establishes the unrealistic expectation that your projects will always be done in an accelerated time frame, which will eventually become the expected norm.
 
@@ -157,7 +157,7 @@ I often ask myself who defines "good enough" and when I ask that question I ofte
 
 As a side note, if you are an impostor one of the best and most riskiest thing you can do is talk to your boss or friend and let them know you want to seek opportunities to learn and grow where you are. You also might be in the wrong place and you simply need to get in the right place to thrive. We have too few hours on this earth to spend them doing something we really have no interest in doing.
 
-*"Frank Abagnale began his career in fraud at age 15.  His known impersonations were an airline pilot, a doctor, an attorney and even a teaching assistant."* [source: wikipedia](http://en.wikipedia.org/wiki/Frank_Abagnale)
+*"Frank Abagnale began his career in fraud at age 15. His known impersonations were an airline pilot, a doctor, an attorney and even a teaching assistant."* [source: wikipedia](http://en.wikipedia.org/wiki/Frank_Abagnale)
 
 # The pain of sand
 
@@ -167,7 +167,7 @@ One or two grains of sand in your life can quickly become a painfully searing ra
 
 Like most learned things we will naturally begin to avoid the painful things in our environment. In terms of the small irritating things in our environments these can be grains of sand that can add up quickly and begin to irritate on a massive scale. I call this the **grain of sand factor.** It is the idea that over time if we do not address the small irritants in our lives quickly that overtime the net result is that they will be really expensive to deal with and could possibly drive us away from what we love to do.
 
-The following are two representations of this grain of sand thinking.  Even though this line of thinking is spelled out using a contrived algorithm the principle is somewhat simple: know when to stop and address something that is irritating you and distracting you from getting real work done.
+The following are two representations of this grain of sand thinking. Even though this line of thinking is spelled out using a contrived algorithm the principle is somewhat simple: know when to stop and address something that is irritating you and distracting you from getting real work done.
 
 **The Bad grain**
 
@@ -212,7 +212,7 @@ The next day I woke expectantly to an inbox of joy, there it was the message I s
 
 I had inadvertently added folks to the "To" and combined with auto correct hijinks and an obvious sleep deprived conscious I had the makings for an email sent from the [Benny Hill](http://en.wikipedia.org/wiki/Benny_Hill) of the Matrix. Interwoven with code there were double entendres and unfortunate adjectives sprinkled about. It was a veritable cornucopia of embarrassment. Oh and absolute shocker, it did not solve the problem. 
 
-When I got to work, where I spent most of the day avoiding HR, a few of the folks had passed the email around and were getting some enjoyment from it. While I was eating my humble pie someone asked me, "so what's the problem you've been working on?"  With an expectant sigh I showed him the thing that had captives my attention and dreams. To which he replied, "oh yeah I've seen this before."  My initial thought was "impossible," who would keep the solution to world hunger and my software problem to themselves! Additionally, I never got to enjoy an embarrassing email from him; clearly something was off. 
+When I got to work, where I spent most of the day avoiding HR, a few of the folks had passed the email around and were getting some enjoyment from it. While I was eating my humble pie someone asked me, "so what's the problem you've been working on?" With an expectant sigh I showed him the thing that had captives my attention and dreams. To which he replied, "oh yeah I've seen this before." My initial thought was "impossible," who would keep the solution to world hunger and my software problem to themselves! Additionally, I never got to enjoy an embarrassing email from him; clearly something was off. 
 
 As he took me through the solution I realized a few things:
 
@@ -222,7 +222,7 @@ As he took me through the solution I realized a few things:
 
 ***
 
-In the middle of the night you always seem to have the best ideas but when you wake up you realize you were trying to fix your software with unicorns and gummy bears. Know the benefits of taking issues to your team and friends.  Have a personal board of directors; people that share your passion and craft that you can count on to filter your insanity. 
+In the middle of the night you always seem to have the best ideas but when you wake up you realize you were trying to fix your software with unicorns and gummy bears. Know the benefits of taking issues to your team and friends. Have a personal board of directors; people that share your passion and craft that you can count on to filter your insanity. 
 
 *"In the 1987 film "Robocop" the Desert Eagle Magnum that is in the OCP Board Room was originally intended to be Robocop's gun. There is even existing behind-the-scene photos and footage of Peter Weller practicing with the Desert Eagle. However, when they gave Weller the gun, they noticed that even the bulky Desert Eagle was too small in the hands of Robocop. So the film's armory supervisor, Randy E. Moore, brought in a Berretta Automatic Pistol to which a compensator and decorative dressing was added to increase the size of the gun." If one of your personal board members carries either of those guns you should probably listen to them!* [source: imdb](http://www.imdb.com/title/tt0093870/trivia)
 
