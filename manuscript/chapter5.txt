@@ -1,4 +1,4 @@
-# The BAF: Bringing friends and family into things you love
+# The BAF
 
 In most [MMORPGs](http://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) there is a common term used for when players round up many [mobs](http://en.wikipedia.org/wiki/Mob_%28video_gaming%29) on accident as they are either "passing through" or "farming" for quests and the like.  This term is BAF or "Bring A Friend." Often this is considered a bad thing because doing so often causes unforeseen consequences.  The problem is that as a PC (player character) if you are trying to fight one thing and end up needing to fight two you might end up taking a dirt nap. 
 
