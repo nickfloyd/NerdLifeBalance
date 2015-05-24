@@ -8,13 +8,13 @@ It seems that we, as the human race, have several different opinions or ideas of
 
 Basically, if you do x and a positive result comes of it, you'll continue to do x. This is considered to be [reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning). It suggests that we will stop doing something else in favor of the thing that is making us "successful." There are a few potential stumbling blocks that many of us could face with this type of behavioral realignment. 
 
-First, we sometimes allow outside influences to direct our idea of "success." Perhaps it was a college professor, your parents, a spouse, or your coworkers that began laying the bricks in your road to winning. Before you know it you're trying to fulfill someone else's dream or hopes .
+First, we sometimes allow outside influences to direct our idea of "success." Perhaps it was a college professor, your parents, a spouse, or your coworkers that began laying the bricks in your road to winning. Before you know it you're trying to fulfill someone else's dream or hopes.
 
 ***
 
 It was the third night in a row he was at work, trying to keep up with the shear workload. Overwhelmed by commitments and to-dos. "How did I get here" he thought while he kicked back another can of sugar infused caffeine death juice. The pressure was immense; so much so that the work became blurry and he was treading water by mashing random keys on the keyboard. 
 
-He was going nowhere as a result of being told where to go. A week earlier, his boss came in and told the him that the upcoming project was going to be critical in determining if he was going to "move up." He thought back to his days in college and remembered that it seemed like a continual crunch and that his professors always said that he'd be successful. "If a constant push in overdrive worked then, surely it will work now" he thought.
+He was going nowhere as a result of being told where to go. A week earlier, his boss came in and told him that the upcoming project was going to be critical in determining if he was going to "move up." He thought back to his days in college and remembered that it seemed like a continual crunch and that his professors always said that he'd be successful. "If a constant push in overdrive worked then, surely it will work now" he thought.
 
 This was not the first time this type of carrot had been dangled in front of him or his coworkers. Incrementally he moved through the organization and did well there. All that he had to pay was 100 hour weeks, several anxiety ridden nights, his health and of course his family. Years later, as he looked back over his shoulder, he did not feel very successful when he saw that he had lost everything except his job. 
 
@@ -22,7 +22,7 @@ This was not the first time this type of carrot had been dangled in front of him
 
 This is a tight loop we all have the potential to get stuck in. Often, many of us can do our jobs really well and we can succeed in doing them well. *Winning feels good, losing feels bad.* In the confidence we have we can visualize what success means to us and apply that to our day jobs. The computer programmer might say that her job is not rocket science, the rocket scientist might say his job is not particle physics and the physicist might say their job isn't as complex as parenting. 
 
-I've discovered that there is a correlation to things that are challenging to maintain but highly valuable, such as friendships or marriages. The problem is that because there are unknown factors in things like relationships they can become daunting but tremendously rewarding . These variables make it extraordinarily difficult to solve for x. On the other side things like working a lot has the potential to yield frequent, smaller rewards that are often assured - looking back to the idea of the skinner effect.
+I've discovered that there is a correlation to things that are challenging to maintain but highly valuable, such as friendships or marriages. The problem is that because there are unknown factors in things like relationships they can become daunting but tremendously rewarding. These variables make it extraordinarily difficult to solve for x. On the other side things like working a lot has the potential to yield frequent, smaller rewards that are often assured - looking back to the idea of the skinner effect.
 
 ```
 [Equation for very valuable X]
@@ -31,7 +31,7 @@ I've discovered that there is a correlation to things that are challenging to ma
 
 ```
 
-What if what we thought was success was wrong? What if we are basing our definition of winning on a lifetime ago where the only thing we had to think about was how long of a car nap you could take before your next class.
+What if what we thought was success was wrong? What if we are basing our definition of winning on a lifetime ago where the only thing we had to think about was how long of a car nap you could take before your next class?
 
 I'd like to take a minute and look at some of the influencers and behaviors that create these ideal pictures of what we think winning looks like. Keep in mind that these things are not inherently bad per se (much like the money point in the last chapter), but that what we do with them can create the not so favorable scenarios. 
 
@@ -45,7 +45,7 @@ The rebels used these creatures as patrol mounts to travel across the surface of
 
 As it would turn out as the story unfolds there are limitations to the Tauntans as well. Han Solo runs one into the ground looking for Luke, then proceeds to make a sleeping bag out of it to help our hero, wait for it… get "Luke-warm."
 
-Have you ever caught yourself saying something like, "Once this project is over things will get back to 'normal'?" We do that because our vision is siloed in on a fixed point. We do some self encouraging as we run hard we take a breath and we start running again. The "skinner effect" is invoked and we find ourselves getting kited along until we are drinking red bulls and coffee every morning and finishing the day with a dose of melatonin just to stop our brains from spinning. 
+Have you ever caught yourself saying something like, "Once this project is over things will get back to 'normal'?" We do that because our vision is “siloed” in on a fixed point. We do some self-encouraging as we run hard we take a breath and we start running again. The "skinner effect" is invoked and we find ourselves getting kited along until we are drinking red bulls and coffee every morning and finishing the day with a dose of melatonin just to stop our brains from spinning. 
 
 Keep in mind I am not talking about crunch, there will always be that. There will always be times when we have a hack that we need to get out of our head and turn into code or an idea that needs a weekend and half a dozen trips to Home Depot to get done. I think we all have a tendency to be a bit hardheaded which can be a strength to help us persevere. No, I'm not talking about that at all; it's the patterns where we cannot walk away despite the project or activity. It's obsession.
 
@@ -55,11 +55,11 @@ I realize the example is contrived, though probable. That is what obsession can 
 
 Never once in my career has being away from my family, friends or hobbies has ever made anyone fonder of me or me of them. The absurdity of either spending more time physically or mentally at a place called "work" is really deceiving. From the outside, it looks like a developer is killing "it" during those late nights and weekends. I get some of my best software ideas just chatting with my kids about things completely unrelated to software or technology. Being around those I love helps me be more creative.
 
-The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up. In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up. Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long - that's what could happen to us; we will burn out and it could be far worse than simply being tired.
+The type of thinking about the need to work long hours is dangerous because it is deceiving and can end up killing you. I tend to use Judge Dredd, the movie as an example when I bring this bad behavior up. In the movie, there was a family named the Angel Gang and one of the "gang" was named "Mean Machine" Angel who was a cyborg who had an adjustable dial on his head ranging from 1, where he is like an ill-tempered sea bass, up to 4, where he goes berserk. As the movie progresses, this family capture Dredd and the "Mean Machine's" dial is turned all the way up. Eventually, the cyborg's head explodes because he was pushing an "extreme" level far too long - that's what could happen to us; we will burn out and it could be far worse than simply being tired.
 
 Secondly, this behavior deceives your team and establishes the unrealistic expectation that your projects will always be done in an accelerated time frame, which will eventually become the expected norm.
 
-Third, it deceives you. I know first hand that burnout will occur and your ability to perform will diminish. We cannot always run as Red Bull-infused developers if we want to continue to deliver great software.
+Third, it deceives you. I know firsthand that burnout will occur and your ability to perform will diminish. We cannot always run as Red Bull-infused developers if we want to continue to deliver great software.
 
 Finally, overworked people often end up changing crafts. There is an economic law, the [law diminishing marginal utility](http://www.investopedia.com/terms/l/lawofdiminishingutility.asp), which states that if you increase the consumption of something (keeping all other things constant) you will eventually lose interest in the thing you consume. Consider a food buffet: the first plate of food is awesome but each subsequent plate drives you deeper into misery and begins to look more like regret than food.
 
@@ -71,7 +71,7 @@ So you walk into your favorite bulk retailer / warehouse outlet and some of the 
 
 Unwittingly places like Costco allow my family in the doors. You see, my children are like locusts (I am sure anyone with parents with pre-teens and up can relate); they leave in their paths little paper cups and worn out sample ninjas creating a sample wasteland.
 
-Sometimes the mentality of a nerd can be the little locust running through the store. We consume a little of the latest programming language, the most recent build of an OS, the next great cloud service and we leave in the wake little half done projects or bits and pieces of provisioned websites. As the sampling continues we ping the moderators of the frameworks or projects we nibble on and talk about how great feature x and y would be and then turn around and abandon all interest in it because a new thing was put in front of us.
+Sometimes the mentality of a nerd can be the little locust running through the store. We consume a little of the latest programming language, the most recent build of an OS, the next great cloud service and we leave in the wake little half-done projects or bits and pieces of provisioned websites. As the sampling continues we ping the moderators of the frameworks or projects we nibble on and talk about how great feature x and y would be and then turn around and abandon all interest in it because a new thing was put in front of us.
 
 Sampling is not a bad thing at all. Trying out new things can help you learn, grow, develop skills and make you question the status quo. It's just that if all we do is sample we'll never actually get any real thing done. Next time you stroll through the Costco of your field or interest remember to set some "try" constraints for yourself so that you can actually put a meal on the table. 
 
@@ -86,9 +86,9 @@ Planning is good. It helps us avoid things like project bloat, confusion and giv
 
 So, like most projects we do together we all sat down and began to plan. We were drawing up plans and calculating for tension and sag. About 5 minutes I lost my 2.5 year old, an hour into it my 4 year old dropped out because of boredom, another hour I lost the 5 year old to "chores" (interesting how boredom can be a motivator), and finally roughly 30 minutes later my 7 and 9 year olds stopped the "planning" with one simple question: "Why are we doing this? It doesn't seem like we're actually getting anything done."
 
-Then it hit me: When you gold plate everything you end up with absolutely nothing. We… I was gold plating the plan. Two years later we still had no zip-line until one day I see my now 2 years older kid spin by me in a flurry with one of his belts. Past incidents had taught me to investigate, so I followed him out the door. There is was in all of it's glory, a makeshift zipline. They had found some old tension cable that I had from another project and stringed it between two trees. As he raced down the line, belt in hand, I realized that it's not failure when you plant seeds. Two years later he was inspired, using his own design, to build what I failed to plan. For all you parents out there, take opportunities to dream big with your kids because eventually they will make new, better dreams out of that which we thought was impossible. Just try to time box the conversation so that you don't gold plate you way into a two year delay.
+Then it hit me: When you gold plate everything you end up with absolutely nothing. We… I was gold plating the plan. Two years later we still had no zip-line until one day I see my now 2 years older kid spin by me in a flurry with one of his belts. Past incidents had taught me to investigate, so I followed him out the door. There is was in all of its glory, a makeshift zipline. They had found some old tension cable that I had from another project and stringed it between two trees. As he raced down the line, belt in hand, I realized that it's not failure when you plant seeds. Two years later he was inspired, using his own design, to build what I failed to plan. For all you parents out there, take opportunities to dream big with your kids because eventually they will make new, better dreams out of that which we thought was impossible. Just try to time box the conversation so that you don't gold plate you way into a two year delay.
 
-he drive for perfection is unfortunately a journey to insanity. Plain and simple, constantly tweaking something without delivering is a developer's pit of despair.
+The drive for perfection is unfortunately a journey to insanity. Plain and simple, constantly tweaking something without delivering is a developer's pit of despair.
 
 Ironically, we do this to ourselves because we love our perfect lines, application richness and the mental game of crafting fake criticism.
 
@@ -98,7 +98,7 @@ A> *"Volo dell angelo Zipline located in Rocca Massima, Italy is the longest Zip
 
 # The Steam powered punch
 
-At the time of this writing there is a move where boxed software and games have moved to an unboxed downloadable content (DLC) model. This approach has gained rapid approval because of the accessibility to user's and their content, creator to user reach and it has opened the door to many creators who simply cannot work in the publisher / creator model. Basically you can buy, download content and play within minutes. It's ingenious, at least as a business model. For those of us who have collector mentalities it becomes a bit of a challenge because when things go on sale in this market place we tend to buy games we probably will never play. If you have a Steam account how many of the games in your library have you actually played? 50%? 30%? 10%?
+At the time of this writing there is a move where boxed software and games have moved to an unboxed downloadable content (DLC) model. This approach has gained rapid approval because of the accessibility to users and their content, creator to user reach and it has opened the door to many creators who simply cannot work in the publisher / creator model. Basically you can buy, download content and play within minutes. It's ingenious, at least as a business model. For those of us who have collector mentalities it becomes a bit of a challenge because when things go on sale in this market place we tend to buy games we probably will never play. If you have a Steam account how many of the games in your library have you actually played? 50%? 30%? 10%?
 
 The idea here is that there is a lot of things that desire our attention and there typically is a lot to be done. We need to learn to sift through the rock to find the gold. Find the best "farming" spot in our lives. We sometimes need to give up the good to experience the great.
 
@@ -119,11 +119,11 @@ These things are referred to "the hardest things in computer science" for a good
 2. As a good curator of software you want to create a solution that will not end up being the [Rube Goldburg](http://en.wikipedia.org/wiki/Rube_Goldberg) of cache invalidation solutions.
 
 ***
-I was WFH (working from home) one day and I simply put my hands to my face and let out a pretty pitiful sigh. My 7 year old at the time heard my anguish and asked what was wrong. "Nothing kiddo," I said, "I'm just trying to figure something out." He responds, "tell me, maybe I can help."
+I was WFH (working from home) one day and I simply put my hands to my face and let out a pretty pitiful sigh. My 7 year old at the time heard my anguish and asked what was wrong. "Nothing kiddo," I said, "I'm just trying to figure something out." He responds, "Tell me, maybe I can help."
 
 We've built a culture of fearlessly sharing in my house. I call it the "know nothing" principle. Much like Occam's razor, it's an attempt to draw out the obvious by asking the impossible. We ask questions in our house to simultaneously learn for ourselves and to make others think. I am sure most everyone practices this on some level.
 
-Knowing that I have not taught him the principles of caching in coding yet, I distilled the problem to a few basic concepts and explained those to him. His response was astonishing . He said, "How do you know you need to do that [use caching]?" I was speechless. He single handedly unwound all of my preconceived notions about the project and the gold platting I was apparently doing.
+Knowing that I have not taught him the principles of caching in coding yet, I distilled the problem to a few basic concepts and explained those to him. His response was astonishing. He said, "How do you know you need to do that [use caching]?" I was speechless. He single handedly unwound all of my preconceived notions about the project and the gold platting I was apparently doing.
 
 It turns out that my assumptions about the need for caching the data I was caching were completely wrong for this project and it was not needed. If I had of compartmentalized my work and life I would've ended up missing out on a lesson my son was giving me on critical thinking and miss out on the moment where my son solved one of the most challenging questions in computer science.
 
@@ -147,7 +147,7 @@ You're starting a new job today. With the new adventure comes loads of excitemen
 
 Shut it! Let's turn off our emotional roller coasters for a minute and reflect. You made it through the interview, the team hopefully likes you and they wouldn't have hired you unless you had something to commit.
 
-The quickest way to being perceived as an impostor is to act like one. Acting "sketchy" is one way to earn your impostor badge; like you just drank a 2-liter of Mountain Dew through a pixie stick straw. Communicating with partial information, flip-flopping and even exhibiting an always agreeable mode will come across as nonsense .
+The quickest way to being perceived as an impostor is to act like one. Acting "sketchy" is one way to earn your impostor badge; like you just drank a 2-liter of Mountain Dew through a pixie stick straw. Communicating with partial information, flip-flopping and even exhibiting an always agreeable mode will come across as nonsense.
 
 Another way is to act with hubris. Being prideful or boastful is one of the quickest ways to discredit yourself and your abilities. Let your "yes" be "yes" and your "no" be "no." There is absolute beauty in respecting simplicity. Can you imagine how much we could get done if we all simply practiced saying, "I don't know."
 
@@ -155,7 +155,7 @@ Here's the crux: When you are comparing yourself and your skills to other people
 
 I often ask myself who defines "good enough" and when I ask that question I often find that it is me who sets the bar and sometimes it's based on what others can do.
 
-As a side note, if you are an impostor one of the best and most riskiest thing you can do is talk to your boss or friend and let them know you want to seek opportunities to learn and grow where you are. You also might be in the wrong place and you simply need to get in the right place to thrive. We have too few hours on this earth to spend them doing something we really have no interest in doing.
+As a side note, if you are an impostor one of the best and most risky thing you can do is talk to your boss or friend and let them know you want to seek opportunities to learn and grow where you are. You also might be in the wrong place and you simply need to get in the right place to thrive. We have too few hours on this earth to spend them doing something we really have no interest in doing.
 
 A> *"Frank Abagnale began his career in fraud at age 15. His known impersonations were an airline pilot, a doctor, an attorney and even a teaching assistant."* [source: wikipedia](http://en.wikipedia.org/wiki/Frank_Abagnale)
 
@@ -187,11 +187,11 @@ A> *"To make the location perfect for shooting, two hundred workers spent two mo
 
 # I don't want to talk about it
 
-There is an old proverb that states: "Silence is golden." The origin of this is still uncertain however there are instances of this thought appearing in ancient Egypt, in the Judaic Biblical commentaries (the Midrash) , the English poet Thomas Carlyle referenced it, James Russell Lowell quotes it in 'The Bigelow Papers', in Brian Aldiss' 'The Primal Urge' and even William Shakespeare tips his hat to the thought in "Romeo and Juliet."
+There is an old proverb that states: "Silence is golden." The origin of this is still uncertain however there are instances of this thought appearing in ancient Egypt, in the Judaic Biblical commentaries (the Midrash), the English poet Thomas Carlyle referenced it, James Russell Lowell quotes it in 'The Bigelow Papers', in Brian Aldiss' 'The Primal Urge' and even William Shakespeare tips his hat to the thought in "Romeo and Juliet."
 
 If you are a parent, most likely you have used a form or version of this with your kids. What a paradox our children are! I find it amazing and sometimes painful that they are continually sharing their stream of consciousness it an audible form as if they are compelled by something. I think we can learn something from how our kids do this. 
 
-My theory is the reason that they are talking non stop is that they are simply processing the universe. Something that I feel that we as adults have sadly "greyed out." If we stop, unplug from our "i-tether" and look around at the whole of creation I am sure eventually we will begin describing it's amazing design to our friends and family. We will be as children, trying to take in the creativity of it all.
+My theory is the reason that they are talking nonstop is that they are simply processing the universe. Something that I feel that we as adults have sadly "greyed out." If we stop, unplug from our "i-tether" and look around at the whole of creation I am sure eventually we will begin describing its amazing design to our friends and family. We will be as children, trying to take in the creativity of it all.
 
 As people who write software, cross stitch, build computers, generate art we owe it to ourselves to plug-out and plug-in to life around us. Talk out loud to others and ourselves. 
 
@@ -208,11 +208,11 @@ Like most dreams the solution eluded me and I decided to place my tablet next to
 
 I had the dream again and with delight I opened my eyes and attempted to cast a "root" on it. I turned on my tablet, almost missed my passcode 3 times (if I'd missed it the 3rd time I would've resorted to paper - I was that desperate), opened up my email and began drafting what was going to be the most epic solution - quite possibly would even cure all disease and world hunger. I finished and I mashed send and passed back out, elated that it was finished. 
 
-The next day I woke expectantly to an inbox of joy, there it was the message I sent myself. Incidentally if you have a propensity to solve hard problems using dreams and care to jot them down, may I suggest you not use email. Miraculously I received my email, but as you might have guessed it was not exactly what I had intended to send. But let me not tip my hand just yet, as River Song would say "careful, no spoilers."
+The next day I woke expectantly to an inbox of joy, there it was the message I sent myself. Incidentally if you have a propensity to solve hard problems using dreams and care to jot them down, may I suggest you not use email? Miraculously I received my email, but as you might have guessed it was not exactly what I had intended to send. But let me not tip my hand just yet, as River Song would say "careful, no spoilers."
 
 I had inadvertently added folks to the "To" and combined with auto correct hijinks and an obvious sleep deprived conscious I had the makings for an email sent from the [Benny Hill](http://en.wikipedia.org/wiki/Benny_Hill) of the Matrix. Interwoven with code there were double entendres and unfortunate adjectives sprinkled about. It was a veritable cornucopia of embarrassment. Oh and absolute shocker, it did not solve the problem. 
 
-When I got to work, where I spent most of the day avoiding HR, a few of the folks had passed the email around and were getting some enjoyment from it. While I was eating my humble pie someone asked me, "so what's the problem you've been working on?" With an expectant sigh I showed him the thing that had captives my attention and dreams. To which he replied, "oh yeah I've seen this before." My initial thought was "impossible," who would keep the solution to world hunger and my software problem to themselves! Additionally, I never got to enjoy an embarrassing email from him; clearly something was off. 
+When I got to work, where I spent most of the day avoiding HR, a few of the folks had passed the email around and were getting some enjoyment from it. While I was eating my humble pie someone asked me, "So what's the problem you've been working on?" With an expectant sigh I showed him the thing that had captives my attention and dreams. To which he replied, "oh yeah I've seen this before." My initial thought was "impossible," who would keep the solution to world hunger and my software problem to themselves! Additionally, I never got to enjoy an embarrassing email from him; clearly something was off. 
 
 As he took me through the solution I realized a few things:
 
@@ -248,4 +248,4 @@ I know this is a hard thing for us to do, we are heads down in whatever we are d
 
 Reaching out to others in need not only has the power to help someone in need but it has the power to change the world.
 
-A> *"People with OCD have insight, meaning they are aware that their unwanted thoughts are unreasonable. People with OCPD think their way is the "right and best way" and usually feel comfortable with such self-imposed systems of rules." Take opportunities to help yourself and others and learn more about common personality types.* [source: International OCD foundation](http://iocdf.org/wp-content/uploads/2014/10/OCPD-Fact-Sheet.pdf) 
+A> *"People with OCD have insight, meaning they are aware that their unwanted thoughts are unreasonable. People with OCPD think their way is the "right and best way" and usually feel comfortable with such self-imposed systems of rules." Take opportunities to help yourself and others and learn more about common personality types.* [source: International OCD foundation](http://iocdf.org/wp-content/uploads/2014/10/OCPD-Fact-Sheet.pdf)

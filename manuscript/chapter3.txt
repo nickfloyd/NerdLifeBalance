@@ -1,6 +1,6 @@
 # The Great Deception
 
-If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhaps overwhelmed. Hopefully it helped you consider new ways to re-factor your life. You might also be feeling that there's been a grand lie that has been passed around since we as humanity began counting hours. The one such lie is deceptively simple yet really, really effective at helping us defeat ourselves.
+If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhaps overwhelmed. Hopefully it helped you consider new ways to re-factor your life. You might also be feeling that there's been a grand lie that has been passed around since us as humanity began counting hours. The one such lie is deceptively simple yet really, really effective at helping us defeat ourselves.
 
 >"There are 168 hours in every week and if I am going to use it wisely I must compartmentalize."
 
@@ -18,7 +18,7 @@ That is an amazingly accurate description thinking about all the time we don't s
 
 It is as though we treat time more like [Tribbles](http://en.wikipedia.org/wiki/Tribble) and less like a scarce resource. We measure it loosely against the beginning of time and see no reason to be concerned that as an individual consumer we can only eat so much. 
 
-It's a lot like eating Pringles; for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret. So reach for your Mountain Dew friend and drown your snacking sorrows or perhaps be can snack on our time using a more healthy treat. I know what you're thinking, "I love my 'B' movies and my 16hr stretches of [Bioshock Infinite](http://en.wikipedia.org/wiki/BioShock_Infinite) and [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) tourneys'." While I would agree that those things are indeed a possible staple of a type of Nerd's life, I feel like I must share a truth with you: 
+It's a lot like eating Pringles; for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret. So reach for your Mountain Dew friend and drown your snacking sorrows or perhaps be can snack on our time using a healthier treat. I know what you're thinking, "I love my 'B' movies and my 16hr stretches of [Bioshock Infinite](http://en.wikipedia.org/wiki/BioShock_Infinite) and [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) tourneys'." While I would agree that those things are indeed a possible staple of a type of Nerd's life, I feel like I must share a truth with you: 
 
 >"The Nerd cannot live on 'game' alone."
 
@@ -34,7 +34,7 @@ Recently I was chatting with a software developer friend of mine. We were discus
 
 >"me: we're not guaranteed tomorrow, why put off to tomorrow what you could do today?"
 
-It sounds cliche, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it. I have always wondered what would happen if we were ever to place a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done. Don't get me wrong meetings have their function, but what if we could simply begin working on the things that needed to be done. 
+It sounds cliché, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it. I have always wondered what would happen if we were ever to place a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done. Don't get me wrong meetings have their function, but what if we could simply begin working on the things that needed to be done. 
 
 I struggle with this idea of getting rid of the idea and just starting a project all the time. I talk myself into and out of some projects that have potential. 
 
@@ -55,7 +55,7 @@ The problem with motivation is that it can be a snare just as much as it can be 
 
 >"Because I want to build something that will delight people and that I can be proud of."
 
-We have to be careful of this type of motivational compulsion because if we base our self worth in the depths of the things we create and how people respond to those things we could fall into Corporate [Stockholm Syndrome](http://en.wikipedia.org/wiki/Stockholm_syndrome). Not to mention people are emotional and fickle; humans emotionally swing like pendulums that can either delight you with praise or beat you down with disappointment. 
+We have to be careful of this type of motivational compulsion because if we base our self-worth in the depths of the things we create and how people respond to those things we could fall into Corporate [Stockholm Syndrome](http://en.wikipedia.org/wiki/Stockholm_syndrome). Not to mention people are emotional and fickle; humans emotionally swing like pendulums that can either delight you with praise or beat you down with disappointment. 
 
 If we frequently find ourselves in situations where we are "expected" to stay late and do "whatever it takes" to get the job done we might be suffering from this trap. This type of emotional trauma can cause some serious damage. If I had to put it into "gamer" terms it would be like facing [Gordon Freeman's crowbar](http://en.wikipedia.org/wiki/Gordon_Freeman). There will be a lot of swings but the one on the receiving end of the bar will always go down.
 
@@ -94,8 +94,3 @@ I was working on an application that cached some pages. Naturally, the challenge
 In an instant my son single handedly solved one of the [hardest problems in computer science](http://martinfowler.com/bliki/TwoHardThings.html). With his suggestion in mind I removed the code and all was well. 
 
 You see, the great deception isn't something sneaky someone else does to us, rather, it's something we convince ourselves of. Who you are at work and at home really should be the same person because you **are** the same person. We are free to bring our nerd home and share it with our family and friends; we owe it to them! So ask yourself, "Do you think you are behaving like the individual you are or want to be?"
-
-
-	
-
-

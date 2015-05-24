@@ -2,7 +2,7 @@
 
 In the beginning…
 
-I awoke to the sound of muffled talking, sliding chairs and clicking keyboards. It was Friday morning and I was laying on a sumo chair in one of our pairing rooms. We used those rooms more for storing tables and boxes and of corse sleeping after late night deployments. 
+I awoke to the sound of muffled talking, sliding chairs and clicking keyboards. It was Friday morning and I was laying on a sumo chair in one of our pairing rooms. The rooms were no larger an average meat locker where a butcher might hang the cuts from the previous day.  We used those rooms more for storing tables and boxes and of course sleeping after late night deployments. 
 
 My half dead phone was what really woke me up, it was my wonderfully patient wife asking if she and the kids were going to see me today. Such were many days where I worked. Out of sorts deployments of various software late at night that easily carried on into the AM hours. We would catch a few games of Team Fortress while the bits were being rolled out to the servers. It was a good way to pass the time. We laughed between sips of Mountain dew and head-shots. How cliché. 
 
@@ -18,13 +18,13 @@ I didn't know it yet but this day was going to be different. Today I was going t
 
 Despite my best efforts of windows down, pinching cheeks, slapping my face doing "extreme eyes" with toothpicks, 2 miles from my house I fell asleep and began to head off the into a ditch and onto train tracks where there was a train parked. Fortunately, there was another car passing by and he laid on the horn to wake me. 
 
-You know those moments when you know you've drank too much coffee (as if such a thing was actually possible) or Red bull and you can see your hear pounding out of your chest like a Tom and Jerry cartoon… it was a lot like that. 
+You know those moments when you know you've drank too much coffee (as if such a thing was actually possible) or Red bull and you can see your heart pounding out of your chest like a Tom and Jerry cartoon… it was a lot like that. 
 
 **In that moment I decided I was done with software.**
 
 It's funny how we often deal in absolutes, as if there is some nagging thirst that can only be quenched by our using the words always and never. I almost always never struggle with that. I feel that it is the logic boards we have built into us; forcing absolution out of us just as easily as pressing keys on our keyboards to create 1's and 0's. 
 
-We are more than that you know. More than what we do at work or at home. Have you ever had a burning thought that you could never shake; kinda like trying to put down a can of Pringles but quickly returning to it uttering the "just one more" catch phrase of addiction? 
+We are more than that you know. More than what we do at work or at home. Have you ever had a burning thought that you could never shake; like trying to put down a can of Pringles but quickly returning to it uttering the "just one more" catch phrase of addiction? 
 
 When I said I was going to put down software that day it was a claim made in vain. I couldn't do it. The fact was that writing code made me smile it was part of my inner nerd and it wasn't going away. I couldn't put down the software developer can of Pringles and I knew it, so I just decided that there was a better way to eat this thing called work life balance. 
 
@@ -36,7 +36,7 @@ So I've been doing this software developer thing for about 20 years now. In that
 
 Many of my fellow workers, the people I coded with and managed did the same. We all seemed to have one goal, ship software and destroy ourselves in the process. Only until recently (the last 2 years) do I feel like I have finally been doing this Nerd-life thing "right" and living life with genuine enthusiasm first and finding "balance" in that.
 
-In an article posted by Emma Jacobs of the Financial times someone was quoted saying: "Most efforts fail if we aim for work-life balance as it's superficial unless you change how work is done." I love that. It states one simple and clear point of view… what we've been doing all these years, trading hours of our lives for sheets of paper, it's not working. 
+In an article posted by Emma Jacobs of the Financial Times someone was quoted saying: "Most efforts fail if we aim for work-life balance as it's superficial unless you change how work is done." I love that. It states one simple and clear point of view… what we've been doing all these years, trading hours of our lives for sheets of paper, it's not working. 
 
 I think throughout my entire career there were only a few times that I was ever told that I need to stay late and get things done; not that there was not "implied" pressure or expectations. There was a lot of that. The point I am trying to make is that at any point in time I could've made a choice, a choice to say "No" or accepted the obvious fact that the work will be there tomorrow. So why didn't I?
 
@@ -44,23 +44,23 @@ I love being a developer. I love that I can create something that will genuinely
 
 My idea of the "Skinner effect" comes from the research B.F. Skinner did using his operant conditioning chamber ("Skinner Box"). The idea is simple, we are rewarded for "winning" and punished for "loosing." Everything we do as developers tends to lead to behavioral reinforcement in some way, shape or form. 
 
-Every time we build our software or run our tests we get feedback. We are constantly being rewarded in small increments for getting it right or scolded by our test runners for getting it wrong. I won't get into all of the research done on our brains, dopamine and the anticipation of success but I do want to point our that this is both a psychological and physiological thing.
+Every time we build our software or run our tests we get feedback. We are constantly being rewarded in small increments for getting it right or scolded by our test runners for getting it wrong. I won't get into all of the research done on our brains, dopamine and the anticipation of success but I do want to point out that this is both a psychological and physiological thing.
 
 Just observe developers that are near a solution in the software they have been coding up or with those who are writing tests - you'll see them unable to leave the keyboard, as if they have been physically connected to it. Basic needs such as food and the bathroom quickly become optional when we are on the edge of solving something.
 
-Second only to this, in my opinion, is the idea that we are really poor estimators of time and effort. Ask most developers, when working on a hard problem that you are making progress on have they ever lost track of time? My guess is that most of them will say "yes." Often times developers can be considered the "eternal external optimists" while inside we are burning with uncertainty and desire to solve the seemingly unsolvable problem.
+Second only to this, in my opinion, is the idea that we are really poor estimators of time and effort. Ask most developers, when working on a hard problem that you are making progress on have they ever lost track of time? My guess is that most of them will say "yes." Often time’s developers can be considered the "eternal external optimists" while inside we are burning with uncertainty and desire to solve the seemingly unsolvable problem.
 
 On the same cord as far as estimating ask the same developers to estimate a problem that has never been solved and you'll get a ton of sheepish grins around the table. Our minds spin on the incalculable scenarios we might run into while solving the problem and we even begin to thread out solutions to the unknown. Developers are amazing creatures, we can be both confident and completely uncertain about a problem and how to solve it simultaneously. 
 
-It's like playing one of the seemingly millions of mobile games. We find ourselves captivated by the brilliant yet simple design. It feels familiar somehow, like the smell of Halloween. We are mystified by the "amazing" game play and the perceived story. Here's the rub: it is one most excellent deception. Once you peel back the façade of crushable candy or sparkly gems sliding majestically you see something that is absolutely captivating to any psychologist. You see the Skinner box. A box who's walls are constructed of in app purchases, amazing marketing and gamification. The reality is that there are some seriously smart people who are paid to come up with ways to keep you in the game. Next time you are "playing" (or more appropriately, being owned by) one of those games and it rattles off "AMAZING!" or prompts you with a "free" spin, consider this: who is playing who? 
+It's like playing one of the seemingly millions of mobile games. We find ourselves captivated by the brilliant yet simple design. It feels familiar somehow, like the smell of Halloween. We are mystified by the "amazing" game play and the perceived story. Here's the rub: it is one most excellent deception. Once you peel back the façade of crushable candy or sparkly gems sliding majestically you see something that is absolutely captivating to any psychologist. You see the Skinner box. A box whose walls are constructed of in app purchases, amazing marketing and gamification. The reality is that there are some seriously smart people who are paid to come up with ways to keep you in the game. Next time you are "playing" (or more appropriately, being owned by) one of those games and it rattles off "AMAZING!" or prompts you with a "free" spin, consider this: who is playing who? 
 
 I know this sounds a bit harsh but we are addressing one of the Nerd world's greatest deceptions: the idea that we are in control because we have the keyboard. There are innumerable variables to the work life equation which often cause the final calculation to be irrational. So then how does one stop the madness? How do you know if there is even any madness to begin with? We are after all problem solvers, over achievers, hard workers. We are nerds and this prospect of defeat will not drag us down it will only make us stronger!
 
-[Nerd](http://en.m.wikipedia.org/wiki/Nerd) is a descriptive term, often used pejoratively, indicating that a person is overly intellectual, obsessive, or socially impaired. They may spend inordinate amounts of time on unpopular, obscure, or non-mainstream activities, which are generally either highly technical or relating to topics of fiction or fantasy, to the exclusion of more mainstream activities.[1][2][3] Additionally, many nerds are described as being shy, quirky, and unattractive,[4] and may have difficulty participating in, or even following, sports. Though originally derogatory, "Nerd" is a stereotypical term, but as with other pejoratives, it has beenreclaimed and redefined by some as a term of pride and group identity.
+[Nerd](http://en.m.wikipedia.org/wiki/Nerd) is a descriptive term, often used pejoratively, indicating that a person is overly intellectual, obsessive, or socially impaired. They may spend inordinate amounts of time on unpopular, obscure, or non-mainstream activities, which are generally either highly technical or relating to topics of fiction or fantasy, to the exclusion of more mainstream activities.[1][2][3] Additionally, many nerds are described as being shy, quirky, and unattractive,[4] and may have difficulty participating in, or even following, sports. Though originally derogatory, "Nerd" is a stereotypical term, but as with other pejoratives, it has been reclaimed and redefined by some as a term of pride and group identity.
 
-After reading that I'm sure some might think, "wow, nope not me - I am not a nerd!" To which I will reply, "reread the last part of that definition…"
+After reading that I'm sure some might think, "Wow, nope not me - I am not a nerd!" To which I will reply, "Reread the last part of that definition…"
 
-" Though originally derogatory, "Nerd" is a stereotypical term, but as with other pejoratives, it has been reclaimed and redefined by some as a term of pride and group identity."
+“Though originally derogatory, "Nerd" is a stereotypical term, but as with other pejoratives, it has been reclaimed and redefined by some as a term of pride and group identity."
 
 | Year | Spelling | Published | Context |
 |-------|-----------------------|-----------------------------------|--------------------------------------------------------------------------------------------|
@@ -72,7 +72,7 @@ After reading that I'm sure some might think, "wow, nope not me - I am not a ner
 | 1965 | Nurd | RPI Bachelor | Used to refer to 61 students |
 | 1970 | Nurd [sic] | Current Slang | Someone with objectionable habits or traits.... An uninteresting person, a 'dud.' |
 | 1980 | Nerd or Nurd | Slang | An over-studious person, esp a computer devotee |
-| 2000s | Nerd | Slang | Began being transposed with the term geek though the two terms have distinct menaings |
+| 2000s | Nerd | Slang | Began being transposed with the term geek though the two terms have distinct meanings |
 | 2015 | Nerd | Nerd Life Balance | An individual who is genuinely passionate about something and who wants to share it with everyone |
 
 [Table derived from reference.com](http://dictionary.reference.com/browse/nerd)
@@ -81,9 +81,8 @@ It I my opinion that this last section is really the only true meaning of what a
 
 Let me see if I can provide some perspective. Say, for instance, you love computers. Everything about them excites you; if there is new CPUs that hit the market you're already working up when you're going to buy one (at least) and how you might over clock it because you love getting the most out of the experience of tweaking. You are constantly talking about it with anyone who will listen and challenge your ideas. Additionally you feel compelled to share this passion with anyone who might want to learn. One might say that you are indeed a "computer nerd."
 
-Now let's say you were the type of person who loves gardening. (Word of caution: given that I know absolutely nothing about plants other than: 1. Some smell and look nice and 2. Some you can eat. Hopefully this example will help to "grow"	 the thought.) 
+Now let's say you were the type of person who loves gardening. (Word of caution: given that I know absolutely nothing about plants other than: 1. some smell and look nice and 2. some you can eat. Hopefully this example will help to "grow” the thought.) 
 
 Everything about plants excites you; if there is a new bulb ready for planting that you see at the local nursery you've already worked up how many you need to make you home garden experience perfect. You are constantly talking about it with anyone who will listen and challenge your ideas. Additionally you feel compelled to share this passion with anyone who might want to learn. One might say that you are indeed a "Garden nerd."
 
 So what's the difference other than personal hygiene and number of can of Red Bull consumed (sorry, I couldn't help raising the sarcastic stereotype flag - believe it or not Gardeners probably do have good hygiene)? Nothing really. There I one underlying key in this thinking: "if you are passionate about something, want to do it, want to talk about it and you're compelled to share it" then you just might be a nerd and if you are… read on.
-
