@@ -63,7 +63,7 @@ Third, it deceives you. I know first hand that burnout will occur and your abili
 
 Finally, overworked people often end up changing crafts. There is an economic law, the [law diminishing marginal utility](http://www.investopedia.com/terms/l/lawofdiminishingutility.asp), which states that if you increase the consumption of something (keeping all other things constant) you will eventually lose interest in the thing you consume. Consider a food buffet: the first plate of food is awesome but each subsequent plate drives you deeper into misery and begins to look more like regret than food.
 
-*"In Return of the Jedi, Jabba the Hutt has a stuffed and mounted tauntaun head as one of his grisly trophies, right next to the frozen form of Han Solo." Makes you wonder if it was the tauntaun Han shot first.* [source: starwars.wikia.com](http://starwars.wikia.com/wiki/Tauntaun)
+A> *"In Return of the Jedi, Jabba the Hutt has a stuffed and mounted tauntaun head as one of his grisly trophies, right next to the frozen form of Han Solo." Makes you wonder if it was the tauntaun Han shot first.* [source: starwars.wikia.com](http://starwars.wikia.com/wiki/Tauntaun)
 
 # The Costco Mentality
 
@@ -75,7 +75,7 @@ Sometimes the mentality of a nerd can be the little locust running through the s
 
 Sampling is not a bad thing at all. Trying out new things can help you learn, grow, develop skills and make you question the status quo. It's just that if all we do is sample we'll never actually get any real thing done. Next time you stroll through the Costco of your field or interest remember to set some "try" constraints for yourself so that you can actually put a meal on the table. 
 
-*The retailer Costco sells more than 43 million packages of toilet paper every year. So keep eating those samples, they've got you covered.* [source: Costco facebook](https://www.facebook.com/Costco)
+A> *The retailer Costco sells more than 43 million packages of toilet paper every year. So keep eating those samples, they've got you covered.* [source: Costco facebook](https://www.facebook.com/Costco)
 
 # Infinite Planning
 
@@ -94,7 +94,7 @@ Ironically, we do this to ourselves because we love our perfect lines, applicati
 
 I've been down this road far too many times - I have even gold plated specifications and documents! The part in every maker, developer, craft person that makes what we do so amazing is that we love to dream. We need to learn how to stop trying to "live the dream" and start iterating on it.
 
-*"Volo dell angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h." * [source: Flying in the Sky](http://www.flyinginthesky.it/)
+A> *"Volo dell angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h." * [source: Flying in the Sky](http://www.flyinginthesky.it/)
 
 # The Steam powered punch
 
@@ -102,7 +102,7 @@ At the time of this writing there is a move where boxed software and games have 
 
 The idea here is that there is a lot of things that desire our attention and there typically is a lot to be done. We need to learn to sift through the rock to find the gold. Find the best "farming" spot in our lives. We sometimes need to give up the good to experience the great.
 
-*"In the game Half-life, the first game built by Valve Software artillery bombardments occur frequently throughout the game. The 'whistling' sound that can be heard before the explosion is that of the German Flak 88."* [source: IMDB](http://www.imdb.com/title/tt0239023/trivia)
+A> *"In the game Half-life, the first game built by Valve Software artillery bombardments occur frequently throughout the game. The 'whistling' sound that can be heard before the explosion is that of the German Flak 88."* [source: IMDB](http://www.imdb.com/title/tt0239023/trivia)
 
 # Taking a quantum leap
 
@@ -139,7 +139,7 @@ Just like a coin has two functional sides in order to be valid currency, we also
 
 The point is that we can easily miss the whole picture by trying to be a quantum person. Try treating work and life more like Velcro and less like sand paper. You might find that you have a lot to learn from your family and friends.
 
-*"Scott Bakula ad libbed the line "Oh boy!" at the end of an episode of Quantum Leap. The producer liked it so much that it became the signature final line of each episode, as Sam finds himself in a new body."* [source: IMDB](http://www.imdb.com/title/tt0096684/trivia)
+A> *"Scott Bakula ad libbed the line "Oh boy!" at the end of an episode of Quantum Leap. The producer liked it so much that it became the signature final line of each episode, as Sam finds himself in a new body."* [source: IMDB](http://www.imdb.com/title/tt0096684/trivia)
 
 # Impostor
 
@@ -157,7 +157,7 @@ I often ask myself who defines "good enough" and when I ask that question I ofte
 
 As a side note, if you are an impostor one of the best and most riskiest thing you can do is talk to your boss or friend and let them know you want to seek opportunities to learn and grow where you are. You also might be in the wrong place and you simply need to get in the right place to thrive. We have too few hours on this earth to spend them doing something we really have no interest in doing.
 
-*"Frank Abagnale began his career in fraud at age 15. His known impersonations were an airline pilot, a doctor, an attorney and even a teaching assistant."* [source: wikipedia](http://en.wikipedia.org/wiki/Frank_Abagnale)
+A> *"Frank Abagnale began his career in fraud at age 15. His known impersonations were an airline pilot, a doctor, an attorney and even a teaching assistant."* [source: wikipedia](http://en.wikipedia.org/wiki/Frank_Abagnale)
 
 # The pain of sand
 
@@ -183,7 +183,7 @@ Shake the sand out as frequently as possible. I've been blessed to have the oppo
 
 Accept that there will be times when you'll have to take the sand but know when it's time to shake out and clean house.
 
-*"To make the location perfect for shooting, two hundred workers spent two months hand-clearing three-square miles of Mexican desert for the epic 1984 film Dune."* [source: inktank](http://inktank.fi/15-little-known-facts-about-the-making-of-dune)
+A> *"To make the location perfect for shooting, two hundred workers spent two months hand-clearing three-square miles of Mexican desert for the epic 1984 film Dune."* [source: inktank](http://inktank.fi/15-little-known-facts-about-the-making-of-dune)
 
 # I don't want to talk about it
 
@@ -197,7 +197,7 @@ As people who write software, cross stitch, build computers, generate art we owe
 
 This is one of the reasons I feel we should take our passions "home" with us. By talking what you love to your friends and family you open up opportunities to share some thing you love while building relationships that are lasting. If we genuinely love what we do we will have this burning desire to share it. Think about the times when you are working on something tough or thinking through an idea you have. Do you talk to yourself? Perhaps you "talk" to your pets or inanimate objects. While some might consider talking to one's self the beginnings of schizophrenia many feel that it's a way for logically processing the complexities of what we do. 
 
-*In the Half-Life series of video games created by Valve the main protagonist Gordon Freeman never says a single word. "Gabe Newell has [stated](http://www.computerandvideogames.com/241221/gabe-newell-next-half-life-wont-change-gordon-freeman/) that Valve sees no reason to give Gordon a voice." I suppose if I had a crowbar talking for me I wouldn't need a voice either.* [source: wikipedia](http://en.wikipedia.org/wiki/Gordon_Freeman)
+A> *In the Half-Life series of video games created by Valve the main protagonist Gordon Freeman never says a single word. "Gabe Newell has [stated](http://www.computerandvideogames.com/241221/gabe-newell-next-half-life-wont-change-gordon-freeman/) that Valve sees no reason to give Gordon a voice." I suppose if I had a crowbar talking for me I wouldn't need a voice either.* [source: wikipedia](http://en.wikipedia.org/wiki/Gordon_Freeman)
 
 # The board of directors
 
@@ -224,7 +224,7 @@ As he took me through the solution I realized a few things:
 
 In the middle of the night you always seem to have the best ideas but when you wake up you realize you were trying to fix your software with unicorns and gummy bears. Know the benefits of taking issues to your team and friends. Have a personal board of directors; people that share your passion and craft that you can count on to filter your insanity. 
 
-*"In the 1987 film "Robocop" the Desert Eagle Magnum that is in the OCP Board Room was originally intended to be Robocop's gun. There is even existing behind-the-scene photos and footage of Peter Weller practicing with the Desert Eagle. However, when they gave Weller the gun, they noticed that even the bulky Desert Eagle was too small in the hands of Robocop. So the film's armory supervisor, Randy E. Moore, brought in a Berretta Automatic Pistol to which a compensator and decorative dressing was added to increase the size of the gun." If one of your personal board members carries either of those guns you should probably listen to them!* [source: imdb](http://www.imdb.com/title/tt0093870/trivia)
+A> *"In the 1987 film "Robocop" the Desert Eagle Magnum that is in the OCP Board Room was originally intended to be Robocop's gun. There is even existing behind-the-scene photos and footage of Peter Weller practicing with the Desert Eagle. However, when they gave Weller the gun, they noticed that even the bulky Desert Eagle was too small in the hands of Robocop. So the film's armory supervisor, Randy E. Moore, brought in a Berretta Automatic Pistol to which a compensator and decorative dressing was added to increase the size of the gun." If one of your personal board members carries either of those guns you should probably listen to them!* [source: imdb](http://www.imdb.com/title/tt0093870/trivia)
 
 # Going mental
 
@@ -248,4 +248,4 @@ I know this is a hard thing for us to do, we are heads down in whatever we are d
 
 Reaching out to others in need not only has the power to help someone in need but it has the power to change the world.
 
-*"People with OCD have insight, meaning they are aware that their unwanted thoughts are unreasonable. People with OCPD think their way is the "right and best way" and usually feel comfortable with such self-imposed systems of rules." Take opportunities to help yourself and others and learn more about common personality types.* [source: International OCD foundation](http://iocdf.org/wp-content/uploads/2014/10/OCPD-Fact-Sheet.pdf) 
+A> *"People with OCD have insight, meaning they are aware that their unwanted thoughts are unreasonable. People with OCPD think their way is the "right and best way" and usually feel comfortable with such self-imposed systems of rules." Take opportunities to help yourself and others and learn more about common personality types.* [source: International OCD foundation](http://iocdf.org/wp-content/uploads/2014/10/OCPD-Fact-Sheet.pdf) 
