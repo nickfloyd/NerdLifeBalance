@@ -31,6 +31,9 @@ Each of us have a stockpile of life experience.  The pile often looks nothing li
 
 We place a tremendous amount of value on inanimate things and trading cards are no exception.  Is it the beautiful art work or the value of the thing or player on the cards? I don't think so; at least not entirely.   For example, in the card game, Magic the Gathering, there is an extremely valuable card that has been known to sell for $125,000 signed!  That's six figures!  At first glance the card looks normal and perhaps uninteresting. It is also now banned in most tournaments so the card is virtually unusable.  So why the high sticker value?  It's because the card has "experience value." 
 
+{float=right}
+![](images/mtg1050x1753.jpg)
+
 Allow me to explain a bit about how the Magic the Gathering game works.  Players build decks with a minimum of 40 cards (in a tournament) or 60 in normal play.  Game play is one to many and like any game there is a set of concrete rules and a set of "respect" rules that are simply followed for good etiquette.  
 
 Everyone starts the game with 20 life and the basic goal of the game is to get the opposing player or players down to 0 before you.  You do this by using an amazingly robust set of cards that span the MTG universe. The card types include creature, artifact, enchantments, land (also known as mana - the currency of the game) and so on.  In MTG mana is everything.  
