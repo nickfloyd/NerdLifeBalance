@@ -8,6 +8,7 @@ Trying to define the behaviors that tend to drive us to distraction is much like
 
 This leads us to the fundamental flaw of perceived perfection. Do you remember when you were a kid? A time where you were limited by bedtimes and cash flow? Ignorance is bliss is it not - to paraphrase the eager to forget the "real life" Cypher. As kids we don't "know better" and we think anything is possible. I draw heavily from my kids unbounded passions when we are working on projects. They have that super power that rips right through the bureaucracy of adulthood and say "I've got a better idea." 
 
+{float=right}
 ![](images/legend_of_nerd1050x1364.jpg)
 
 It's like blowing into your Nintendo cartridges (you know you did it) knowing that they might work again and "power gloving" right through a problem that had no real answer. We didn't know so we didn't have anything to fear like failure or pretense. 
