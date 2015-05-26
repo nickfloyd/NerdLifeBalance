@@ -42,6 +42,8 @@ I think throughout my entire career there were only a few times that I was ever 
 
 I love being a developer. I love that I can create something that will genuinely delight someone else. I love failing when I try something new and working to get better at it. I love that the work I do gives me challenging and hard problems to solve. Most of all I love solving those problems and "winning." I call this the "Skinner effect" and I believe that is why many of us struggle with spending long hours at this physical place called work.
 
+![](images/skinner1050x697.jpg)
+
 My idea of the "Skinner effect" comes from the research B.F. Skinner did using his operant conditioning chamber ("Skinner Box"). The idea is simple, we are rewarded for "winning" and punished for "loosing." Everything we do as developers tends to lead to behavioral reinforcement in some way, shape or form. 
 
 Every time we build our software or run our tests we get feedback. We are constantly being rewarded in small increments for getting it right or scolded by our test runners for getting it wrong. I won't get into all of the research done on our brains, dopamine and the anticipation of success but I do want to point out that this is both a psychological and physiological thing.
