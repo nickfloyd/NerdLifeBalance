@@ -1,4 +1,75 @@
-# The end is the beginning
+#The 3D Expectation
 
+There has not been one time that I have started a project and I already had a picture of what it will be, do or look like. It was a lot like that with me and my kids early on before I got the whole Nerd-Life thing. I had this picture that they would be "perfect" in every way, always obey, always listen to the amazing wisdom that I was going to impart on them and of course, be interested in everything I was interested in.  
 
+**Fortunately** it didn't turn out that way.  Where's the adventure in a predictable everything; especially when it comes to the amazing nature of kids?  There is none. Zip! Zilch! Dev-null! Nil! Null!
 
+One of the most exciting aspects of our lives is the unknown.  You know, where the dragons are.  A long time ago when a cartographer charted the known land they would draw out these marvelous maps with fantastic precision and on most of the maps there would be uncharted territories.  Often times the artist would put the words "here be the dragons."  This was meant to inform or alert the person using the map that the things in this area could be dangerous and are unknown.  Much like the fog of war in Warcraft, StarCraft and most dungeon crawlers today; it means either wondrous discovery or instant death!
+
+The fear or acceptance of the unknown is powerful.  It will either motivate you or tear you apart.  
+
+My daughter, 3 years old at the time, approached me and asked if she could "maker" something - she called it that because when we don't know what project to do we often say "be a maker first and let the project worry about itself."  She knew her four brothers loved building and breaking stuff so it was only a matter of time before I knew she would be sitting at my desk sorting through breadboards and solder wanting to make something.
+
+Let me set the stage a bit before I continue.  All of the kids in my house learn to solder, use tools and work with software starting at a really early age. This tradition of cutting one's "maker" teeth early came about when I sat down at my desk one day and there was a stack of toys sitting on my desk.  Various electronics, talking stuffed animals and even a laptop (not even sure where that came from) littered my maker shrine. In all honesty my desk usually looks like a Radio Shack threw up on it but when I found other makers shopping at my house and the kids in red shirts and khakis I knew things had gone too far.
+
+"This is madness!" I shouted.
+
+My ever so wise and beautiful wife knew what I was belting out about.
+
+"Nope it's part of who you are to the kiddos. They know you fix stuff."
+
+At this point I was dumb founded, flattered and of course humbled. The thought that my kids count on me passed through my head; so why did I feel like I was doing them a disservice?
+
+"Well sure, that's true but I don't want to raise a bunch of 'users'. I mean not like a TRON user because they were cool programmers and all.  You know the kind that just use but don't create."
+
+My wife smirked and I knew exactly where she was about to take this conversation.
+
+"Yup, sounds like you need to teach them to fish."
+
+She was of course referring to "Give a person a fish and feed them for a day, teach them to fish and feed them for a life time." and she was right.  My expectation was that they would simply inherit the mad hacking skills from me and we would have a house full of brilliant minds running around doing science.  Additionally, I had this ache in the back of my head that things would break and it would take "longer" to get things done. This was, of course, my circus clown of an expectation trying to override who I knew I needed to be.
+
+Just then my four year old came around the corner with another toy in tow as if to say "hey dad here's an opportunity to apply what you just learned." I took him my the hand and said, "Kiddo, today you're going to solder this back together."  Ever since, the kiddos now "repair" their own toys.  Does it always work?  Not a chance! Does it end up breaking more things? Sometimes.  Are my kids makers?  You'd better believe it!
+
+We can either continue to assume and expect that our friends and family have nothing to learn from us which will always make us that person you call to fix my stuff or we can teach someone to fish. 
+
+Now back to my little girl.  She had seen her brothers wield the amazing smoking utensil, otherwise known as the soldering gun, and she did not want to have anything to do with it.  She had firmly established an expectation that she would get hurt by it and rooted an assumption in her amazing mind that she would not like to use it at all.
+
+I started by soldering something with her in my lap, then moved to her holding the rosin core and finally to me holding her had while she soldered with me. After a bit she warmed up to the idea of using it. Now she wants to do all of the soldering for her brother's projects.  
+
+A> TIP: For parents who want to introduce your kids to soldering hunt down a simple soldering project like one listed in this book or get a fun kit. Then turn the temperature up on your gun, 400 or 450 degrees Fahrenheit should do it.  This will cause it to smoke a bit while you work together on a project.  It will probably end up giving you more messy connections but singing the solder will make little smoke plumes that seem almost magical. NOTE: make sure not to breathe in the fumes and have a really well ventilated area. ALWAYS make sure you are taking the proper precautions - kids are absolutely one of the most unpredictable creatures on the planet; do your best to have an environment that is both safe and productive to learning.
+
+Before I realized how amazing setting expectations down could be I was a train wreak when my kids wanted to help me with a build. The constant barrage of be careful of this and don't hold it like that really stole a potentially wonderful experience from me and my kids.
+
+Roughly 15 years ago 3DRealms came out with a blockbuster hit Duke Nukem.  Mixed with it's questionable overtones and quipping protagonist many people fell in love with the game.  A few years later the studio announced that they were working on the most technically amazing version of this game which eventually became known as Duke Nukem Forever.  
+
+Buzz built around the studio's project for years.  There was speculation after speculation and each more ridiculous than the last. The studio struggled with putting teeth into the project.  They changed the underlying architecture and game engine on more than one occasion and scope creep swallowed any efforts to build something stable.  The leadership failed to deliver something and inevitably the shop closed its doors.  It made other titles before it did, however it never met or delivered on the expectations that the gamming community put behind the Duke Nukem Forever game.
+
+What happened? Expectation overrode reality.  The leaders there had an ever changing picture of what they thought the game should be.  I am sure there were other factors but the sentiment of failing to meet a vision will always be an attribute overcasting the game's legacy.  Later on another studio picked up the project and delivered it, but some argued that the studio knew that even if they delivered something they would really never be able to deliver on the legendary myth woven by expectation.
+
+Kingdoms rise and fall because of expectations and assumptions. Billions of dollars change hands in the stock market from a set of pre-constructed expectations. Historically, we as a human race have not really ever been very good at predicting the future.  Time and time again we try to be Bishop and jump through time in designing software, planning for life, making and even in simple conversations with each other - making lousy attempts at trying to finish someone else's thought with partial information and crummy assumptions.  
+
+**We could print anything!**
+
+Ah 3D printing. Now that 3D printers are getting to be affordable they have begun find their ways into both the "technical" and non-technical households. Kickstarter is filled with manufacturers trying their hand at the 3D printer consumer market.  Avoiding the plethora of Kickstarter clones we got a PrintrBot Simple Metal kit. When we got the kit my kids, true to form, responded with "cool what are we going to make now?!" After stating that it was a 3D printer they seemed unimpressed so we jaunted over to YouTube and watched a few time laps videos of 3D prints. They still seemed a bit unclear on what it was all about.
+
+Fortunately, I had five enthusiastic kiddos ready to put together the puzzle of a thousand pieces. To set a picture upfront, yes we lost some pieces (that was "expected") but they were easy to replace and well worth the experience of working on a project together.
+
+Once we finished constructing the 3-axis beast we all became intrigued.  Admittedly I didn't even know what to expect. One of the first things you do after building the printer is calibrate the it using a little square model. After sorting through a walk through on getting setup the smell of PLA filament began to fill the room (it smelled a little like waffles) as the extruder started to heat up. Then it began.  The printer was shifting quickly on all 3-axis' and it was nothing short of mesmerizing!
+
+We were all locked in and we stood in silence as we watch it print a 3-dimensional square. I saw as, like a row of dominos, each of my children began to understand what was unfolding before their eyes. "We could print anything!" was the catalyst for the most interesting conversation about project ideas that we have ever had as a family.  They got it.  They understood that the imagination is limitless without considering implementation and with tools that help blur the lines between the two can literally change the world.  We jumped from ideas of printing toys to printing hearts for humans.  They got it and all it took was a 3-dimentional square printed with filament made from corn.
+
+Stop for a minute and realize that you and I live in THAT world, right here, right now. A world where we can make the choice to do amazing things and be so much more than "users." We can create! 
+
+**A bit on 3D Printing**
+
+3D printing is a process by which a 3D model is provided to a machine and a physical 3-dimensional object is created. Conceptually it is much like 2D printing (paper and ink) except that it uses a filament instead of ink and physical space instead of paper. There are a few different approaches to 3D printing; a couple of the most common ones are additive and subtractive.
+
+Additive 3D printing uses a 3D model generated by software which is then "sliced" by some other software which results in a file containing both the sliced 3D object and some meta data.  This file is then given to the printer which uses a 3-axis plane to print layers, additively, until the whole model is rendered in physical space. Additive printing can use many types of filaments such as PLA (), ABS (), concrete, liquid resin and even things like chocolate or cheese. The hardware for this type of printing is generally inexpensive (excluding industrial printers) and the filament is low cost as well.  Additive often uses a process called extrusion where layer by layer material is extruded from a source and the model is built. Conceptually speaking it is simple but when you observe it first-hand it is mind blowing!
+
+Equally as "mind blowing" subtractive 3D printing.  This is the process by which material is stripped away or subtracted from a source material to create the 3-dimensional model in physical space.  This process can use things like high pressure water systems and lasers to remove the material from the source.
+
+A> TIP: If you are using a filament based printer and do not have a heated bed you will probably want to avoid using an ABS filament and just stick with PLA. ABS typically is a bit more flexible than its PLA counterpart which makes it a bit more difficult for the model to stay in place due to vibrations, movement of the extruder and connected material on the printer bed.  Also, with no "heated" plate for your printer you might want to try the combination of blue painter's tape on the bed, sanding the taped surface and then lightly cleaning the taped and sanded surface by using alcohol (70% ISO).  Oils from your skin prevent the filament from sticking to the surface which will quickly end up in filament spaghetti instead of your intended model.
+
+Since out first step into 3D printing we have had my failed prints and have had to readjust our expectations on this whole 3D movement. It's hard not to picture this wonderful world where you're the captain on the bridge saying "Tea, Earl gray, Hot" to a replicator after printing a model you created.  While we are not at a point where we can manipulate energy into tea I cannot escape the feeling that one day we will see something like a Star Trek replicator as Gene Rodenberry envisioned.  Though, I probably shouldn't set my expectations too high.
+
+What are some of the road blocking expectations that are stopping you from taking your 2D idea and making it a 3D reality?
