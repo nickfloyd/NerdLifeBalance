@@ -1,48 +1,53 @@
-#The Paradox
+# The Roll for initiative
 
-**I HAVE NO IDEA HOW I GOT HERE.**
+There are tons of things that can catch us off guard in life. New perspectives, new relationships, new kids, new jobs, heck even new food can shoot your wheels off (especially if you are allergic to it).  The point is that we can spend so much time on expecting the unexpected than we lose site on one of the best and most amazing experiences in life - being surprised. 
 
-It was a cold and rainy September day and I was riding down the Springwater corridor in Portland, Oregon like I did every day. Nodding mindlessly to the opposing riders or throwing a bell ring at those I was sharing the trail with. 
+The first time I found out I was going to be a dad I was massively surprised and confused. I remember thinking how exciting it was going to be while considering how terrifyingly unprepared we were. After our fifth kiddo I was much less surprised but even number five brought her own little unexpected delights. 
 
-I was trapped by a thought; captivated by a problem. It was something I was carrying away from my desk at work. This made it difficult to focus on much of anything else. Given that I had gone down both the road of thought and the Springwater many times before I felt I could handle the multitasking. 
+We have a dangerous tendency to think that we have more than enough mental dexterity to anticipate life's little explosions. Combine that with the idea that fear of the unknown is paralyzing and you've got yourself one mind blowing paradox.  It's almost as if we spend loads of time preparing for something were afraid we'll never do!
 
-The funny thing about hubris through familiarity: you end up missing out on so many beautiful things around you and you usually end up with a tail between your legs because your perceived success ends up in actual disaster.  This time was no different.
+I remember building a new computer. My first experience with computing had been a TRS-80 and I was about to graduate to the 32-bit world of micro processing. It was a 386 or better known as an [i386](http://en.wikipedia.org/wiki/Intel_80386) packing a whopping 275,000 transistors  and capable of 32-bit operations.  
 
-I hit a railroad track that was running at a rough forty-five degrees to the road I was on. The rail groove was just wide enough for my tire to get caught in the crossing causing me to be thrown like a rag doll in one of those crummy physics games. I was so completely enthralled by my problem solving that I didn't even notice I had been thrown off until I hit the ground.  I thought to myself, "I have no idea how I got here."  
+Running at a cool 33 MHz I thought, "what can I do with all of this power?!"  Take over governments, write the Asimov predicted AI, melt faces like Indiana Jones - the possibilities were endless! Once I finished assembling the machine I flipped the switch to turn it on (literally there was a "switch " it was red and the "click" it made a sound  like a herd of unicorns dancing on a rainbow). In anticipation, I waited for the CPU to register and the memory to count up and then it happened…
 
-{float=right}
-![](images/bike_sign900x1245.jpg)
+BEEP…BEEP…BEEP…BEEP
 
+Nothing but silence after that. No fans, no clicks, no BEEPs; the unicorns had fallen off the rainbow.   I was now caught "flat footed" and had failed my initiative roll. So in comes the choice every role player has to make with any encounter they have: stay and fight or run away. 
 
-For me this was a brutal truth over the first 20 or so years of my career.  It started out as an "I got this" moment and usually ended up with me stressed out over a project or two and me sleeping under my desk or on top of a table.  You may not be able to relate to the extreme side of my situation but perhaps you've had moments where you've looked up and wondered "how did I get myself into this situation?" Like boiling a frog, this "work and then life mentality" will enviably cook you and me.
+The fact is that we all have these defining moments, big or small throughout life. We can choose to move the family or we can stay, we can change from a salaried employee to a contractor or just stay where we are, we can teach our kids to solder or we can decide that's too "dangerous."  Regardless of the moment we all have to roll for initiative some time and we all have to decide what to do with the results. I'm not talking about a notion of chance or statistical probability but rather an opportunity to make a choice. 
 
-I lay there on the ground. Wet, cold with a searing pain in my knee were I made first contact with alien ouch from the planet oblivious.  I just laid there in frustration over my spectacular flight but even more displeased that I had completely forgotten all that I had processed over the course of the eight mile ride from the office to the ground where I was laying. I rolled over on my back, winced and looked into the grey nether (more commonly known as Portland sunshine). 
+When rolling, fear can be a powerful factor. It can tear you down or it can be a powerful motivator. You see, when those four beeps rung in my ears I had absolutely no clue what to do or even what was next. There was no Google to help guide me through, no instructions or Geek squad. There was just me and a pile of silicon and solder. I was facing a monster and it was wielding a +4 club of hardware failure. This was a moment of adversity. 
 
-A car passed me and honked as to say to me "watch out for that track; haven't you ever ridden a bike before!" I thought that it would be best to get up so I picked myself up with my extra slice of humble pie and a whole lot of respect for train tracks. I limped home over the next five miles with plenty of time to consider what had happened. 
+Many great individuals have been born from adversity, rough starts and challenged paths: 
 
-At that moment I was doing two things I loved dearly: biking and solving a really hard software problem. Here's the part where you might expect me to launch into the whole "multitasking is a myth" monologue.  I'll save you from the droning and just put it this way: some call it multitasking, some call it multithreading; I like to think of it as Multidistrscting. 
+[Ada Lovelace](http://www.biography.com/people/ada-lovelace-20825323) dealt with an absent father and numerous health issues.  It took roughly 100 years after her death for her contributions in computer science to be added to her legacy, making her the world's first computer programmer.
 
-Multidistrscting, simply put, is attempting to focus on more than one thing that you are really passionate about.  [Linda Stone](http://en.wikipedia.org/wiki/Linda_Stone) coined a term that closely represents the phenomenon of soaking in bits and pieces of the world around us as [continual partial attention](http://en.wikipedia.org/wiki/Continuous_partial_attention). It's the idea of collecting a lot of data but never going deep with any of it.
+[Bill Gate's](http://www.biography.com/people/bill-gates-9307520) with friend Paul Allen first company "Traf-O-Data" initially was considered unsuccessful. He later founded one of the world's largest software companies, Microsoft and is now considered one of the richest person in the world.
 
-It's the [Lawnmower Man effect](http://en.wikipedia.org/wiki/The_Lawnmower_Man_%28film%29). Achieve "genius" through sampling everything and experiencing nothing. We are all familiar with this idea; in biblical terms it's referred to as "trying to serve two masters." It would be like trying to learn Kung fu while learning Jiu Jitsu at the same time and doing it without the luxury of the Matrix! One does not simply live two lives and download all the things Neo. 
+[Stephen King's](http://www.biography.com/people/stephen-king-9365136) first novel was rejected 30 times but then a year later was published as a huge success.  He is now known around the world for his critically-acclaimed titles that have sold over 350 million copies!
 
-It's that ache in the back of your head when you put on the Lawnmower Man VR headset and just start munching through the motions and the billions of bits flying toward you. So instead of doing one thing really well you doing two or more things at half pace. 
+[Thomas Edison](http://www.biography.com/people/thomas-edison-9284349) failed many times trying numerous materials (the real number is unknown) while trying to create a new filament to make the incandescent electric light a viable device. He is now considered one of America's greatest business leaders who helped to shape its economy.
 
-So then how do you live a passionate life while doing the things you love with those you love? How do you live like you are going to fall of your bike without actually falling off?
+[Vincent van Gogh](http://www.biography.com/people/vincent-van-gogh-9515695) sold only one painting for 400 francs during his lifetime. Today he is considered to be one of the greatest Dutch painters and his paintings are some of the most expensive in the world.
 
-I love a really good "weekend hack." One where you simply cannot get the idea out of your head and you've got to bend some metal, solder some connections or throw some bits just to breathe. Some of the best sessions that I have had around these ideas were with good friends. 
+[Franklin Roosevelt](http://www.biography.com/people/franklin-d-roosevelt-9463381) was paralyzed from polio. He ended up leading the United States through the Great Depression, WWII and has been the only president in US history to be elected to office for four terms (prior to the twenty-second amendment).
 
-A few years ago I connected with a couple of amazing software developers and we decided that we were going to do fifty-two projects in a year, one each weekend. The goal was simple: do a seriously fun hack, learn something and share it with others. We did all of those things but after a while it began to get to be too much. I had a new baby on the way and we were all working at a place where we were not upholding the best work-life balances. It was amazing but it was also time to end it. I still have weekend hacks. Four kids later and I'm either working with those amazing kids or taking some alone time and get something knocked out. 
+[Lucille Ball](http://www.biography.com/people/lucille-ball-9196958) was known in Hollywood initially as the "queen of 'B' movies" and her childhood was filled with tragedy and money challenges. She is now considered to be one of the most beloved comedians of all time and had a tremendously successful career.
 
-Before moving on, you'll notice I mentioned getting some "alone time" which implies doing a project by yourself.  My default on almost all of the projects I do will be to BAF(see the previous chapter) but there are times when [Mr. Furious](http://en.wikipedia.org/wiki/Mystery_Men) rides in a wolf pack of one. Some projects call for a [Deus Ex](http://en.wikipedia.org/wiki/Deus_Ex) approach of taking on the futuristic terror of undone projects alone and those can be equally as amazing, just make sure to share the results with others when you're done!
+[Stephen Hawking](http://www.biography.com/people/stephen-hawking-9331710) was diagnosed at age 21 with amyotrophic lateral sclerosis (ALS). Despite his illness he has made crucial contributions to the field of physics and other sciences.
 
-So what changed between then and now? The difference now is that the projects are planned and on purpose.  "Planned sounds too regimented" you might say. In the traditional sense planning for something might feel like it has the potential to choke out spontaneous innovation.  It's the opposite of that. 
+[Stan Lee](http://www.biography.com/people/stan-lee-21101093#synopsis) spent part of his childhood surviving the great depression with his parents and his younger brother. He is responsible for shaping most of what many of us know and experience with "comics" today.
 
-This idea can be explained by a stack of Texas ribs.  Being from Texas I know that there are really only two food groups: BBQ and Tex-Mex. Most native Texans know that any good set of pork ribs have been soaked in a nice broth for a long time before they hit the grill. The meat absorbs the flavor of the broth and the end result is a far more amazing rib than if you just quickly threw some salts on the rack and toss them on the fire.
+At the end of the day these people were just people like you and me. Maybe they all had a great deal of mental fortitude, perhaps they all just had a great deal of endurance but we all share something in common - the ability to make a choice regardless of the circumstances. 
 
-A> Side note: ribs make amazing LAN party food if you practice moderation - while folks are recovering from being slapped in the mouth by the killer ribs you just grilled you can get in a few extra frags. 
+I personally chose to use the fear of the unknown and decided to use that as fuel to learn as much as I possibly could about computing, starting with four ominous beeps. Thirty years later I love every minute that I get a chance to write software with amazingly talented people while learning something new just about every day.  We can sit there and think about "trying" all day long but without the "do" we're just burning a clock. 
 
-The idea here is to take the awesome idea that you just had and make it even more awesome by soaking it in or running it by a friend or family member. The set an execution date and do it. **The best ideas are toxic without execution**. In fact, just drop the idea of ideas all together and just start thinking in terms of projects. Thinking and being more concrete will act as a catalyst to your project war machine. 
+ I think Yoda said it best: 
+"There is no try there is only do and do not."
 
-What thought paradoxes turn you into the proverbial zombie? Perhaps a little soaking in the broth of planning and choice making will help keep you on the bike and help make sure you see your amazing project to its end.  
+Was it because the i386 hijinks years ago or that I was obsessed with how programmers [Toshihiko Nakago](http://nintendo.wikia.com/wiki/Toshihiko_Nakago) and Kazuaki Morita
+ at Nintendo were able to make [Mario](http://en.wikipedia.org/wiki/Super_Mario_Bros.) jump and eat mushrooms? I don't know, it was probably a combination of several things. What I do know is that the choices we make can and will shape our lives and our family and friend's lives.
 
+It turns out that my video card was "unseated" and all I really need to do was push it in a bit more.
+
+ I wonder if we took a step back and looked at what we are doing and considered why we are doing it would we find areas that simply need a little push to get us running like we should be running.
