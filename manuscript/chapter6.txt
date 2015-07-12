@@ -8,6 +8,8 @@ We have a dangerous tendency to think that we have more than enough mental dexte
 
 I remember building a new computer. My first experience with computing had been a TRS-80 and I was about to graduate to the 32-bit world of micro processing. It was a 386 or better known as an [i386](http://en.wikipedia.org/wiki/Intel_80386) packing a whopping 275,000 transistors  and capable of 32-bit operations.  
 
+![](images/pdp1_1050x619.jpg)
+
 Running at a cool 33 MHz I thought, "what can I do with all of this power?!"  Take over governments, write the Asimov predicted AI, melt faces like Indiana Jones - the possibilities were endless! Once I finished assembling the machine I flipped the switch to turn it on (literally there was a "switch " it was red and the "click" it made a sound  like a herd of unicorns dancing on a rainbow). In anticipation, I waited for the CPU to register and the memory to count up and then it happened…
 
 BEEP…BEEP…BEEP…BEEP
