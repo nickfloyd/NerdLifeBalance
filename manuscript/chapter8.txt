@@ -1,5 +1,7 @@
 -# The Behavior Parables
 
+![](images/ch8.jpg)
+
 It seems that we, as the human race, have several different opinions or ideas of what "success" means to us. Whether it's working one hundred hours a week to pull off the amazing project or, like me, taking every opportunity to teach my five kiddos the how's and what's of the things I am passionate about, we all have a perspective. Maybe it's our perceived ideal. Regardless, there is a definition of what we think we should pursue and often times we are willing to fall on many swords to get there. 
 
 [Game theory](http://en.wikipedia.org/wiki/Game_theory) defines our tendency to sprint toward certain behaviors like this:
