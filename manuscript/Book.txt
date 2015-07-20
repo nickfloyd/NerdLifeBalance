@@ -3,6 +3,7 @@ HowTo.txt
 chapter1.txt
 project1.txt
 chapter2.txt
+project2.txt
 chapter3.txt
 chapter4.txt
 chapter5.txt
