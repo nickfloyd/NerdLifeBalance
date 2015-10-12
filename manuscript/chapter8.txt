@@ -26,20 +26,13 @@ This is a tight loop we all have the potential to get stuck in. Often, many of u
 
 I've discovered that there is a correlation to things that are challenging to maintain but highly valuable, such as friendships or marriages. The problem is that because there are unknown factors in things like relationships they can become daunting but tremendously rewarding. These variables make it extraordinarily difficult to solve for x. On the other side things like working a lot has the potential to yield frequent, smaller rewards that are often assured - looking back to the idea of the skinner effect.
 
-```
-[Equation for very valuable X]
-
-[Equation for frequent rewards through constant work]
-
-```
-
 What if what we thought was success was wrong? What if we are basing our definition of winning on a lifetime ago where the only thing we had to think about was how long of a car nap you could take before your next class?
 
 I'd like to take a minute and look at some of the influencers and behaviors that create these ideal pictures of what we think winning looks like. Keep in mind that these things are not inherently bad per se (much like the money point in the last chapter), but that what we do with them can create the not so favorable scenarios. 
 
 *Once you're done going through some of these behavior parables ask yourself, what behaviors have been reinforced in the way you work and interact with the world around you. Do those behaviors still seem successful to you now?*
 
-# The death of a Tauntan
+# The Death Of A Tauntan
 
 In the Star Wars universe there are creatures known as Tauntans. These omnivores are indigenous to the planet Hoth. Hoth is a super cold planet that is next to uninhabitable save the creatures who called it home and the rebels that were trying to rebuild and regroup on it. 
 
@@ -98,7 +91,7 @@ I've been down this road far too many times - I have even gold plated specificat
 
 A> *"Volo dell angelo Zipline located in Rocca Massima, Italy is the longest Zipline in the world clocking in at a whopping 2,213 meters or 7,260 feet! Riders can reach speeds of 140 km/h." * [source: Flying in the Sky](http://www.flyinginthesky.it/)
 
-# The Steam powered punch
+# The Steam Powered Punch
 
 At the time of this writing there is a move where boxed software and games have moved to an unboxed downloadable content (DLC) model. This approach has gained rapid approval because of the accessibility to users and their content, creator to user reach and it has opened the door to many creators who simply cannot work in the publisher / creator model. Basically you can buy, download content and play within minutes. It's ingenious, at least as a business model. For those of us who have collector mentalities it becomes a bit of a challenge because when things go on sale in this market place we tend to buy games we probably will never play. If you have a Steam account how many of the games in your library have you actually played? 50%? 30%? 10%?
 
@@ -106,7 +99,7 @@ The idea here is that there is a lot of things that desire our attention and the
 
 A> *"In the game Half-life, the first game built by Valve Software artillery bombardments occur frequently throughout the game. The 'whistling' sound that can be heard before the explosion is that of the German Flak 88."* [source: IMDB](http://www.imdb.com/title/tt0239023/trivia)
 
-# Taking a quantum leap
+# Taking A Quantum Leap
 
 I couldn't figure it out and the problem was filling my head like tribbles on a starship. After working for a month on a caching solution for a web application I was doing I felt no closer to the ideal solution then when I started. 
 
@@ -161,7 +154,7 @@ As a side note, if you are an impostor one of the best and most risky thing you 
 
 A> *"Frank Abagnale began his career in fraud at age 15. His known impersonations were an airline pilot, a doctor, an attorney and even a teaching assistant."* [source: wikipedia](http://en.wikipedia.org/wiki/Frank_Abagnale)
 
-# The pain of sand
+# The Pain Of Sand
 
 You're on a beach, the sun is out and the waves are crashing. It's a beautiful day. You build sand castles with the kiddos and when you're done you decide to go for a quick run. Halfway through your run you realize you have several grains of sand in your britches and all of the running and rubbing has caused you a seriously painful rash.
 
@@ -171,11 +164,11 @@ Like most learned things we will naturally begin to avoid the painful things in 
 
 The following are two representations of this grain of sand thinking. Even though this line of thinking is spelled out using a contrived algorithm the principle is somewhat simple: know when to stop and address something that is irritating you and distracting you from getting real work done.
 
-**The Bad grain**
+**The Bad Grain**
 
 ![](images/bad_grain.png)
 
-**The good grain**
+**The Good Grain**
 
 ![](images/good_grain.png)
 
@@ -187,7 +180,7 @@ Accept that there will be times when you'll have to take the sand but know when 
 
 A> *"To make the location perfect for shooting, two hundred workers spent two months hand-clearing three-square miles of Mexican desert for the epic 1984 film Dune."* [source: inktank](http://inktank.fi/15-little-known-facts-about-the-making-of-dune)
 
-# I don't want to talk about it
+# Talking About Things
 
 There is an old proverb that states: "Silence is golden." The origin of this is still uncertain however there are instances of this thought appearing in ancient Egypt, in the Judaic Biblical commentaries (the Midrash), the English poet Thomas Carlyle referenced it, James Russell Lowell quotes it in 'The Bigelow Papers', in Brian Aldiss' 'The Primal Urge' and even William Shakespeare tips his hat to the thought in "Romeo and Juliet."
 
@@ -201,7 +194,7 @@ This is one of the reasons I feel we should take our passions "home" with us. By
 
 A> *In the Half-Life series of video games created by Valve the main protagonist Gordon Freeman never says a single word. "Gabe Newell has [stated](http://www.computerandvideogames.com/241221/gabe-newell-next-half-life-wont-change-gordon-freeman/) that Valve sees no reason to give Gordon a voice." I suppose if I had a crowbar talking for me I wouldn't need a voice either.* [source: wikipedia](http://en.wikipedia.org/wiki/Gordon_Freeman)
 
-# The board of directors
+# The Board Of Directors
 
 ***
 I had been haunted by a dream where I solved a super hard problem that I had been facing for about a month. The problem was seriously challenging and it was constantly hanging over my head drilling holes in my subconscious so it was not unusual that I would have a dream about it. In fact I had many dreams but this was the first time I'd "solved" it in the dream; usually the dream was knowing that the problem existed but I had to solve an equally as hard problem like naming something or caching before I could get to it. 
@@ -228,7 +221,7 @@ In the middle of the night you always seem to have the best ideas but when you w
 
 A> *"In the 1987 film "Robocop" the Desert Eagle Magnum that is in the OCP Board Room was originally intended to be Robocop's gun. There is even existing behind-the-scene photos and footage of Peter Weller practicing with the Desert Eagle. However, when they gave Weller the gun, they noticed that even the bulky Desert Eagle was too small in the hands of Robocop. So the film's armory supervisor, Randy E. Moore, brought in a Berretta Automatic Pistol to which a compensator and decorative dressing was added to increase the size of the gun." If one of your personal board members carries either of those guns you should probably listen to them!* [source: imdb](http://www.imdb.com/title/tt0093870/trivia)
 
-# Going mental
+# Going Mental
 
 Mental illness in the work place and at home is a really serious and challenging problem that this modern workforces faces today. Sadly very little is discussed about it and often those being challenged by problems have limited outlets for fear of being ostracized or cast out with a label.
 
