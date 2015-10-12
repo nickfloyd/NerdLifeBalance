@@ -29,8 +29,9 @@ I had some amazing bike nerds from New Relic backing me up with my new 24 mile r
 It was like taking a person who has played first person shooters (driving to work) their entire life and telling them they could now only play massively multiplayer online games (bike to work). Frankly, it seemed about as smart and as useful as a bag of broken hammers in {Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong).
 
 I continued to do it because: 
-	1. I was being encouraged by some amazing people
-	2. I noticed something on the faces and in the hearts of the other bikers on my commute. 
+
+1. I was being encouraged by some amazing people
+2. I noticed something on the faces and in the hearts of the other bikers on my commute. 
 
 It was subtle initially but it really became apparent when I was riding in a heavy rain. The commuters were smiling. Crazy, yes. Nutty, I know right?! They were riding on the same path I was on, in the same rain as well! So what was it? What made these people enjoy it so much?  
 
@@ -44,8 +45,8 @@ Then it happened. I had a smile on my face. Was it a touchy feely moment; not at
 
 Then it hit me. **I smile when I write code!** It turns out that when you are genuinely passionate about something two very interesting things happen:
 
-	1. You have tons of joy doing what your passionate about
-	2. You want to share it with anyone who will listen
+1. You have tons of joy doing what your passionate about
+2. You want to share it with anyone who will listen
 
 The fact is that your passion does not need to have a reason for existing - it is its own reason. I went on to share my crazy excitement about commuting to work with whoever would listen. I was leaking excitement and passion everywhere like Ninja Turtle ooze, hoping for a mutation here or there.  
 
@@ -69,17 +70,17 @@ He continued, "I mean, do you think we could even survive."
 
 I have six beautiful children.  Each one is unique.  My wife and I have put all of them in front of technology, programming, hardware, art, literature and the like and something amazing has happened every time we've done that.  They discover a little more about themselves each time they do.
 
-My son Caden (11 years) loves to program, game and read.
+My son **Caden** (11 years) loves to program, game and read.
 
-My son Jonah (9 years) loves hardware, soldering and builds IOT stuff.
+My son **Jonah** (9 years) loves hardware, soldering and builds IOT stuff.
 
-My son Levi (7 years) loves to build things and structures with Legos or any other materials he can find.
+My son **Levi** (7 years) loves to build things and structures with Legos or any other materials he can find.
 
-My son Dylan (5 years) loves to adventure in the wilderness, find materials and build weapons and tools with them
+My son **Dylan** (5 years) loves to adventure in the wilderness, find materials and build weapons and tools with them
 
-My daughter Ruth (3 years) loves to paint and solder with me
+My daughter **Ruthie** (3 years) loves to paint and solder with me
 
-My daughter Ava (2 years) loves to be a mad scientist and test out everything (especially her parents).
+My daughter **Avajoy** (2 years) loves to be a mad scientist and test out everything (especially her parents).
 
 I've tried to be the same dad and they've had the same amazing mom - so why the difference in passions? Because over time despite what we have taught them others in their lives, the things they read and experience has created a whole new creativity virus in them.  Without humanities legacy of creativity and others before us having the courage to share what they love with the world we'd be challenged with the additional burden of cutting new paths. As my son pointed out using a frozen sweetened flavored bovine secretion as an example, "it would really be hard to live on earth and not be creative."
 
