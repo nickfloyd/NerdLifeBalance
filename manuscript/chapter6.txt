@@ -2,9 +2,9 @@
 
 ![](images/ch6.jpg)
 
-There are tons of things that can catch us off guard in life. New perspectives, new relationships, new kids, new jobs, heck even new food can shoot your wheels off (especially if you are allergic to it).  The point is that we can spend so much time on expecting the unexpected than we lose site on one of the best and most amazing experiences in life - being surprised. 
+There are tons of things that can catch us off guard in life. New perspectives, new relationships, new kids, new jobs, heck even new food can shoot your wheels off (especially if you are allergic to it).  We can spend so much time on expecting the unexpected that we lose site on one of the best and most amazing experiences in life - being surprised. 
 
-The first time I found out I was going to be a dad I was massively surprised and confused. I remember thinking how exciting it was going to be while considering how terrifyingly unprepared we were. After our fifth kiddo I was much less surprised but even number five brought her own little unexpected delights. 
+The first time I found out I was going to be a dad I was massively surprised and confused. I remember thinking how exciting it was going to be while considering how terrifyingly unprepared we were. Even after adopting our sixth kiddo I was much less surprised but she still brought a stack of her own little unexpected delights. 
 
 We have a dangerous tendency to think that we have more than enough mental dexterity to anticipate life's little explosions. Combine that with the idea that fear of the unknown is paralyzing and you've got yourself one mind blowing paradox.  It's almost as if we spend loads of time preparing for something were afraid we'll never do!
 
@@ -12,7 +12,7 @@ I remember building a new computer. My first experience with computing had been 
 
 ![](images/pdp1_1050x619.jpg)
 
-Running at a cool 33 MHz I thought, "what can I do with all of this power?!"  Take over governments, write the Asimov predicted AI, melt faces like Indiana Jones - the possibilities were endless! Once I finished assembling the machine I flipped the switch to turn it on (literally there was a "switch " it was red and the "click" it made a sound  like a herd of unicorns dancing on a rainbow). In anticipation, I waited for the CPU to register and the memory to count up and then it happened…
+Running at a cool 33 MHz I thought, "what can I do with all of this power?!"  Take over governments, write the Asimov predicted AI, melt faces like Indiana Jones - the possibilities were endless! Once I finished assembling the machine I flipped the switch to turn it on (literally, there was a "switch", it was red and the "click" made a sound like a herd of unicorns dancing on a rainbow). In anticipation, I waited for the CPU to register and the memory to count up and then it happened…
 
 BEEP…BEEP…BEEP…BEEP
 
@@ -20,7 +20,7 @@ Nothing but silence after that. No fans, no clicks, no BEEPs; the unicorns had f
 
 The fact is that we all have these defining moments, big or small throughout life. We can choose to move the family or we can stay, we can change from a salaried employee to a contractor or just stay where we are, we can teach our kids to solder or we can decide that's too "dangerous."  Regardless of the moment we all have to roll for initiative some time and we all have to decide what to do with the results. I'm not talking about a notion of chance or statistical probability but rather an opportunity to make a choice. 
 
-When rolling, fear can be a powerful factor. It can tear you down or it can be a powerful motivator. You see, when those four beeps rung in my ears I had absolutely no clue what to do or even what was next. There was no Google to help guide me through, no instructions or Geek squad. There was just me and a pile of silicon and solder. I was facing a monster and it was wielding a +4 club of hardware failure. This was a moment of adversity. 
+When rolling, fear can be a powerful factor. It can tear you down or it can be a powerful motivator. You see, when those four beeps rung in my ears I had absolutely no clue what to do or even what was next. There was no Google to help guide me through, no instructions or Geek squad. There was just me and a pile of silicon and solder. I was facing a monster and it was wielding a +4 club of hardware failure. This was my moment of adversity. 
 
 Many great individuals have been born from adversity, rough starts and challenged paths: 
 
@@ -52,7 +52,7 @@ I personally chose to use the fear of the unknown and decided to use that as fue
 "There is no try there is only do and do not."
 
 Was it because the i386 hijinks years ago or that I was obsessed with how programmers [Toshihiko Nakago](http://nintendo.wikia.com/wiki/Toshihiko_Nakago) and Kazuaki Morita
- at Nintendo were able to make [Mario](http://en.wikipedia.org/wiki/Super_Mario_Bros.) jump and eat mushrooms? I don't know, it was probably a combination of several things. What I do know is that the choices we make can and will shape our lives and our family and friend's lives.
+ at Nintendo were able to make [Mario](http://en.wikipedia.org/wiki/Super_Mario_Bros.) jump and eat mushrooms? I don't know; it was probably a combination of several things. What I do know is that the choices we make can and will shape our lives and our family and friend's lives?
 
 It turns out that my video card was "unseated" and all I really need to do was push it in a bit more.
 

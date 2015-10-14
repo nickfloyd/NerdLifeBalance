@@ -28,19 +28,19 @@ I've discovered that there is a correlation to things that are challenging to ma
 
 What if what we thought was success was wrong? What if we are basing our definition of winning on a lifetime ago where the only thing we had to think about was how long of a car nap you could take before your next class?
 
-I'd like to take a minute and look at some of the influencers and behaviors that create these ideal pictures of what we think winning looks like. Keep in mind that these things are not inherently bad per se (much like the money point in the last chapter), but that what we do with them can create the not so favorable scenarios. 
+I'd like to take a minute and look at some of the influencers and behaviors that create these ideal pictures of what we think winning looks like. Keep in mind that these things are not inherently bad per se (much like the money point in a previous chapter), but that what we do with them can create the not so favorable scenarios. 
 
 *Once you're done going through some of these behavior parables ask yourself, what behaviors have been reinforced in the way you work and interact with the world around you. Do those behaviors still seem successful to you now?*
 
 # The Death Of A Tauntan
 
-In the Star Wars universe there are creatures known as Tauntans. These omnivores are indigenous to the planet Hoth. Hoth is a super cold planet that is next to uninhabitable save the creatures who called it home and the rebels that were trying to rebuild and regroup on it. 
+In the Star Wars universe there are creatures known as Tauntans. These omnivores are indigenous to the planet Hoth. Hoth is a super cold planet that is almost uninhabitable save the creatures who called it home and the rebels that were trying to rebuild and regroup on it. 
 
 The rebels used these creatures as patrol mounts to travel across the surface of Hoth because their vehicles couldn't cope with the cold.
 
-As it would turn out as the story unfolds there are limitations to the Tauntans as well. Han Solo runs one into the ground looking for Luke, then proceeds to make a sleeping bag out of it to help our hero, wait for it… get "Luke-warm."
+As it would turn out as the story unfolds there are limitations to the Tauntans as well. Han Solo runs one into the ground looking for Luke, then proceeds to make a sleeping bag out of it to help our hero, wait for it… to get "Luke-warm."
 
-Have you ever caught yourself saying something like, "Once this project is over things will get back to 'normal'?" We do that because our vision is “siloed” in on a fixed point. We do some self-encouraging as we run hard we take a breath and we start running again. The "skinner effect" is invoked and we find ourselves getting kited along until we are drinking red bulls and coffee every morning and finishing the day with a dose of melatonin just to stop our brains from spinning. 
+Have you ever caught yourself saying something like, "Once this project is over things will get back to 'normal'?" We do that because our vision is “siloed” in on a fixed point. We do some self-encouraging as we run hard we take a breath and we start running again. The "skinner effect" is invoked and we find ourselves getting kited along until we are drinking Red Bull and coffee every morning and finishing the day with a dose of melatonin just to stop our brains from spinning. 
 
 Keep in mind I am not talking about crunch, there will always be that. There will always be times when we have a hack that we need to get out of our head and turn into code or an idea that needs a weekend and half a dozen trips to Home Depot to get done. I think we all have a tendency to be a bit hardheaded which can be a strength to help us persevere. No, I'm not talking about that at all; it's the patterns where we cannot walk away despite the project or activity. It's obsession.
 
@@ -64,7 +64,7 @@ A> *"In Return of the Jedi, Jabba the Hutt has a stuffed and mounted tauntaun he
 
 So you walk into your favorite bulk retailer / warehouse outlet and some of the first things you'll run into are the sample ninjas. These people are highly skilled at getting you to: 1. eat crap off a table you had no hand in preparing and 2. make you want to buy said crap so that you and your family can become addicted to a veritable cornucopia of deathly delights.
 
-Unwittingly places like Costco allow my family in the doors. You see, my children are like locusts (I am sure anyone with parents with pre-teens and up can relate); they leave in their paths little paper cups and worn out sample ninjas creating a sample wasteland.
+Unwittingly places like Costco allow my family in the doors. You see, my children are like locusts (I am sure any parents with pre-teens and up can relate); they leave in their paths little paper cups and worn out sample ninjas creating a sample wasteland.
 
 Sometimes the mentality of a nerd can be the little locust running through the store. We consume a little of the latest programming language, the most recent build of an OS, the next great cloud service and we leave in the wake little half-done projects or bits and pieces of provisioned websites. As the sampling continues we ping the moderators of the frameworks or projects we nibble on and talk about how great feature x and y would be and then turn around and abandon all interest in it because a new thing was put in front of us.
 
@@ -76,7 +76,7 @@ A> *The retailer Costco sells more than 43 million packages of toilet paper ever
 
 Planning is good. It helps us avoid things like project bloat, confusion and give us a general direction to head in. A few years back I began a project with my kids. It was a "zipline." The problems we were trying to solve were simple:
 
-1. Have a faster way to get from the house to a trail head. At the time we had a really big year and my kids legs are short.
+1. Have a faster way to get from the house to a trail head. At the time we had a really big yard and my kids legs are short.
 2. Build something fun and safe for the whole family to enjoy
 
 So, like most projects we do together we all sat down and began to plan. We were drawing up plans and calculating for tension and sag. About 5 minutes I lost my 2.5 year old, an hour into it my 4 year old dropped out because of boredom, another hour I lost the 5 year old to "chores" (interesting how boredom can be a motivator), and finally roughly 30 minutes later my 7 and 9 year olds stopped the "planning" with one simple question: "Why are we doing this? It doesn't seem like we're actually getting anything done."
@@ -93,11 +93,11 @@ A> *"Volo dell angelo Zipline located in Rocca Massima, Italy is the longest Zip
 
 # The Steam Powered Punch
 
-At the time of this writing there is a move where boxed software and games have moved to an unboxed downloadable content (DLC) model. This approach has gained rapid approval because of the accessibility to users and their content, creator to user reach and it has opened the door to many creators who simply cannot work in the publisher / creator model. Basically you can buy, download content and play within minutes. It's ingenious, at least as a business model. For those of us who have collector mentalities it becomes a bit of a challenge because when things go on sale in this market place we tend to buy games we probably will never play. If you have a Steam account how many of the games in your library have you actually played? 50%? 30%? 10%?
+At the time of this writing there is a movement where boxed software and games have moved to an unboxed downloadable content (DLC) model. This approach has gained rapid approval because of the accessibility to users and their content, creator to user reach and it has opened the door to many creators who simply cannot work in the publisher / creator model. Basically you can buy, download content and play within minutes. It's ingenious, at least as a business model. For those of us who have collector mentalities it becomes a bit of a challenge because when things go on sale in this market place we tend to buy games we probably will never play. If you have a Steam account how many of the games in your library have you actually played? 50%? 30%? 10%?
 
-The idea here is that there is a lot of things that desire our attention and there typically is a lot to be done. We need to learn to sift through the rock to find the gold. Find the best "farming" spot in our lives. We sometimes need to give up the good to experience the great.
+The idea here is that there is a lot of things that desire our attention and there typically is a lot to be done. We need to learn to sift through the rock to find the gold. Find the best "farming" spot in our lives. We sometimes need to give up the **good** to experience the **great**.
 
-A> *"In the game Half-life, the first game built by Valve Software artillery bombardments occur frequently throughout the game. The 'whistling' sound that can be heard before the explosion is that of the German Flak 88."* [source: IMDB](http://www.imdb.com/title/tt0239023/trivia)
+A> *"In the game Half-life, the first game built by Valve Software, artillery bombardments occur frequently throughout the game. The 'whistling' sound that can be heard before the explosion is that of the German Flak 88."* [source: IMDB](http://www.imdb.com/title/tt0239023/trivia)
 
 # Taking A Quantum Leap
 
@@ -114,7 +114,11 @@ These things are referred to "the hardest things in computer science" for a good
 2. As a good curator of software you want to create a solution that will not end up being the [Rube Goldburg](http://en.wikipedia.org/wiki/Rube_Goldberg) of cache invalidation solutions.
 
 ***
-I was WFH (working from home) one day and I simply put my hands to my face and let out a pretty pitiful sigh. My 7 year old at the time heard my anguish and asked what was wrong. "Nothing kiddo," I said, "I'm just trying to figure something out." He responds, "Tell me, maybe I can help."
+I was WFH (working from home) one day and I simply put my hands to my face and let out a pretty pitiful sigh. My seven year old at the time heard my anguish and asked what was wrong. 
+
+>"Nothing kiddo, I'm just trying to figure something out." 
+
+>"Tell me, maybe I can help."
 
 We've built a culture of fearlessly sharing in my house. I call it the "know nothing" principle. Much like Occam's razor, it's an attempt to draw out the obvious by asking the impossible. We ask questions in our house to simultaneously learn for ourselves and to make others think. I am sure most everyone practices this on some level.
 
@@ -128,7 +132,7 @@ I have found that attempting to turn off life at work and work at life is often 
 
 Being at "work" does not throw a life switch nor does being home involve throwing a "work" switch. Think of this as more of a circuit without a switch: your passion is the power source and work and life are the wires that are attached to what you want to accomplish or do. Instead of having your work ideas compartmentalized why not try talking about them with your friends and family - you might be surprised what happens. Talk to someone at work about things going on in your life. I always wondered when having a personality that you wanted to share at work became taboo; share it, you might find that you might have more in common than just code.
 
-This idea is often misunderstood as: "you're saying think about work all the time" or "I should bring work home and push other stuff to the side?" Not at all! I'm simply pointing out that your inner nerd components, whether it's code, bikes, writing, weight lifting or whatever, are part of you, should be expressed and shared. It will inherently be part of what you love to do and talk about.
+This idea is often misunderstood as: "you're saying think about work all the time" or "I should bring work home and push other stuff to the side?" Not at all! I'm simply pointing out that your inner nerd components, whether it's code, bikes, writing, weight lifting or whatever, are part of you; they should be expressed and shared. It will inherently be part of what you love to do and talk about.
 
 Just like a coin has two functional sides in order to be valid currency, we also have these sides as "nerds" that we need to validate as our life currency - find out what your currencies are, share them and watch the excitement spread like wildfire.
 
@@ -142,7 +146,7 @@ You're starting a new job today. With the new adventure comes loads of excitemen
 
 Shut it! Let's turn off our emotional roller coasters for a minute and reflect. You made it through the interview, the team hopefully likes you and they wouldn't have hired you unless you had something to commit.
 
-The quickest way to being perceived as an impostor is to act like one. Acting "sketchy" is one way to earn your impostor badge; like you just drank a 2-liter of Mountain Dew through a pixie stick straw. Communicating with partial information, flip-flopping and even exhibiting an always agreeable mode will come across as nonsense.
+The quickest way to being perceived as an impostor is to act like one. Acting "sketchy" is one way to earn your impostor badge; like you just drank a 2-liter of Mountain Dew through a pixie stick. Communicating with partial information, flip-flopping and even exhibiting an always agreeable mode will come across as nonsense.
 
 Another way is to act with hubris. Being prideful or boastful is one of the quickest ways to discredit yourself and your abilities. Let your "yes" be "yes" and your "no" be "no." There is absolute beauty in respecting simplicity. Can you imagine how much we could get done if we all simply practiced saying, "I don't know."
 
@@ -201,19 +205,19 @@ I had been haunted by a dream where I solved a super hard problem that I had bee
 
 Like most dreams the solution eluded me and I decided to place my tablet next to my bed so that when I did get the dream again I could capture it. I mean this thing was chewing me up, I had burned through so much time and Internet spelunking that I was willing to attempt the brain Hail Mary and trap my subconscious. 
 
-I had the dream again and with delight I opened my eyes and attempted to cast a "root" on it. I turned on my tablet, almost missed my passcode 3 times (if I'd missed it the 3rd time I would've resorted to paper - I was that desperate), opened up my email and began drafting what was going to be the most epic solution - quite possibly would even cure all disease and world hunger. I finished and I mashed send and passed back out, elated that it was finished. 
+I had the dream again and with delight I opened my eyes and attempted to cast a "root" on it. I turned on my tablet, almost missed my passcode 3 times (if I'd missed it the 3rd time I would've resorted to paper - I was that desperate), opened up my email and began drafting what was going to be the most epic solution - it possibly would even cure all disease and world hunger. I finished and I mashed send and passed back out, elated that it was finished. 
 
 The next day I woke expectantly to an inbox of joy, there it was the message I sent myself. Incidentally if you have a propensity to solve hard problems using dreams and care to jot them down, may I suggest you not use email? Miraculously I received my email, but as you might have guessed it was not exactly what I had intended to send. But let me not tip my hand just yet, as River Song would say "careful, no spoilers."
 
-I had inadvertently added folks to the "To" and combined with auto correct hijinks and an obvious sleep deprived conscious I had the makings for an email sent from the [Benny Hill](http://en.wikipedia.org/wiki/Benny_Hill) of the Matrix. Interwoven with code there were double entendres and unfortunate adjectives sprinkled about. It was a veritable cornucopia of embarrassment. Oh and absolute shocker, it did not solve the problem. 
+I had inadvertently added folks to the "To" and combined with auto correct hijinks and an obvious sleep deprived conscious I had the makings for an email sent from [Benny Hill](http://en.wikipedia.org/wiki/Benny_Hill) of the Matrix. Interwoven with code there were double entendres and unfortunate adjectives sprinkled about. It was a veritable cornucopia of embarrassment. Oh and absolute shocker, it did not solve the problem. 
 
-When I got to work, where I spent most of the day avoiding HR, a few of the folks had passed the email around and were getting some enjoyment from it. While I was eating my humble pie someone asked me, "So what's the problem you've been working on?" With an expectant sigh I showed him the thing that had captives my attention and dreams. To which he replied, "oh yeah I've seen this before." My initial thought was "impossible," who would keep the solution to world hunger and my software problem to themselves! Additionally, I never got to enjoy an embarrassing email from him; clearly something was off. 
+When I got to work, where I spent most of the day avoiding HR, a few of the folks had passed the email around and were getting some enjoyment from it. While I was eating my humble pie someone asked me, "So what's the problem you've been working on?" With an expectant sigh I showed him the thing that had captivated my attention and dreams. To which he replied, "oh yeah I've seen this before." My initial thought was "impossible," who would keep the solution to world hunger and my software problem to themselves! Additionally, I never got to enjoy an embarrassing email from him; clearly something was off. 
 
 As he took me through the solution I realized a few things:
 
-1. The answer was literally feet away 
+1. The answer was literally feet away
 2. I should never send sleep induced emails
-3. No one asked me to try to solve this on my own, ever
+3. No one asked me to try to solve this on my own. Ever.
 
 ***
 
@@ -227,7 +231,7 @@ Mental illness in the work place and at home is a really serious and challenging
 
 The fact is that most of us have crossed paths with this at one time or another. Stress is a form of mental illness, thought temporary, it can cause both psychological and physiological damage. We have a tendency to try to act strong when we are terrified on the inside. It could be that we don't want to appear weak or perhaps we don't want to face a label but whatever the case is ignoring it can and will cause problems. 
 
-A few years back I was building an epic sandbox for my kids in our backyard in Texas. Texas has a very unique soil, some call it clay others might call it brimstone. Part of the project required that I get a 2 1/4 PVC pipe and hammer it into the ground. I didn't have a sledge hammer but I did have a 40lb dumbbell that I could swing like one. 
+A few years back I was building an epic sandbox for my kids in our backyard in Texas. Texas has a very unique soil, some call it clay I call it brimstone. Part of the project required that I get a 2 1/4 PVC pipe and hammer it into the ground. I didn't have a sledge hammer but I did have a 40lb dumbbell that I could swing like one. 
 
 You might have guessed that it did not go well. On one of my final swings slightly missed the pipe and with indiscriminant justice I severed an inch off of my right index finger and severely damaged my right middle finger as well. In the following weeks I soon realized that I was going to have to relearn how to type, how to grip as well as many other things I had simply taken for granted. This took a toll on me because I thought that I had lost the ability to do what I felt I was designed to do. My tools felt broken and I felt lost. Fortunately I had (and still have) an amazing wife and group of scrappy kids to support me and take me through re-imagining what I already knew - that it was going to be OK and I will just write software a little different now.
 
@@ -239,7 +243,9 @@ There are many out there that do not have a support system. If you see your cowo
 >
 >You: "No, really how are you doing?"
 
-I know this is a hard thing for us to do, we are heads down in whatever we are doing, we have our own problems, we are struggling in our own ways but we owe it to humanity to be better than what is expected of us. We don't have to be heroes we simply need to be human. 
+I know this is a hard thing for us to do, we are heads down in whatever we are doing, we have our own problems, we are struggling in our own ways but we owe it to humanity to be better than what is expected of us. 
+
+>We don't have to be heroes we simply need to be human. 
 
 Reaching out to others in need not only has the power to help someone in need but it has the power to change the world.
 

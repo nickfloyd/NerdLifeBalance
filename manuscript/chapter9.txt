@@ -4,11 +4,15 @@
 
 5…4…3…2…1… this is the end.  
 
-At least that's what I thought as my heart was still trying to recover from the stimpack injection from almost having someone call [finalize](https://msdn.microsoft.com/en-us/library/system.object.finalize(v=vs.110).aspx) on me by either the car in the oncoming lane or the train on my right. Do you remember? I was just coming back from an all night deployment were I thought I was being exceptional and doing everything I could to "succeed" at a job where I was not happy (mostly my own doing); physically destroying myself for the illusion of being passionate about building software.  
+At least that's what I thought as my heart was still trying to recover from the stimpack injection from almost having someone call [finalize](https://msdn.microsoft.com/en-us/library/system.object.finalize(v=vs.110).aspx) on me. I woke to challange an on coming car in the left lane and a train and a ditch on my right. 
+
+Do you remember? I was just coming back from an all night deployment were I thought I was being exceptional and doing everything I could to "succeed" at a job where I was not happy (mostly my own doing); physically destroying myself for the illusion of being passionate about building software.  
 
 It's strange how coming so close to running out of those little hearts in the upper right hand corner of life's screen makes you stop and consider the absurdity of a situation. What is it about a dirt nap that drives us to wake up and dig our way out? Why can't we have that clarity without risking mortality?
 
-**Life asks so much from each of us.** We all go through our own trials and tribulations. We all have broken hearts and misaligned expectations. Despite all of that we all still have an opportunity to make a choice. I made that choice and I try continue to make that choice every day. 
+**Life asks so much from each of us.** 
+
+We all go through our own trials and tribulations. We all have broken hearts and misaligned expectations. Despite all of that we all still have an opportunity to make a choice. I made that choice and I try continue to make that choice every day. 
 
 What is the choice? I'll get to that in a bit. Right now let me tell you how the story ends… 
 
@@ -20,13 +24,13 @@ I thought of the many, many times that I both put my life at risk as well as the
 
 What are the important things to you? Your friends, your kids, your spouse, cooking a great meal, going to church, writing code, traveling, making an impact?  
 
-I began biking to work shortly after we moved to Portland, OR. This was a whole new experience for me because you simply would never commute on a bike in Dallas,TX. The heat and the [Frogger](https://en.wikipedia.org/wiki/Frogger) like road conditions alone were more than enough to keep and pedestrian or bike traffic off the road.
+I began biking to work shortly after we moved to Portland, OR. This was a whole new experience for me because you simply would never commute on a bike in Dallas,TX. The heat and the [Frogger](https://en.wikipedia.org/wiki/Frogger) like road conditions alone were more than enough to keep a pedestrian or bike off the road.
 
 I had some amazing bike nerds from New Relic backing me up with my new 24 mile round trip adventure. As a side bar I truly feel that's what we should be doing throughout our life: encouraging each other in our uncertainties and sharing what we love to do and why we do it. 
 
 **I hated it.**  Bottom line I was a terrible biker, never mind the fact that there was absolutely no good reason for me to be biking to work given the multitude of commuting options available to me in the great bridge city. 
 
-It was like taking a person who has played first person shooters (driving to work) their entire life and telling them they could now only play massively multiplayer online games (bike to work). Frankly, it seemed about as smart and as useful as a bag of broken hammers in {Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong).
+It was like taking a person who has played first person shooters (driving to work) their entire life and telling them they could now only play massively multiplayer online games (bike to work). Frankly, it seemed about as smart and as useful as a bag of broken hammers in [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong).
 
 I continued to do it because: 
 
@@ -37,11 +41,11 @@ It was subtle initially but it really became apparent when I was riding in a hea
 
 I continued riding and I purposefully paid more attention. It's going to sound cliché but **I intentionally made it about the journey and not the destination.**  It's like grinding wombats in a game to get the "crown of unsightly behavior" or something like it. We get so locked in on the prize we forget to make getting it fun.
 
-Riding down the [Springwater Corridor](https://en.wikipedia.org/wiki/Springwater_Corridor) there were expansive fields of flowers that looked like a freshly painted Monet. There was the Willamette river and the "eights" filled with rowers sliding along the river as if it were glass.  There were homeless camps were I took the chance to sit down with some amazing folks and chat about life in Oregon. There were dear that raced down the train track with me and an amusement park where the cheers of a hundred voices made me ride faster as if they were cheering me on! 
+Riding down the [Springwater Corridor](https://en.wikipedia.org/wiki/Springwater_Corridor) there were expansive fields of flowers that looked like a freshly painted Monet. There was the Willamette river and the "eights" filled with rowers sliding along the river as if they were on glass.  There were homeless camps were I took the chance to sit down with some amazing folks and chat about life in Oregon. There were dear that raced down the train track with me and an amusement park where the cheers of a hundred voices made me ride faster as if they were cheering me on! 
 
 There was beauty everywhere and a million experiences to be had and all I had to do was stop and smell the metaphorical roses.  
 
-Then it happened. I had a smile on my face. Was it a touchy feely moment; not at all. It happened when I caught a light rail track with my front wheel and I flew over my handlebars. I was laying on my back smiling thinking about how I now understand why the signs with the guy falling off the bike were not really that funny after all. 
+Then it happened. I had a smile on my face. Was it a touchy feely moment? Not at all. It happened when I caught a light rail track with my front wheel and I flew over my handlebars. I was laying on my back smiling thinking about how I now understand why the signs with the guy falling off the bike were not really that funny after all. 
 
 Then it hit me. **I smile when I write code!** It turns out that when you are genuinely passionate about something two very interesting things happen:
 
@@ -50,7 +54,7 @@ Then it hit me. **I smile when I write code!** It turns out that when you are ge
 
 The fact is that your passion does not need to have a reason for existing - it is its own reason. I went on to share my crazy excitement about commuting to work with whoever would listen. I was leaking excitement and passion everywhere like Ninja Turtle ooze, hoping for a mutation here or there.  
 
-You see your passion is a virus and you are patent zero.  Though this virus is vastly different from any other virus in the world and it is distinct and unique.  You are the only one who can "carry" it and when it infects someone else it mutates to their own creative thing and they then become patent zero.
+You see your passion is a virus and you are patient zero.  Though this virus is vastly different from any other virus in the world and it is distinct and unique.  You are the only one who can "carry" it and when it infects someone else it mutates to their own creative thing and they then become patient zero.
 
 My son and I were having a conversation about building things and he stonewalled me with this question:
 
@@ -70,7 +74,7 @@ He continued, "I mean, do you think we could even survive."
 
 I have six beautiful children.  Each one is unique.  My wife and I have put all of them in front of technology, programming, hardware, art, literature and the like and something amazing has happened every time we've done that.  They discover a little more about themselves each time they do.
 
-My son **Caden** (11 years) loves to program, game and read.
+My son **Caden** (11 years) loves to program, play music and read.
 
 My son **Jonah** (9 years) loves hardware, soldering and builds IOT stuff.
 
@@ -82,7 +86,7 @@ My daughter **Ruthie** (3 years) loves to paint and solder with me
 
 My daughter **Avajoy** (2 years) loves to be a mad scientist and test out everything (especially her parents).
 
-I've tried to be the same dad and they've had the same amazing mom - so why the difference in passions? Because over time despite what we have taught them others in their lives, the things they read and experience has created a whole new creativity virus in them.  Without humanities legacy of creativity and others before us having the courage to share what they love with the world we'd be challenged with the additional burden of cutting new paths. As my son pointed out using a frozen sweetened flavored bovine secretion as an example, "it would really be hard to live on earth and not be creative."
+I've tried to be the same dad and they've had the same amazing mom - so why the difference in passions? Because over time despite what we have taught, others people in their lives, the things they read and experience has created a whole new creativity virus in them.  Without humanity's legacy of creativity and others before us having the courage to share what they love with the world we'd be challenged with the additional burden of cutting new paths. As my son pointed out using a frozen sweetened flavored bovine secretion as an example, "it would really be hard to live on earth and not be creative."
 
 Do you smile when you're building stuff or writing code (smiles on the inside count too)?
 
@@ -90,7 +94,7 @@ Do you want to share your latest hack with your kids, friends or spouse?
 
 When was the last time your heart raced when you were on the cusp of solving a really hard problem?
 
-Life requires a lot from us.  I like to try to stand by a principle that came to me when I was looking in the mirror one day:
+I like to try to stand by a principle that came to me when I was looking in the mirror one day:
 
 **Ripples not wrinkles.**
 
@@ -98,7 +102,7 @@ At the end of your life you'll look back and see the handful of decisions that h
 
 Do you remember that choice I was eluding to earlier?  We all get to make it every day. This is the same choice that people like [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), [Rear Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper#UNIVAC), [Markus Persson](https://en.wikipedia.org/wiki/Markus_Persson), [Jonathan Gillette a.k.a._why the lucky stiff](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) and so many more before us have made. 
 
-We can either choose to be **exceptional** or we can choose to be **mediocre**. No matter what we choose the result will inevitably infect our family and friends. Being exception is not having ninja-like skills when you cut up vegetables, being right all of the time. By no means does exceptional mean famous, rich or successful by the worlds standards; though sometimes those are the byproducts. 
+We can either choose to be **exceptional** or we can choose to be **mediocre**. No matter what we choose the result will inevitably infect our family and friends. Being exceptional is not having ninja-like skills when you cut up vegetables or being right all of the time. By no means does exceptional mean famous, rich or successful by the worlds standards; though sometimes those are the byproducts. 
 
 No, what I am referring to is a choice to find, share and do what you love to do without wavering. Being a nerd in the purest sense in the place where you cannot help but smile. 
 

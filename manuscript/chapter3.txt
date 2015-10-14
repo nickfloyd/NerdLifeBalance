@@ -2,7 +2,7 @@
 
 ![](images/ch3.jpg)
 
-If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhaps overwhelmed. Hopefully it helped you consider new ways to re-factor your life. You might also be feeling that there's been a grand lie that has been passed around since us as humanity began counting hours. The one such lie is deceptively simple yet really, really effective at helping us defeat ourselves.
+If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhaps overwhelmed. Hopefully it helped you consider new ways to re-factor your life. You might also be feeling that there's been a grand lie that has been passed around since humanity began counting hours. The following lie is deceptively simple yet really, really effective at helping us defeat ourselves.
 
 >"There are 168 hours in every week and if I am going to use it wisely I must compartmentalize."
 
@@ -10,7 +10,7 @@ Ok, so perhaps that's not a completely "true" lie. Let me try that again...
 
 >"There are 168 'usable' hours in every week and if I am going to use it wisely I must compartmentalize."
 
-The fact is that we have black holes and dynamos for the little time we have here on this earth. Somethings we do absorb the mass of time we have, while other things we do can sometimes feel like they help generate "new" time.
+The fact is that we have black holes and dynamos eating and generating the little time we have here on this earth. Somethings we do absorb the mass of time we have, while other things we do can sometimes feel like they help generate "new" time.
 
 In 1979 there was a science fiction film named "[The Black Hole](http://en.wikipedia.org/wiki/The_Black_Hole)." I had the book and record that went with the movie which I played at least few thousand times. The robot on the U.S.S Palomino named V.I.N.C.E.N.T remarked, 
 
@@ -20,7 +20,7 @@ That is an amazingly accurate description thinking about all the time we don't s
 
 It is as though we treat time more like [Tribbles](http://en.wikipedia.org/wiki/Tribble) and less like a scarce resource. We measure it loosely against the beginning of time and see no reason to be concerned that as an individual consumer we can only eat so much. 
 
-It's a lot like eating Pringles; for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret. So reach for your Mountain Dew friend and drown your snacking sorrows or perhaps be can snack on our time using a healthier treat. I know what you're thinking, "I love my 'B' movies and my 16hr stretches of [Bioshock Infinite](http://en.wikipedia.org/wiki/BioShock_Infinite) and [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) tourneys'." While I would agree that those things are indeed a possible staple of a type of Nerd's life, I feel like I must share a truth with you: 
+It's a lot like eating Pringles; for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret. So reach for your Mountain Dew friend and drown your snacking sorrows. Perhaps we can bail on the sorrow an snack on our time using a healthier treat. I know what you're thinking, "I love my 'B' movies and my sixteen hour stretches of [Bioshock Infinite](http://en.wikipedia.org/wiki/BioShock_Infinite) and [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) tourneys'." While I would agree that those things are indeed a possible staple of a type of Nerd's life, I feel like I must share a truth with you: 
 
 >"The Nerd cannot live on 'game' alone."
 
@@ -30,15 +30,15 @@ Recently I was chatting with a software developer friend of mine. We were discus
 
 >"her: I'm interested in all of it [game development] and I think it would be fun to try out."
 
->"me: here's the deal... worst case if you participate you not finish the game but you would've at least learned something"
+>"me: here's the deal... worst case if you participate you don't finish the game but you would've at least learned something"
 
 >"her: true."
 
 >"me: we're not guaranteed tomorrow, why put off to tomorrow what you could do today?"
 
-It sounds cliché, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it. I have always wondered what would happen if we were ever to place a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done. Don't get me wrong meetings have their function, but what if we could simply begin working on the things that needed to be done. 
+It sounds cliche, I know, but it's a very applicable perspective. Putting off doing something often feels easier than doing it. I have always wondered what would happen if we were ever to place a constraint on ourselves that a certain percentage of the meetings we were in had to be a type of working meeting. A meeting where things actually happened instead of a bunch of people just talking about the things that needed to be done. Don't get me wrong meetings have their function, but what if we could simply begin working on the things that needed to be done. 
 
-I struggle with this idea of getting rid of the idea and just starting a project all the time. I talk myself into and out of some projects that have potential. 
+I struggle with this idea of getting rid of ideas and just starting a project when it's conceived. I talk myself into and out of some projects that have potential. 
 
 In the case above, as we were talking I was downloading the SDK and had created a new repository for the game; I left our conversation motivated, inspired even. 
 
@@ -89,7 +89,7 @@ Justification is simply another way to defer dealing with something else. The fa
 
 Do you believe we have a tendency to lie to ourselves? I do. If we could better, more purposely utilize what we have, it would keep us from insanity driven behaviors like compartmentalization and time paralysis.
 
-When we take chunks of things and stick them in compartments the space between the compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. Often my kids are that perspective. Children exhibit this amazing ability to see past all of the cruft we as "seasoned" humans tend to put on our lives. Our mindset of "you cannot" or "you should not" become their "why not." 
+When we take chunks of things and stick them in compartments the space between those compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. Often my kids are that perspective. Children exhibit this amazing ability to see past all of the cruft we as "seasoned" humans tend to put on our lives. Our mindset of "you cannot" or "you should not" become their "why not." 
 
 I was working on an application that cached some pages. Naturally, the challenge I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue off and on for about a month until one day I came home and my seven year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - sharing hard problems for perspective). He then replied with a statement that shattered my little developer world:
 
@@ -97,4 +97,4 @@ I was working on an application that cached some pages. Naturally, the challenge
 
 In an instant my son single handedly solved one of the [hardest problems in computer science](http://martinfowler.com/bliki/TwoHardThings.html). With his suggestion in mind I removed the code and all was well. 
 
-You see, the great deception isn't something sneaky someone else does to us, rather, it's something we convince ourselves of. Who you are at work and at home really should be the same person because you **are** the same person. We are free to bring our nerd home and share it with our family and friends; we owe it to them! So ask yourself, "Do you think you are behaving like the individual you are or want to be?"
+You see, the great deception isn't something sneaky someone else does to us, rather, it's something we convince ourselves of. Who you are at work and at home really should be the same person because you **are** the same person. We are free to bring our nerd home and share it with our family and friends; we owe it to them! So ask yourself, "Do you think you are behaving like the individual you are and want to be?"
