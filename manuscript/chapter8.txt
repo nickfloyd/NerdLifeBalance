@@ -40,7 +40,7 @@ The rebels used these creatures as patrol mounts to travel across the surface of
 
 As it would turn out as the story unfolds there are limitations to the Tauntans as well. Han Solo runs one into the ground looking for Luke, then proceeds to make a sleeping bag out of it to help our hero, wait for it… to get "Luke-warm."
 
-Have you ever caught yourself saying something like, "Once this project is over things will get back to 'normal'?" We do that because our vision is “siloed” in on a fixed point. We do some self-encouraging as we run hard we take a breath and we start running again. The "skinner effect" is invoked and we find ourselves getting kited along until we are drinking Red Bull and coffee every morning and finishing the day with a dose of melatonin just to stop our brains from spinning. 
+Have you ever caught yourself saying something like, "Once this project is over things will get back to 'normal'?" We do that because our vision is “siloed” in on a fixed point. We do some self-encouraging as we run hard we take a breath and we start running again. The "skinner effect" is invoked and we find ourselves getting kited along until we are drinking energy drinks and coffee every morning and finishing the day with a dose of melatonin just to stop our brains from spinning. 
 
 Keep in mind I am not talking about crunch, there will always be that. There will always be times when we have a hack that we need to get out of our head and turn into code or an idea that needs a weekend and half a dozen trips to Home Depot to get done. I think we all have a tendency to be a bit hardheaded which can be a strength to help us persevere. No, I'm not talking about that at all; it's the patterns where we cannot walk away despite the project or activity. It's obsession.
 
@@ -54,7 +54,7 @@ The type of thinking about the need to work long hours is dangerous because it i
 
 Secondly, this behavior deceives your team and establishes the unrealistic expectation that your projects will always be done in an accelerated time frame, which will eventually become the expected norm.
 
-Third, it deceives you. I know firsthand that burnout will occur and your ability to perform will diminish. We cannot always run as Red Bull-infused developers if we want to continue to deliver great software.
+Third, it deceives you. I know firsthand that burnout will occur and your ability to perform will diminish. We cannot always run as energy drink-infused developers if we want to continue to deliver great software.
 
 Finally, overworked people often end up changing crafts. There is an economic law, the [law diminishing marginal utility](http://www.investopedia.com/terms/l/lawofdiminishingutility.asp), which states that if you increase the consumption of something (keeping all other things constant) you will eventually lose interest in the thing you consume. Consider a food buffet: the first plate of food is awesome but each subsequent plate drives you deeper into misery and begins to look more like regret than food.
 
