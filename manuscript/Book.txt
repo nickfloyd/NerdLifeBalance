@@ -1,14 +1,14 @@
 Preface.txt
 HowTo.txt
 chapter1.txt
-project1.txt
 chapter2.txt
-project2.txt
 chapter3.txt
-project3.txt
 chapter4.txt
 chapter5.txt
 chapter6.txt
 chapter7.txt
 chapter8.txt
+project1.txt
+project2.txt
+project3.txt
 chapter9.txt
