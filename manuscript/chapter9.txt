@@ -106,7 +106,15 @@ We can either choose to be **exceptional** or we can choose to be **mediocre**. 
 
 No, what I am referring to is a choice to find, share and do what you love to do without wavering. Being a nerd in the purest sense in the place where you cannot help but smile. 
 
-Find what you love to do, share it with others and you will have achieved Nerd Life Balance. 
+Find what you love to do, share it with others and you will have achieved **Nerd Life Balance**. 
+
+There is a philosophy in software development around sharing.  It's called open source software (OSS). There's nothing magical about it other than the fact that this simple idea can be tremendously powerful. It is meant to be a collaborative effort, where people work on the source collectively as a community and share it openly with the world. Think of it in terms of the wisdom of the masses; where there is something to be done and it can not only get done faster with a group of people but it can get done "better." We live in a time where there is so little friction to sharing things that some people become over night, unintentional celebrities. Some of the shared content has very little use while other content forms the very foundations of the internet - like a good cat video montage. 
+
+I've noticed a recent shift in things that I think is a cultural renaissance. More and more kids are posting videos and content on hacking the internet of things. They are talking more about making games rather than playing them. They are actively becoming makers and creators and walking away from being just users. 
+
+We have a rare opportunity to make a difference and an impact that will change things for future generations of makers. We can choose to build things, experience life and the things we love alone or we can choose to open source our life. It's just a choice followed up by an action.
+
+I know it's hard to belive. You might be thinking: "Can it really be that simple?" or "Can we collectively come together and make an impact on our families, friends and this fantastically crazy landscape we call our home?" I think we can. I know we can. All we have to do is start sharing the things we love with those we love. Make a difference with the time you have. Make an impact and share your individual creativity with everyone! Make something and share it.
 
 OPEN SOURCE YOUR LIFE
 ----
