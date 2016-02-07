@@ -4,7 +4,7 @@
 
 5…4…3…2…1… this is the end.  
 
-At least that's what I thought as my heart was still trying to recover from the stimpack injection from almost having someone call [finalize](https://msdn.microsoft.com/en-us/library/system.object.finalize(v=vs.110).aspx) on me. I woke to challange an on coming car in the left lane and a train and a ditch on my right. 
+At least that's what I thought as my heart was still trying to recover from the stimpack injection from almost having someone call [finalize](https://msdn.microsoft.com/en-us/library/system.object.finalize(v=vs.110).aspx) on me. I woke to challenge an on coming car in the left lane and a train and a ditch on my right. 
 
 Do you remember? I was just coming back from an all night deployment were I thought I was being exceptional and doing everything I could to "succeed" at a job where I was not happy (mostly my own doing); physically destroying myself for the illusion of being passionate about building software.  
 
@@ -28,7 +28,7 @@ I began biking to work shortly after we moved to Portland, OR. This was a whole 
 
 I had some amazing bike nerds from New Relic backing me up with my new 24 mile round trip adventure. As a side bar I truly feel that's what we should be doing throughout our life: encouraging each other in our uncertainties and sharing what we love to do and why we do it. 
 
-**I hated it.**  Bottom line I was a terrible biker, never mind the fact that there was absolutely no good reason for me to be biking to work given the multitude of commuting options available to me in the great bridge city. 
+**I hated it.**  Bottom line I was a terrible biker, never mind that there was absolutely no good reason for me to be biking to work given the multitude of commuting options available to me in the great bridge city. 
 
 It was like taking a person who has played first person shooters (driving to work) their entire life and telling them they could now only play massively multiplayer online games (bike to work). Frankly, it seemed about as smart and as useful as a bag of broken hammers in [Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong).
 
@@ -37,7 +37,7 @@ I continued to do it because:
 1. I was being encouraged by some amazing people
 2. I noticed something on the faces and in the hearts of the other bikers on my commute. 
 
-It was subtle initially but it really became apparent when I was riding in a heavy rain. The commuters were smiling. Crazy, yes. Nutty, I know right?! They were riding on the same path I was on, in the same rain as well! So what was it? What made these people enjoy it so much?  
+It was subtle initially but it really became clear when I was riding in a heavy rain. The commuters were smiling. Crazy, yes. Nutty, I know right?! They were riding on the same path I was on, in the same rain as well! So what was it? What made these people enjoy it so much?  
 
 I continued riding and I purposefully paid more attention. It's going to sound cliché but **I intentionally made it about the journey and not the destination.**  It's like grinding wombats in a game to get the "crown of unsightly behavior" or something like it. We get so locked in on the prize we forget to make getting it fun.
 
@@ -102,7 +102,7 @@ At the end of your life you'll look back and see the handful of decisions that h
 
 Do you remember that choice I was eluding to earlier?  We all get to make it every day. This is the same choice that people like [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), [Rear Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper#UNIVAC), [Markus Persson](https://en.wikipedia.org/wiki/Markus_Persson), [Jonathan Gillette a.k.a._why the lucky stiff](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) and so many more before us have made. 
 
-We can either choose to be **exceptional** or we can choose to be **mediocre**. No matter what we choose the result will inevitably infect our family and friends. Being exceptional is not having ninja-like skills when you cut up vegetables or being right all of the time. By no means does exceptional mean famous, rich or successful by the worlds standards; though sometimes those are the byproducts. 
+We can either choose to be **exceptional** or we can choose to be **mediocre**. No matter what we choose the result will inevitably infect our family and friends. Being exceptional is not having ninja-like skills when you cut up vegetables or being right all the time. By no means does exceptional mean famous, rich or successful by the worlds standards; though sometimes those are the byproducts. 
 
 No, what I am referring to is a choice to find, share and do what you love to do without wavering. Being a nerd in the purest sense in the place where you cannot help but smile. 
 

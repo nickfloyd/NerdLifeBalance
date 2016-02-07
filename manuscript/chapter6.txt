@@ -6,7 +6,7 @@ There are tons of things that can catch us off guard in life. New perspectives, 
 
 The first time I found out I was going to be a dad I was massively surprised and confused. I remember thinking how exciting it was going to be while considering how terrifyingly unprepared we were. Even after adopting our sixth kiddo I was much less surprised but she still brought a stack of her own little unexpected delights. 
 
-We have a dangerous tendency to think that we have more than enough mental dexterity to anticipate life's little explosions. Combine that with the idea that fear of the unknown is paralyzing and you've got yourself one mind blowing paradox.  It's almost as if we spend loads of time preparing for something were afraid we'll never do!
+We have a dangerous tendency to think that we have more than enough mental dexterity to anticipate life's little explosions. Combine that with the idea that fear of the unknown is paralyzing and you've got yourself one mind-blowing paradox.  It's almost as if we spend loads of time preparing for something were afraid we'll never do!
 
 I remember building a new computer. My first experience with computing had been a TRS-80 and I was about to graduate to the 32-bit world of micro processing. It was a 386 or better known as an [i386](http://en.wikipedia.org/wiki/Intel_80386) packing a whopping 275,000 transistors  and capable of 32-bit operations.  
 
@@ -16,7 +16,7 @@ Running at a cool 33 MHz I thought, "what can I do with all of this power?!"  Ta
 
 BEEP…BEEP…BEEP…BEEP
 
-Nothing but silence after that. No fans, no clicks, no BEEPs; the unicorns had fallen off the rainbow.   I was now caught "flat footed" and had failed my initiative roll. So in comes the choice every role player has to make with any encounter they have: stay and fight or run away. 
+Nothing but silence after that. No fans, no clicks, no BEEPs; the unicorns had fallen off the rainbow.   I was now caught "flat-footed" and had failed my initiative roll. So in comes the choice every role player has to make with any encounter they have: stay and fight or run away. 
 
 The fact is that we all have these defining moments, big or small throughout life. We can choose to move the family or we can stay, we can change from a salaried employee to a contractor or just stay where we are, we can teach our kids to solder or we can decide that's too "dangerous."  Regardless of the moment we all have to roll for initiative some time and we all have to decide what to do with the results. I'm not talking about a notion of chance or statistical probability but rather an opportunity to make a choice. 
 
@@ -46,7 +46,7 @@ At the end of the day these people were just people like you and me. Maybe they 
 
 ![](images/judge_d20_1050x1289.jpg)
 
-I personally chose to use the fear of the unknown and decided to use that as fuel to learn as much as I possibly could about computing, starting with four ominous beeps. Thirty years later I love every minute that I get a chance to write software with amazingly talented people while learning something new just about every day.  We can sit there and think about "trying" all day long but without the "do" we're just burning a clock. 
+I chose to use the fear of the unknown and decided to use that as fuel to learn as much as I possibly could about computing, starting with four ominous beeps. Thirty years later I love every minute that I get a chance to write software with amazingly talented people while learning something new just about every day.  We can sit there and think about "trying" all day long but without the "do" we're just burning a clock. 
 
  I think Yoda said it best: 
 "There is no try there is only do and do not."
