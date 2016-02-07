@@ -1,3 +1,9 @@
 # Project: Hello World
 
 ![](images/project1.jpg)
+
+### Materials
+
+* 10m LED (really any size would work)
+* CR2032 3V battery
+* Fingers or tape
