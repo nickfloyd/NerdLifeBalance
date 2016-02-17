@@ -2,7 +2,7 @@
 
 ![](images/ch3.jpg)
 
-If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhaps overwhelmed. Hopefully it helped you consider new ways to re-factor your life. You might also be feeling that there's been a grand lie that has been passed around since humanity began counting hours. The following lie is deceptively simple yet really, really effective at helping us defeat ourselves.
+If you took the little "test" from the previous chapter you might be feeling a bit deflated or perhaps overwhelmed. Hopefully it helped you consider new ways to re-factor your life. You might also be feeling that there's been a grand lie that has been passed around since humanity began counting hours. The following **lie** is deceptively simple yet really, really effective at helping us defeat ourselves.
 
 >"There are 168 hours in every week and if I am going to use it wisely I must compartmentalize."
 
@@ -16,11 +16,11 @@ In 1979 there was a science fiction film named "[The Black Hole](http://en.wikip
 
 >"A black hole, the deadliest force in the universe, nothing can escape it!"
 
-That is an amazingly accurate description thinking about all the time we don't seem to have, how that time passes so quickly or how easy it is to waste. There are always gaps in time, leaky moment faucets that cause the time we have to simply disappear. There are ways to deal with the theoretical gravity of your minute draining anomaly, but first you have to accept that this framework called TIME is a bit of a farce. Not because it is not scientific or that it has not been proven as a metric that can be measured and used - no, the problem with time has nothing to do with time at all. Our age-old struggle with time has all to do with us and our effective utilization of a limited resource that has no perceptible limit outside of death. 
+That is an amazingly accurate description concerning all the time we don't seem to have, how that time passes so quickly or how easily it is wasted. There are always gaps in time, leaky moment faucets that cause the time we have to simply disappear. There are ways to deal with the theoretical gravity of your minute draining anomaly, but first you have to accept that this framework called TIME is a bit of a farce. Not because it is not scientific or that it has not been proven as a metric that can be measured and used - no, the problem with time has nothing to do with time at all. Our age-old struggle with time has all to do with us and our effective utilization of a limited resource that has no perceptible limit outside of death. 
 
 It is as though we treat time more like [Tribbles](http://en.wikipedia.org/wiki/Tribble) and less like a scarce resource. We measure it loosely against the beginning of time and see no reason to be concerned that as an individual consumer we can only eat so much. 
 
-It's a lot like eating Pringles; for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret. So reach for your Mountain Dew friend and drown your snacking sorrows. Perhaps we can bail on the sorrow an snack on our time using a healthier treat. I know what you're thinking, "I love my 'B' movies and my sixteen hour stretches of [Bioshock Infinite](http://en.wikipedia.org/wiki/BioShock_Infinite) and [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) tourneys'." While I would agree that those things are a possible staple of a type of Nerd's life, I feel like I must share a truth with you: 
+It's a lot like eating Pringles; for some reason you can't stop consuming the salty round tricksters but then suddenly the can is empty and your eyes are open to the fact that each of the 300 unstoppable pops tasted less like a potato chip and more like regret. So you reach for your Mountain Dew friend and drown your snacking sorrows. Perhaps we can bail on the sorrow and snack on our time using a healthier treat. I know what you're thinking, "I love my 'B' movies and my sixteen hour stretches of [Bioshock Infinite](http://en.wikipedia.org/wiki/BioShock_Infinite) and [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) tourneys'." While I would agree that those things are a possible staple of a type of Nerd's life, I feel like I must share a truth with you: 
 
 >"The Nerd cannot live on 'game' alone."
 
@@ -40,7 +40,7 @@ It sounds cliche, I know, but it's a very applicable perspective. Putting off do
 
 I struggle with this idea of getting rid of ideas and just starting a project when it's conceived. I talk myself into and out of some projects that have potential. 
 
-In the case above, as we were talking I was downloading the SDK and had created a new repository for the game; I left our conversation motivated, inspired even. 
+In the case above, as we were talking I was downloading the SDK (Software Development Kit) and had created a new repository for the game; I left our conversation motivated, inspired even. 
 
 Will it become something? 
 I don't know.
