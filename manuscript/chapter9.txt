@@ -8,11 +8,11 @@ At least that's what I thought as my heart was still trying to recover from the 
 
 Do you remember? I was just coming back from an all night deployment were I thought I was being exceptional and doing everything I could to "succeed" at a job where I was not happy (mostly my own doing); physically destroying myself for the illusion of being passionate about building software.  
 
-It's strange how coming so close to running out of those little hearts in the upper right hand corner of life's screen makes you stop and consider the absurdity of a situation. What is it about a dirt nap that drives us to wake up and dig our way out? Why can't we have that clarity without risking mortality?
+It's strange how coming so close to running out of those little hearts in the upper right hand corner of life's screen makes you stop and consider the absurdity of a situation. What is it about a dirt nap that drives us to wake up and dig our way out? Why can't we have that clarity without risking death and dismemberment?
 
 **Life asks so much from each of us.** 
 
-We all go through our own trials and tribulations. We all have broken hearts and misaligned expectations. Despite all of that we all still have an opportunity to make a choice. I made that choice and I try continue to make that choice every day. 
+We all go through our own trials and tribulations. We all have broken hearts and misaligned expectations. Despite all of that we all still have an opportunity to make a choice. I made that choice and I continue to make that choice every day. 
 
 What is the choice? I'll get to that in a bit. Right now let me tell you how the story ends… 
 
@@ -24,9 +24,9 @@ I thought of the many, many times that I both put my life at risk as well as the
 
 What are the important things to you? Your friends, your kids, your spouse, cooking a great meal, going to church, writing code, traveling, making an impact?  
 
-I began biking to work shortly after we moved to Portland, OR. This was a whole new experience for me because you simply would never commute on a bike in Dallas,TX. The heat and the [Frogger](https://en.wikipedia.org/wiki/Frogger) like road conditions alone were more than enough to keep a pedestrian or bike off the road.
+I began biking to work shortly after we moved to Portland, OR. This was a whole new experience for me because you simply would never commute on a bike in Dallas ,TX. The heat and the [Frogger](https://en.wikipedia.org/wiki/Frogger) like road conditions alone were more than enough to keep a pedestrian or bike off the road.
 
-I had some amazing bike nerds from New Relic backing me up with my new 24 mile round trip adventure. As a side bar I truly feel that's what we should be doing throughout our life: encouraging each other in our uncertainties and sharing what we love to do and why we do it. 
+I had some amazing bike nerds from New Relic backing me up with my new 24 mile round trip adventure. As a side bar I truly feel that's what we should be doing throughout our life: encouraging each other in our uncertainties and sharing what we love to do. 
 
 **I hated it.**  Bottom line I was a terrible biker, never mind that there was absolutely no good reason for me to be biking to work given the multitude of commuting options available to me in the great bridge city. 
 
@@ -37,15 +37,15 @@ I continued to do it because:
 1. I was being encouraged by some amazing people
 2. I noticed something on the faces and in the hearts of the other bikers on my commute. 
 
-It was subtle initially but it really became clear when I was riding in a heavy rain. The commuters were smiling. Crazy, yes. Nutty, I know right?! They were riding on the same path I was on, in the same rain as well! So what was it? What made these people enjoy it so much?  
+It was subtle initially but it really became clear when I was riding in a heavy rain. The commuters were smiling. Crazy, yes. Nutty, I know right?! They were riding on the same path I was on and in the same rain! So what was it? What made these people enjoy it so much?  
 
 I continued riding and I purposefully paid more attention. It's going to sound cliché but **I intentionally made it about the journey and not the destination.**  It's like grinding wombats in a game to get the "crown of unsightly behavior" or something like it. We get so locked in on the prize we forget to make getting it fun.
 
-Riding down the [Springwater Corridor](https://en.wikipedia.org/wiki/Springwater_Corridor) there were expansive fields of flowers that looked like a freshly painted Monet. There was the Willamette river and the "eights" filled with rowers sliding along the river as if they were on glass.  There were homeless camps were I took the chance to sit down with some amazing folks and chat about life in Oregon. There were dear that raced down the train track with me and an amusement park where the cheers of a hundred voices made me ride faster as if they were cheering me on! 
+Riding down the [Springwater Corridor](https://en.wikipedia.org/wiki/Springwater_Corridor) there were expansive fields of flowers that looked like a freshly painted Monet. There was the Willamette river and the "eights" or boats filled with rowers sliding along the river as if they were on glass.  There were homeless camps were I took the chance to sit down with some amazing folks and chat about life in Oregon. There were deer that raced down the train track with me and an amusement park where the cheers of a hundred voices made me ride faster as if they were cheering me on! 
 
 There was beauty everywhere and a million experiences to be had and all I had to do was stop and smell the metaphorical roses.  
 
-Then it happened. I had a smile on my face. Was it a touchy feely moment? Not at all. It happened when I caught a light rail track with my front wheel and I flew over my handlebars. I was laying on my back smiling thinking about how I now understand why the signs with the guy falling off the bike were not really that funny after all. 
+Then it happened. I had a smile on my face. Was it a touchy feely moment? Not at all. It happened when I caught a light rail track with my front wheel and I flew over my handlebars. I was laying on my back thinking about how I now understand why the signs with the guy falling off the bike were not really that funny after all. 
 
 Then it hit me. **I smile when I write code!** It turns out that when you are genuinely passionate about something two very interesting things happen:
 
@@ -76,17 +76,17 @@ I have six beautiful children.  Each one is unique.  My wife and I have put all 
 
 My son **Caden** (11 years) loves to program, play music and read.
 
-My son **Jonah** (9 years) loves hardware, soldering and builds IOT stuff.
+My son **Jonah** (9 years) loves hardware, soldering and builds on the IoT (Internet of Things).
 
-My son **Levi** (7 years) loves to build things and structures with Legos or any other materials he can find.
+My son **Levi** (7 years) loves to build things with Legos or any other materials he can find.
 
 My son **Dylan** (5 years) loves to adventure in the wilderness, find materials and build weapons and tools with them
 
 My daughter **Ruthie** (3 years) loves to paint and solder with me
 
-My daughter **Avajoy** (2 years) loves to be a mad scientist and test out everything (especially her parents).
+My daughter **AvaJoy** (2 years) loves to be a mad scientist and test out everything (especially her parents).
 
-I've tried to be the same dad and they've had the same amazing mom - so why the difference in passions? Because over time despite what we have taught, others people in their lives, the things they read and experience has created a whole new creativity virus in them.  Without humanity's legacy of creativity and others before us having the courage to share what they love with the world we'd be challenged with the additional burden of cutting new paths. As my son pointed out using a frozen sweetened flavored bovine secretion as an example, "it would really be hard to live on earth and not be creative."
+I've tried to be the same dad and they've had the same amazing mom - so why the difference in passions? Because over time, despite what we have taught and other people's impact in their lives, the things they read and experience has created a whole new creativity virus in them.  Without humanity's legacy of creativity and others before us having the courage to share what they love with the world we'd be challenged with the additional burden of cutting new paths. As my son pointed out using a frozen sweetened flavored bovine secretion (ice cream) as an example, "it would really be hard to live on earth and not be creative."
 
 Do you smile when you're building stuff or writing code (smiles on the inside count too)?
 
@@ -94,11 +94,9 @@ Do you want to share your latest hack with your kids, friends or spouse?
 
 When was the last time your heart raced when you were on the cusp of solving a really hard problem?
 
-I like to try to stand by a principle that came to me when I was looking in the mirror one day:
-
 **Ripples not wrinkles.**
 
-At the end of your life you'll look back and see the handful of decisions that have changed the course of your life and the lives of others around you. It's like throwing a stone in a pond.  These are your "ripples" - the things you did that genuinely made an impact on something or someone. The hope is that your have more ripples than you do wrinkles.
+At the end of your life you'll look back and see the handful of decisions that have changed the course of your life and the lives of others around you. It's like throwing a stone in a pond.  These are your "ripples" - the things you did that genuinely made an impact on something or someone. The hope is that you have more ripples than you do wrinkles.
 
 Do you remember that choice I was eluding to earlier?  We all get to make it every day. This is the same choice that people like [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace), [Rear Admiral Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper#UNIVAC), [Markus Persson](https://en.wikipedia.org/wiki/Markus_Persson), [Jonathan Gillette a.k.a._why the lucky stiff](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) and so many more before us have made. 
 
@@ -108,13 +106,13 @@ No, what I am referring to is a choice to find, share and do what you love to do
 
 Find what you love to do, share it with others and you will have achieved **Nerd Life Balance**. 
 
-There is a philosophy in software development around sharing.  It's called open source software (OSS). There's nothing magical about it other than the fact that this simple idea can be tremendously powerful. It is meant to be a collaborative effort, where people work on the source collectively as a community and share it openly with the world. Think of it in terms of the wisdom of the masses; where there is something to be done and it can not only get done faster with a group of people but it can get done "better." We live in a time where there is so little friction to sharing things that some people become over night, unintentional celebrities. Some of the shared content has very little use while other content forms the very foundations of the internet - like a good cat video montage. 
+There is a philosophy in software development around sharing.  It's called open source software (OSS). There's nothing magical about it other than the fact that this simple idea can be tremendously powerful. It is meant to be a collaborative effort, where people work on the source collectively as a community and share it openly with the world. Think of it in terms of the wisdom of the masses; where there is something to be done, and it can not only get done faster with a group of people, but it can get done "better." We live in a time where there is so little friction to sharing things that some people become over night, unintentional celebrities. Some of the shared content has very little use while other content forms the very foundations of the internet - like a good cat video montage. 
 
 I've noticed a recent shift in things that I think is a cultural renaissance. More and more kids are posting videos and content on hacking the internet of things. They are talking more about making games rather than playing them. They are actively becoming makers and creators and walking away from being just users. 
 
-We have a rare opportunity to make a difference and an impact that will change things for future generations of makers. We can choose to build things, experience life and the things we love alone or we can choose to open source our life. It's just a choice followed up by an action.
+We have a rare opportunity to make a difference and an impact that will change things for future generations of makers. We can choose to build things, experience life and the things we love alone or we can choose to open source our life. It's a choice followed up by an action.
 
-I know it's hard to belive. You might be thinking: "Can it really be that simple?" or "Can we collectively come together and make an impact on our families, friends and this fantastically crazy landscape we call our home?" I think we can. I know we can. All we have to do is start sharing the things we love with those we love. Make a difference with the time you have. Make an impact and share your individual creativity with everyone! Make something and share it.
+I know it's hard to believe. You might be thinking: "Can it really be that simple?", or "Can we collectively come together and make an impact on our families, friends and this fantastically crazy landscape we call our home?" I think we can. I know we can. All we have to do is start sharing the things we love with those we love. Make a difference with the time you have. Make an impact and share your individual creativity with everyone! Make something and share it.
 
 OPEN SOURCE YOUR LIFE
 ----
