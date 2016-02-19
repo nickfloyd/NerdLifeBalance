@@ -77,9 +77,9 @@ A> *The retailer Costco sells more than 43 million packages of toilet paper ever
 Planning is good. It helps us avoid things like project bloat, confusion and give us a general direction to head in. A few years back I began a project with my kids. It was a "zipline." The problems we were trying to solve were simple:
 
 1. Have a faster way to get from the house to a trail head. At the time we had a really big yard and my kids legs are short.
-2. Build something fun and safe for the whole family to enjoy
+2. Build something fun and safe for the family to enjoy
 
-So, like most projects we do together we all sat down and began to plan. We were drawing up plans and calculating for tension and sag. About 5 minutes I lost my two year old, an hour into it my four year old dropped out because of boredom, another hour I lost the five year old to "chores" (interesting how boredom can be a motivator), and finally roughly 30 minutes later my 7 and 9 year olds stopped the "planning" with one simple question: "Why are we doing this? It doesn't seem like we're actually getting anything done."
+So, like most projects we do together we all sat down and began to plan. We were drawing up plans and calculating for tension and sag. About 5 minutes I lost my two-year old, an hour into it my four-year old dropped out because of boredom, another hour I lost the five-year old to "chores" (interesting how boredom can be a motivator), and finally roughly 30 minutes later my 7 and 9 year olds stopped the "planning" with one simple question: "Why are we doing this? It doesn't seem like we're actually getting anything done."
 
 Then it hit me: When you gold plate everything you end up with absolutely nothing. We… I was gold plating the plan. Two years later we still had no zip-line until one day I see my now 2 years older kid spin by me in a flurry with one of his belts. Past incidents had taught me to investigate, so I followed him out the door. There is was in all of its glory, a makeshift zipline. They had found some old tension cable that I had from another project and pulled it between two trees. As he raced down the line, belt in hand, I realized that it's not failure when you plant seeds. Two years later he was inspired, using his own design, to build what I failed to plan. For all you parents, take opportunities to dream big with your kids because eventually they will make new, better dreams out of that which we thought was impossible. Just try to time box the conversation so that you don't gold plate your way into a two-year delay.
 
@@ -134,7 +134,7 @@ Being at work does not throw a life switch nor does being home involve throwing 
 
 This idea is often misunderstood as: "you're saying think about work all the time" or "I should bring work home and push other stuff to the side?" Not at all! I'm simply pointing out that your inner nerd components, whether it's code, bikes, writing, weight lifting or whatever, are part of you; they should be expressed and shared. It will inherently be part of what you love to do and talk about.
 
-Just like a coin has two functional sides in order to be valid currency, we also have these sides as "nerds" that we need to validate as our life currency - find out what your currencies are, share them and watch the excitement spread like wildfire.
+Just like a coin has two functional sides to be valid currency, we also have these sides as "nerds" that we need to validate as our life currency - find out what your currencies are, share them and watch the excitement spread like wildfire.
 
 The point is that we can easily miss the whole picture by trying to be a quantum person. Try treating work and life more like Velcro and less like sand paper. You might find that you have a lot to learn from your family and friends.
 
@@ -160,7 +160,7 @@ A> *"Frank Abagnale began his career in fraud at age 15. His known impersonation
 
 # The Pain Of Sand
 
-You're on a beach, the sun is out and the waves are crashing. It's a beautiful day. You build sand castles with the kiddos and when you're done you decide to go for a quick run. Halfway through your run you realize you have several grains of sand in your britches and all of the running and rubbing has caused you a seriously painful rash.
+You're on a beach, the sun is out and the waves are crashing. It's a beautiful day. You build sand castles with the kids and when you're done you decide to go for a quick run. Halfway through your run you realize you have several grains of sand in your britches and all of the running and rubbing has caused you a seriously painful rash.
 
 One or two grains of sand in your life can quickly become a painfully searing rash. Most likely we spend more time in the environment of our craft than we do sleeping. If your work bench is in disarray, your developer IDE settings work against you, your office layout makes you stumble or if your home school setup causes your eye to twitch rather than spend time teaching you might have a problem.
 
@@ -233,7 +233,7 @@ The fact is that most of us have crossed paths with this at one time or another.
 
 A few years back I was building an epic sandbox for my kids in our backyard in Texas. Texas has a very unique soil, some call it clay I call it brimstone. Part of the project required that I get a 2 1/4 PVC pipe and hammer it into the ground. I didn't have a sledge-hammer but I did have a 40lb dumbbell that I could swing like one. 
 
-You might have guessed that it did not go well. My final swing slightly missed the pipe and with indiscriminate justice I severed an inch off of my right index finger and severely damaged my right middle finger as well. In the following weeks I soon realized that I was going to have to relearn how to type, how to grip as well as many other things I had simply taken for granted. This took a toll on me because I thought that I had lost the ability to do what I felt I was designed to do. My tools felt broken and I felt lost. Fortunately I had (and still have) an amazing wife and group of scrappy kids to support me and take me through re-imagining what I already knew - that it was going to be OK and I will just write software a little different now.
+You might have guessed that it did not go well. My last swing slightly missed the pipe and with indiscriminate justice I severed an inch off of my right index finger and severely damaged my right middle finger as well. In the following weeks I soon realized that I was going to have to relearn how to type, how to grip as well as many other things I had simply taken for granted. This took a toll on me because I thought that I had lost the ability to do what I felt I was designed to do. My tools felt broken and I felt lost. Fortunately I had (and still have) an amazing wife and group of scrappy kids to support me and take me through re-imagining what I already knew - that it was going to be OK and I will just write software a little different now.
 
 There are many out there that do not have a support system. If you see your coworker or friend struggling, instead of ignoring the anguish on their face reach out to them and ask them how they are doing. I'm not talking about the hollow "Hey how's it going?" Let me give you a booster for conversation since many of us might be introverts:
 

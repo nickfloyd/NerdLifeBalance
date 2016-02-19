@@ -10,7 +10,7 @@ One of the most exciting aspects of our lives is the unknown.  You know, where t
 
 The fear or acceptance of the unknown is powerful.  It will either motivate you or tear you apart.  
 
-My daughter, 3 years old at the time, approached me and asked if she could "maker" something - she called it that because when we don't know what project to do we often say "be a 'maker' first and let the project worry about itself."  She knew her four brothers loved building and breaking stuff, it was only a matter of time before she would be sitting at my desk sorting through bread boards and solder, wanting to make something.
+My daughter, three years old at the time, approached me and asked if she could "maker" something - she called it that because when we don't know what project to do we often say "be a 'maker' first and let the project worry about itself."  She knew her four brothers loved building and breaking stuff, it was only a matter of time before she would be sitting at my desk sorting through bread boards and solder, wanting to make something.
 
 Let me set the stage a bit before I continue.  All of the kids in my house learn to solder, use tools and work with software starting at a really early age. This tradition of cutting one's "maker" teeth early came about when I sat down at my desk one day and there was a stack of toys sitting on my desk.  Various electronics, talking stuffed animals and even a laptop (not even sure where that came from) littered my maker shrine. In all honesty my desk usually looks like a Radio Shack threw up on it but I knew things had finally gone too far.
 
@@ -30,9 +30,9 @@ My wife smirked at my irresistible nerd charm and I knew exactly where she was a
 
 She was of course referring to "Give a person a fish and feed them for a day, teach them to fish and feed them for a life time." and she was right.  My expectation was that they would simply inherit the mad hacking skills from me and we would have a house full of brilliant minds running around doing science.  Additionally, I had this ache in the back of my head that things would break and it would take "longer" to get things done. This was, of course, my expectation trying to override who I knew I needed to be.
 
-Just then my four year old came around the corner with another toy in tow as if to say "hey dad here's an opportunity to apply what you just learned." I took him by the hand and said, "Kiddo, today you're going to solder this back together." The kiddos now "repair" their own toys.  Does it always work?  Not a chance! Does it end up breaking more things? Sometimes.  Are my kids makers?  You'd better believe it!
+Just then my four-year old came around the corner with another toy in tow as if to say "hey dad here's an opportunity to apply what you just learned." I took him by the hand and said, "Kiddo, today you're going to solder this back together." The kids now "repair" their own toys.  Does it always work?  Not a chance! Does it end up breaking more things? Sometimes.  Are my kids makers?  You'd better believe it!
 
-We can either continue to assume our friends and family have nothing to learn from us and continue to be the person they call to fix thier stuff, or we can teach them to fish. 
+We can either continue to assume our friends and family have nothing to learn from us and continue to be the person they call to fix their stuff, or we can teach them to fish. 
 
 Now back to my little girl.  She had seen her brothers wield the amazing smoking utensil, otherwise known as the soldering iron, and she did not want to have anything to do with it.  She had firmly established an expectation that she would get hurt by it and rooted an assumption in her amazing mind that she would not like to use it at all.
 
@@ -54,7 +54,7 @@ Kingdoms rise and fall because of expectations and assumptions. Billions of doll
 
 Ah 3D printing. Now that 3D printers are getting to be affordable they have begun find their ways into both the "technical" and non-technical households. Kickstarter is filled with manufacturers trying their hand at the 3D printer consumer market.  Avoiding the plethora of Kickstarter clones we got a [PrintrBot Simple Metal kit](http://en.wikipedia.org/wiki/Printrbot). When we got the kit my kids, true to form, responded with "cool what are we going to make now?!" After stating that it was a 3D printer they seemed unimpressed so we jaunted over to YouTube and watched a few time laps videos of 3D prints. They still seemed a bit unclear on what it was all about.
 
-Fortunately, I had five enthusiastic kiddos ready to put together the puzzle of a thousand pieces. To set a picture upfront, yes we lost some pieces (that was "expected") but they were easy to replace and well worth the experience of working on a project together.
+Fortunately, I had five enthusiastic kids ready to put together the puzzle of a thousand pieces. To set a picture upfront, yes we lost some pieces (that was "expected") but they were easy to replace and well worth the experience of working on a project together.
 
 Once we finished constructing the 3-axis beast we all became intrigued.  Admittedly I didn't even know what to expect. One of the first things you do after building the printer is calibrate it using a little square model. After sorting through a walk through on getting setup the smell of PLA filament began to fill the room (it smelled a little like waffles) as the extruder started to heat up. Then it began.  The printer was shifting quickly on all 3-axis' and it was nothing short of mesmerizing!
 

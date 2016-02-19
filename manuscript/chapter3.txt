@@ -89,9 +89,9 @@ Justification is simply another way to defer dealing with something else. The fa
 
 Do you believe we have a tendency to lie to ourselves? I do. If we could more purposely use what we have, it would keep us from insanity driven behaviors like compartmentalization and time paralysis.
 
-When we take chunks of things and stick them in compartments the space between those compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. Often my kids are that perspective. Children show this amazing ability to see past all the cruft we as "seasoned" humans tend to put on our lives. Our mindset of "you cannot" or "you should not" become their "why not." 
+When we take chunks of things and stick them in compartments the space between those compartments is lost. Sometimes when I have stared at broken bit of code or problem for a while I need a new perspective. Often my kids are that perspective. Children show this amazing ability to see past all the cruft we as "seasoned" humans tend to put on our lives. Our mindset of "you cannot" or "you should not" become their "why not." 
 
-I was working on an application that cached some pages. Naturally, the challenge I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue off and on for about a month until one day I came home and my seven year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - sharing hard problems for perspective). He then replied with a statement that shattered my little developer world:
+I was working on an application that cached some pages. Naturally, the challenge I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue off and on for about a month until one day I came home and my seven-year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - sharing hard problems for perspective). He then replied with a statement that shattered my little developer world:
 
 >"If it's causing you so many problems why don't you just stop using it?"
 
