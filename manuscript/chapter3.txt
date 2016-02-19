@@ -81,19 +81,19 @@ I think some of the greatest lies we could tell ourselves is that we'll do x lat
 
 I pretty much fail this test every time I take it. Just recently I discovered something really important. So important that it has completely changed the way I communicate and the way I think. It is something I am still practicing and still getting wrong. Here's what I discovered:
 
->"No is a complete sentence just like yes is..."
+>"No is a complete sentence."
 
-Opting out of things because it was simply something I just could not do has always been a really difficult thing for me. The fact is there are just somethings that we simply cannot do. Either they just do not fit our passion or they do not align with our priorities; whatever the case, a simple "No" can go a really long way. Think about it like this, when we try to justify our actions it can come across to most people like Hollywood trying to convince the technically savvy to accept their latest Hacker disaster-piece. It sounds and feels ridiculous.
+Saying no to things I simply cannot do is hard. The fact is there are just some things that we simply cannot do. Either they just do not fit our passion or they do not align with our priorities; whatever the case, a simple "No" can go a really long way. When we justify our actions it can come across to most people like Hollywood trying to convince the technically savvy to accept their latest Hacker disaster-piece. It sounds and feels ridiculous.
 
 Justification is simply another way to defer dealing with something else. The fact is that time is finite and our consumption of that construct is paramount. How we consume it is critical. It's like running around in [Half-Life](http://en.wikipedia.org/wiki/Half-Life_%28video_game%29) and using up all the health and suit chargers before trying to down the boss - the chargers will be used up and you'll have nothing left for the second wave.
 
-Do you believe we have a tendency to lie to ourselves? I do. If we could better, more purposely use what we have, it would keep us from insanity driven behaviors like compartmentalization and time paralysis.
+Do you believe we have a tendency to lie to ourselves? I do. If we could more purposely use what we have, it would keep us from insanity driven behaviors like compartmentalization and time paralysis.
 
-When we take chunks of things and stick them in compartments the space between those compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. Often my kids are that perspective. Children show this amazing ability to see past all of the cruft we as "seasoned" humans tend to put on our lives. Our mindset of "you cannot" or "you should not" become their "why not." 
+When we take chunks of things and stick them in compartments the space between those compartments is lost. Sometimes when I have been staring at broken bit of code or problem for a while I need a new perspective. Often my kids are that perspective. Children show this amazing ability to see past all the cruft we as "seasoned" humans tend to put on our lives. Our mindset of "you cannot" or "you should not" become their "why not." 
 
 I was working on an application that cached some pages. Naturally, the challenge I was facing was around [cache invalidation](http://en.wikipedia.org/wiki/Cache_invalidation). I had been banging my head on this issue off and on for about a month until one day I came home and my seven year old asked me what was on my mind. I told him what the problem was (we do that sort of thing in my household - sharing hard problems for perspective). He then replied with a statement that shattered my little developer world:
 
->"If it's giving you so many problems why don't you just stop using it?"
+>"If it's causing you so many problems why don't you just stop using it?"
 
 In an instant my son single-handedly solved one of the [hardest problems in computer science](http://martinfowler.com/bliki/TwoHardThings.html). With his suggestion in mind I removed the code and all was well. 
 
