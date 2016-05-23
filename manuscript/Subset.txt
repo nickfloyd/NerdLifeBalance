@@ -8,6 +8,8 @@ chapter5.txt
 chapter6.txt
 chapter7.txt
 chapter8.txt
+chapter9.txt
 project1.txt
 project2.txt
 project3.txt
+Contributors.txt
