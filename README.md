@@ -2,6 +2,13 @@
 ##The Art of Open Sourcing Your Life
 ===========================
 
+This project is currently [published on Leanpub](https://leanpub.com/nerdlifebalance) for free (with option to buy), [published on Create Space](https://www.createspace.com/6059978) as a printed book and on Amazon as a [print](http://www.amazon.com/Nerd-Life-Balance-Open-Sourcing/dp/0997301716) and [ebook](https://www.amazon.com/Nerd-Life-Balance-Open-Sourcing-ebook/dp/B01BJN9ZXE).
+
+Please consider [contributing](https://github.com/nickfloyd/NerdLifeBalance/wiki) to the project and making an impact in someone's work life awesome!
+
+**We do this because life is awesome when this thing called "work" becomes another way of expressing the passions in your life.**
+
+
 #About
 --------------------
 
