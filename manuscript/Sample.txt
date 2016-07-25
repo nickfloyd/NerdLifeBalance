@@ -1,3 +1,4 @@
+Foreword.txt
 Preface.txt
 HowTo.txt
 chapter1.txt
