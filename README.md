@@ -8,6 +8,7 @@ Please consider [contributing](https://github.com/nickfloyd/NerdLifeBalance/wiki
 
 **We do this because life is awesome when this thing called "work" becomes another way of expressing the passions in your life.**
 
+Open sourcing a book might seem odd but I feel like this approach to "hive-writting" can really make a good work way more amazing that what the original author (me) was able to do alone. I still reserve the right to add or remove content to keep the book congruent but there is soo much more to be said and known - the only way that will happen is through **YOU**!
 
 #About
 --------------------
