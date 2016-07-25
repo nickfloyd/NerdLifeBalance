@@ -1,4 +1,5 @@
 # Contributors
 
-Nick Floyd
-Rebecca Floyd
+[Nick Floyd](http://archcoder.com/)  
+Rebecca Floyd  
+[Scott Hanselman](http://hanselman.com)  
