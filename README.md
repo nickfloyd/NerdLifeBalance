@@ -10,7 +10,7 @@ Please consider [contributing](https://github.com/nickfloyd/NerdLifeBalance/wiki
 
 Open sourcing a book might seem odd but I feel like this approach to "hive-writting" can really make a good work way more amazing that what the original author (me) was able to do alone. I still reserve the right to add or remove content to keep the book congruent but there is soo much more to be said and known - the only way that will happen is through **YOU**!
 
-#About
+About
 --------------------
 
 Getting things done is hard. Getting things done without completely destroying our work-life balance is really hard. The idea has traditionally been that if we focus on the tasks and work we will inevitably achieve our goals and everyone will be happy. Most of us can remember working some really long weeks and hitting the "goal" but not feeling very happy. It doesn't have to be this way.
@@ -44,10 +44,10 @@ You see, life is awesome when this thing called "work" becomes another way of ex
 * Intended to be read but never shared
 * Just for "computer" nerds but rather for all nerd-kind
 
-#Guidelines for contributing
+Guidelines for contributing
 --------------------
 Please read the [guidelines for contributing](GUIDELINES_FOR_CONTRIBUTING.md) to make sure you and others have an amazing experience when giving back to OSS. 
 
-#License
+License
 --------------------
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Nerd Life Balance</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://leanpub.com/nerdlifebalance" property="cc:attributionName" rel="cc:attributionURL">Nick Floyd</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nickfloyd/NerdLifeBalance" rel="dct:source">https://github.com/nickfloyd/NerdLifeBalance</a>.
