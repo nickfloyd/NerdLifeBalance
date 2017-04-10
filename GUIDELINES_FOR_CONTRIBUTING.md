@@ -2,14 +2,14 @@ Guidelines for contributing
 ===========================
 
 
-##Requirements / Setup
+Requirements / Setup
 --------------------
 * A decent text editor (for text content) 
 * Basic knowledge of [Markdown] for formatting your content
 * A genuine excitement to open source your life and help others do the same
 
 
-##Contributor Code of Conduct
+Contributor Code of Conduct
 --------------------
 As contributors and maintainers of this project, and in the interest of fostering an open and welcoming community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities.
 
@@ -32,7 +32,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 This Code of Conduct is adapted from the [Contributor Covenant, version 1.2.0](http://contributor-covenant.org/version/1/2/0/)
 
 
-##Pull requests
+Pull requests
 --------------------
 1. [Fork the book](https://help.github.com/articles/fork-a-repo)
 2. Add awesome content or fix an [issue](https://github.com/nickfloyd/NerdLifeBalance/issues) 
@@ -44,12 +44,12 @@ You are welcome to send pull requests to me, in fact I encourage it - by doing s
 
 Know that as the source owner I am obligated to make sure that the stories and content in the book are consistent and keep the integrity of the book intact. So if you submit a PR and it gets edited or not accepted please look at it just as though you were submitting a PR to any other open source project where the owners have to make sure the code fits the design and architecture.
 
-##Creating Issues
+Creating Issues
 --------------------
 
 This project uses [GitHub issues](https://github.com/nickfloyd/NerdLifeBalance/issues) to help me sort our and prioritize things that need to get done. If you come across anything in the book that feels "off" and simply don't have time to do a pull request please consider creating an issue!
 
-##Contributing Content
+Contributing Content
 --------------------
 
 [Creating & editing chapters](https://github.com/nickfloyd/NerdLifeBalance/wiki/Creating-%26-editing-chapters)
@@ -61,7 +61,7 @@ This project uses [GitHub issues](https://github.com/nickfloyd/NerdLifeBalance/i
 [Creating projects](https://github.com/nickfloyd/NerdLifeBalance/wiki/Creating-projects)
 
 
-##Royalties
+Royalties
 --------------------
 Most of us know that self publishing authors do not really get paid much at all (if anything) - that is the case and purpose with this book.  The intent is to not make money but rather to share and talk about things in our lives that are often avoided and assumed unchangeable. The book is currently [published on Leanpub](https://leanpub.com/nerdlifebalance) for free (with option to buy), [published on Create Space](https://www.createspace.com/6059978) as a printed book and on Amazon as a [print](http://www.amazon.com/Nerd-Life-Balance-Open-Sourcing/dp/0997301716) and [ebook](https://www.amazon.com/Nerd-Life-Balance-Open-Sourcing-ebook/dp/B01BJN9ZXE) - neither of which can be set to a "free" price. 
 
