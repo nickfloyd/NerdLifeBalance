@@ -1,5 +1,5 @@
-#Nerd Life Balance
-##The Art of Open Sourcing Your Life
+Nerd Life Balance:
+The Art of Open Sourcing Your Life
 ===========================
 
 This project is currently [published on Leanpub](https://leanpub.com/nerdlifebalance) for free (with option to buy), [published on Create Space](https://www.createspace.com/6059978) as a printed book and on Amazon as a [print](http://www.amazon.com/Nerd-Life-Balance-Open-Sourcing/dp/0997301716) and [ebook](https://www.amazon.com/Nerd-Life-Balance-Open-Sourcing-ebook/dp/B01BJN9ZXE).
